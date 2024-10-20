@@ -3,5 +3,5 @@
 
 #EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="sub",NAME="Indonesia",LANGUAGE="ID",AUTOSELECT=YES,URI="http://server2.ftpbd.net/FTP-2/English%20Movies/2023/Hypnotic%20%282023%29%201080p%20BluRay/Subs/rum.srt"
 
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=445460,CODECS="avc1.420015,mp4a.40.2",SUBTITLES="http://server2.ftpbd.net/FTP-2/English%20Movies/2023/Hypnotic%20%282023%29%201080p%20BluRay/Subs/rum.srt"
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=445460,CODECS="avc1.420015,mp4a.40.2",SUBTITLES="URI"
 http://server2.ftpbd.net/FTP-2/English%20Movies/2023/Hypnotic%20%282023%29%201080p%20BluRay/Hypnotic.2023.1080p.BluRay.x264.AAC5.1.mp4
