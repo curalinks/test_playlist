@@ -1,0 +1,2325 @@
+<SAMI>
+<HEAD>
+<TITLE>file</TITLE>
+<SAMIParam>
+  Metrics {time:ms;}
+  Spec {MSFT:1.0;}
+</SAMIParam>
+<STYLE TYPE="text/css">
+<!--
+  P { font-family: Arial; font-weight: normal; color: white; background-color: black; text-align: center; }
+  .ENUSCC { name: English; lang: en-US ; SAMIType: CC ; }
+-->
+</STYLE>
+</HEAD>
+<BODY>
+<-- Open play menu, choose Captions and Subtitles, On if available -->
+<-- Open tools menu, Security, Show local captions when present -->
+<SYNC Start=60901><P Class=ENUSCC>&quot;Akulah jalan menuju kota duka.&quot;</P></SYNC>
+<SYNC Start=64137><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=68842><P Class=ENUSCC>&quot;Akulah jalan menuju derita abadi.&quot;</P></SYNC>
+<SYNC Start=73714><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=73781><P Class=ENUSCC>&quot;Akulah jalan menuju diantara yang tersesat.&quot;</P></SYNC>
+<SYNC Start=77283><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=77350><P Class=ENUSCC>&quot;Sebelum diriku, tiada penciptaan.&quot;</P></SYNC>
+<SYNC Start=81889><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=81956><P Class=ENUSCC>&quot;Tapi itulah yang bertahan selamanya.&quot;</P></SYNC>
+<SYNC Start=85325><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=86927><P Class=ENUSCC>&quot;Seperti diriku!&quot;</P></SYNC>
+<SYNC Start=90831><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=90898><P Class=ENUSCC>&quot;Tinggalkan segala harapan<br>engkau yang akan masuk kemari.&quot;</P></SYNC>
+<SYNC Start=95268><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=99573><P Class=ENUSCC>Kau sekarang ada di hadirat...</P></SYNC>
+<SYNC Start=102208><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=102976><P Class=ENUSCC>Sang Raja jahanam!</P></SYNC>
+<SYNC Start=105679><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=125799><P Class=ENUSCC>Kau siap, John?</P></SYNC>
+<SYNC Start=127433><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=133841><P Class=ENUSCC>Ya.</P></SYNC>
+<SYNC Start=134875><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=177084><P Class=ENUSCC>Cepat! John Wick!</P></SYNC>
+<SYNC Start=178552><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=257765><P Class=ENUSCC>Tn. Wick.</P></SYNC>
+<SYNC Start=259398><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=261235><P Class=ENUSCC>Untuk apa engkau datang kemari?</P></SYNC>
+<SYNC Start=263302><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=271044><P Class=ENUSCC>Cincinku.</P></SYNC>
+<SYNC Start=272345><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=273947><P Class=ENUSCC>Kebebasanku.</P></SYNC>
+<SYNC Start=275448><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=278317><P Class=ENUSCC>Cincinmu telah hilang...</P></SYNC>
+<SYNC Start=280120><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=280187><P Class=ENUSCC>Seperti The Elder (Tetua) sebelum diriku.</P></SYNC>
+<SYNC Start=282022><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=283924><P Class=ENUSCC>Jika kau datang kemari mengira...</P></SYNC>
+<SYNC Start=285224><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=285225><P Class=ENUSCC>Bisa mengakhiri ini dengan membunuhku...</P></SYNC>
+<SYNC Start=287261><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=287326><P Class=ENUSCC>Maka kau salah.</P></SYNC>
+<SYNC Start=289029><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=290396><P Class=ENUSCC>Kematianku tidak akan mengubah hasil apa pun...</P></SYNC>
+<SYNC Start=293164><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=293165><P Class=ENUSCC>Seperti kau mengubah sifatmu.</P></SYNC>
+<SYNC Start=295068><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=296003><P Class=ENUSCC>Kita tidak bisa lari dari jati diri kita...</P></SYNC>
+<SYNC Start=299438><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=299505><P Class=ENUSCC>Dan tidak ada yang bisa lari dari The Table (Sang Meja).</P></SYNC>
+<SYNC Start=302308><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=303710><P Class=ENUSCC>Satu-satunya cara John Wick...</P></SYNC>
+<SYNC Start=305546><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=305612><P Class=ENUSCC>Bisa mendapat kebebasan atau<br>kedamaian, sekarang atau selamanya...</P></SYNC>
+<SYNC Start=309348><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=310616><P Class=ENUSCC>Hanya dalam kematian.</P></SYNC>
+<SYNC Start=312018><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=313987><P Class=ENUSCC>Aku tahu.</P></SYNC>
+<SYNC Start=315556><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=318659><P Class=ENUSCC>Aku takut kedatanganmu jauh-jauh kemari...</P></SYNC>
+<SYNC Start=321995><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=322763><P Class=ENUSCC>Sia-sia.</P></SYNC>
+<SYNC Start=323897><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=326133><P Class=ENUSCC>Ya...</P></SYNC>
+<SYNC Start=327400><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=331839><P Class=ENUSCC>Tidak juga.</P></SYNC>
+<SYNC Start=333073><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=383422><P Class=ENUSCC>Sang Manajer, tolong.</P></SYNC>
+<SYNC Start=385792><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=395335><P Class=ENUSCC>Ada Harbinger (Pertanda) datang kemari<br>untuk menemuimu, pak.</P></SYNC>
+<SYNC Start=398939><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=399940><P Class=ENUSCC>Ini pasti kesalahan.</P></SYNC>
+<SYNC Start=401875><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=401942><P Class=ENUSCC>Tidak ada kesalahan.</P></SYNC>
+<SYNC Start=403744><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=403810><P Class=ENUSCC>Atas perintah Marquis...</P></SYNC>
+<SYNC Start=405312><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=405379><P Class=ENUSCC>Vincent Bisset de Gramont...</P></SYNC>
+<SYNC Start=407814><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=407881><P Class=ENUSCC>Hotel ini telah dinajiskan.</P></SYNC>
+<SYNC Start=409883><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=421662><P Class=ENUSCC>Waktumu satu jam.</P></SYNC>
+<SYNC Start=423964><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=435742><P Class=ENUSCC>Dia menunggumu.</P></SYNC>
+<SYNC Start=437177><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=443417><P Class=ENUSCC>Bisakah mereka melakukan ini, pak?</P></SYNC>
+<SYNC Start=444952><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=445018><P Class=ENUSCC>Dekrit ini ditandatangani oleh 12 anggota The Table...</P></SYNC>
+<SYNC Start=448188><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=449389><P Class=ENUSCC>Memberikan Marquis...</P></SYNC>
+<SYNC Start=451358><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=451359><P Class=ENUSCC>Kekuatan &quot;Autem Imperator,&quot;<br>(Pemberi Perintah)</P></SYNC>
+<SYNC Start=453425><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=453426><P Class=ENUSCC>Artinya dia sekarang jadi hakim, juri dan...</P></SYNC>
+<SYNC Start=457998><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=461068><P Class=ENUSCC>Evakuasi hotel.</P></SYNC>
+<SYNC Start=462736><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=480654><P Class=ENUSCC>Kata terakhir Ned Kelly<br>saat sang algojo mengalungkan...</P></SYNC>
+<SYNC Start=483323><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=483390><P Class=ENUSCC>Jerat di sekitar lehernya...</P></SYNC>
+<SYNC Start=485491><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=486727><P Class=ENUSCC>&quot;Begitulah kehidupan,&quot;</P></SYNC>
+<SYNC Start=488028><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=488095><P Class=ENUSCC>&quot;Begitulah kehidupan.&quot;</P></SYNC>
+<SYNC Start=489495><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=489563><P Class=ENUSCC>Bisa kau bayangkan penerimaan,<br>pembangkangan?</P></SYNC>
+<SYNC Start=492699><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=492766><P Class=ENUSCC>Hari ini bukan hari kau akan mati.</P></SYNC>
+<SYNC Start=495501><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=496303><P Class=ENUSCC>Untuk itu, aku yakin.</P></SYNC>
+<SYNC Start=498071><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=498138><P Class=ENUSCC>Kau punya iman tidak tergoyahkan<br>seperti Daud, temanku.</P></SYNC>
+<SYNC Start=501508><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=501575><P Class=ENUSCC>Tapi kau tidak seharusnya di sini.</P></SYNC>
+<SYNC Start=503577><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=504277><P Class=ENUSCC>Ini tidak akan menyenangkan.</P></SYNC>
+<SYNC Start=506146><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=507781><P Class=ENUSCC>Begitulah kehidupan, pak.</P></SYNC>
+<SYNC Start=509750><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=537010><P Class=ENUSCC>Ayahku dulu berkata...</P></SYNC>
+<SYNC Start=539713><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=540447><P Class=ENUSCC>&quot;Caramu melakukan apa pun...&quot;</P></SYNC>
+<SYNC Start=542549><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=542616><P Class=ENUSCC>&quot;Adalah caramu melakukan segalanya.&quot;</P></SYNC>
+<SYNC Start=545685><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=545752><P Class=ENUSCC>Sebut itu aturan pertama dan<br>terakhir kehidupan.</P></SYNC>
+<SYNC Start=549022><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=552692><P Class=ENUSCC>Kau percaya pada peraturan...</P></SYNC>
+<SYNC Start=554294><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=557697><P Class=ENUSCC>Tn. Manajer?</P></SYNC>
+<SYNC Start=558999><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=561101><P Class=ENUSCC>Oh, aku percaya.</P></SYNC>
+<SYNC Start=562335><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=563737><P Class=ENUSCC>Dan juga konsekuensinya?</P></SYNC>
+<SYNC Start=565772><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=567542><P Class=ENUSCC>Tentu.</P></SYNC>
+<SYNC Start=568775><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=570877><P Class=ENUSCC>Dan kesempatan kedua.</P></SYNC>
+<SYNC Start=573280><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=573346><P Class=ENUSCC>Ah. Itulah perbedaan kita...</P></SYNC>
+<SYNC Start=577117><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=577184><P Class=ENUSCC>Kau dan aku.</P></SYNC>
+<SYNC Start=578351><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=581822><P Class=ENUSCC>Kesempatan kedua...</P></SYNC>
+<SYNC Start=583623><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=583690><P Class=ENUSCC>Merupakan perlindungan bagi orang gagal.</P></SYNC>
+<SYNC Start=586927><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=617190><P Class=ENUSCC>Mmm.</P></SYNC>
+<SYNC Start=618593><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=619626><P Class=ENUSCC>Ada anggota The Table...</P></SYNC>
+<SYNC Start=622062><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=622863><P Class=ENUSCC>Yang menyalahkan segala...</P></SYNC>
+<SYNC Start=624599><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=624664><P Class=ENUSCC>Kekejaman ke New York.</P></SYNC>
+<SYNC Start=627200><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=628735><P Class=ENUSCC>Mereka percaya kota ini...</P></SYNC>
+<SYNC Start=630804><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=633073><P Class=ENUSCC>The Table telah memanjakan...</P></SYNC>
+<SYNC Start=635408><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=635475><P Class=ENUSCC>Tempat brengsek ini terlalu lama.</P></SYNC>
+<SYNC Start=637043><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=638211><P Class=ENUSCC>Dan lihat yang menimpa kita.</P></SYNC>
+<SYNC Start=640113><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=643850><P Class=ENUSCC>Aku menembak dia.</P></SYNC>
+<SYNC Start=645352><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=645418><P Class=ENUSCC>Namun dia masih hidup...</P></SYNC>
+<SYNC Start=647721><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=648688><P Class=ENUSCC>Mengotori segala yang dia sentuh.</P></SYNC>
+<SYNC Start=650456><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=650457><P Class=ENUSCC>Marquis, dengan hormat,<br>hotelku...</P></SYNC>
+<SYNC Start=653226><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=653293><P Class=ENUSCC>Hotelmu?</P></SYNC>
+<SYNC Start=654861><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=656897><P Class=ENUSCC>Izinkan aku bicara, pak?</P></SYNC>
+<SYNC Start=659799><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=667707><P Class=ENUSCC>Silahkan.</P></SYNC>
+<SYNC Start=668975><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=671978><P Class=ENUSCC>The Continental dan manajemennya...</P></SYNC>
+<SYNC Start=674881><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=675616><P Class=ENUSCC>Merupakan pengingat...</P></SYNC>
+<SYNC Start=677652><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=677717><P Class=ENUSCC>Pada semua yang duduk di bawah The Table...</P></SYNC>
+<SYNC Start=679620><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=679686><P Class=ENUSCC>Bahwa tidak satu pun dari kita<br>berada di atas peraturan.</P></SYNC>
+<SYNC Start=682989><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=685560><P Class=ENUSCC>Namun di sinilah kita.</P></SYNC>
+<SYNC Start=687194><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=687894><P Class=ENUSCC>Pak, Tn. Wick...</P></SYNC>
+<SYNC Start=689196><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=689262><P Class=ENUSCC>Kita tidak di sini karena John Wick!</P></SYNC>
+<SYNC Start=691731><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=696169><P Class=ENUSCC>Dia hanyalah wajah kegagalanmu, Tn. Manajer.</P></SYNC>
+<SYNC Start=699372><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=704444><P Class=ENUSCC>Pasir dalam wadah itu...</P></SYNC>
+<SYNC Start=706012><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=706079><P Class=ENUSCC>Merupakan gema sisa kesabaranku.</P></SYNC>
+<SYNC Start=710217><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=740180><P Class=ENUSCC>Kau bukan lagi New York.</P></SYNC>
+<SYNC Start=742148><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=745553><P Class=ENUSCC>Kau bukan apa pun.</P></SYNC>
+<SYNC Start=746920><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=749456><P Class=ENUSCC>Kau &quot;Excommunicado.&quot;<br>(Dikucilkan)</P></SYNC>
+<SYNC Start=751591><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=753493><P Class=ENUSCC>Dengan begitu...</P></SYNC>
+<SYNC Start=754728><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=757397><P Class=ENUSCC>Kau tidak lagi membutuhkan<br>layanan pramutamu milikmu.</P></SYNC>
+<SYNC Start=760467><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=786761><P Class=ENUSCC>Ini suatu kehormatan...</P></SYNC>
+<SYNC Start=789396><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=790531><P Class=ENUSCC>Temanku.</P></SYNC>
+<SYNC Start=791898><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=801742><P Class=ENUSCC>Seharusnya aku yang mati.</P></SYNC>
+<SYNC Start=803109><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=805245><P Class=ENUSCC>Ya.</P></SYNC>
+<SYNC Start=806279><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=807480><P Class=ENUSCC>Namun tidak.</P></SYNC>
+<SYNC Start=808582><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=809684><P Class=ENUSCC>Pikirkan mengapa begitu...</P></SYNC>
+<SYNC Start=811418><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=811484><P Class=ENUSCC>Dan mungkin satu dari kita akan mendapat<br>keuntungan dari obrolan ini.</P></SYNC>
+<SYNC Start=815088><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=818952><P Class=ENUSCC>Bawa Caine padaku.</P></SYNC>
+<SYNC Start=821806><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=909182><P Class=ENUSCC>Aku punya satu nama untukmu.</P></SYNC>
+<SYNC Start=910584><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=911519><P Class=ENUSCC>Dengan hormat...</P></SYNC>
+<SYNC Start=912919><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=913754><P Class=ENUSCC>Aku sudah pensiun.</P></SYNC>
+<SYNC Start=915021><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=915756><P Class=ENUSCC>Selesai. Rampung.</P></SYNC>
+<SYNC Start=917157><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=918826><P Class=ENUSCC>Aku tidak setuju.</P></SYNC>
+<SYNC Start=920160><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=921161><P Class=ENUSCC>Aku tidak ada gunanya untukmu.</P></SYNC>
+<SYNC Start=922630><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=924532><P Class=ENUSCC>Atau The Table.</P></SYNC>
+<SYNC Start=925965><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=926880><P Class=ENUSCC>Itu bukan keputusanmu.</P></SYNC>
+<SYNC Start=929436><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=935341><P Class=ENUSCC>Kurasa kau harus mencari orang lain.</P></SYNC>
+<SYNC Start=937444><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=942182><P Class=ENUSCC>Kau datang mendekat.</P></SYNC>
+<SYNC Start=943483><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=944951><P Class=ENUSCC>Hari ini.</P></SYNC>
+<SYNC Start=946186><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=946854><P Class=ENUSCC>Terlalu dekat.</P></SYNC>
+<SYNC Start=948221><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=948288><P Class=ENUSCC>Kau menempatkan putrimu dalam bahaya.</P></SYNC>
+<SYNC Start=950156><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=963102><P Class=ENUSCC>Aku menyadari kesepakatan yang kubuat.</P></SYNC>
+<SYNC Start=964538><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=970205><P Class=ENUSCC>WICK</P></SYNC>
+<SYNC Start=973587><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=976416><P Class=ENUSCC>Kuyakin seorang mantan rekan.</P></SYNC>
+<SYNC Start=979052><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=983022><P Class=ENUSCC>Dulunya.</P></SYNC>
+<SYNC Start=984290><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=987994><P Class=ENUSCC>Dan seorang teman.</P></SYNC>
+<SYNC Start=989229><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=992398><P Class=ENUSCC>Hmm.</P></SYNC>
+<SYNC Start=993399><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=996202><P Class=ENUSCC>Kesepakatan dengan The Table<br>tetap sama...</P></SYNC>
+<SYNC Start=999072><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1000206><P Class=ENUSCC>Kami memberimu nama...</P></SYNC>
+<SYNC Start=1001976><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1002041><P Class=ENUSCC>Kau beri kami nyawa.</P></SYNC>
+<SYNC Start=1003409><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1003777><P Class=ENUSCC>Atau...</P></SYNC>
+<SYNC Start=1004778><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1006012><P Class=ENUSCC>Kami rebut nyawa itu.</P></SYNC>
+<SYNC Start=1007247><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1027968><P Class=ENUSCC>Aku akan melayani.</P></SYNC>
+<SYNC Start=1029435><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1030336><P Class=ENUSCC>Aku siap melayanimu.</P></SYNC>
+<SYNC Start=1032272><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1035776><P Class=ENUSCC>Sempurna!</P></SYNC>
+<SYNC Start=1037210><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1041849><P Class=ENUSCC>Kuyakin kau punya gagasan<br>kemungkinan keberadaan dia?</P></SYNC>
+<SYNC Start=1044552><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1048054><P Class=ENUSCC>John Wick punya sedikit teman<br>tersisa di dunia ini...</P></SYNC>
+<SYNC Start=1051424><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1052091><P Class=ENUSCC>Dan jauh lebih sedikit yang bisa dia percayai...</P></SYNC>
+<SYNC Start=1054227><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1055029><P Class=ENUSCC>Dengan nyawanya.</P></SYNC>
+<SYNC Start=1056262><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1060466><P Class=ENUSCC>Teramat sangat bagus.</P></SYNC>
+<SYNC Start=1062101><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1080749><P Class=ENUSCC>HOTEL CONTINENTAL OSAKA</P></SYNC>
+<SYNC Start=1083015><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1111952><P Class=ENUSCC>Selamat datang di Continental Osaka.<br>Ada yang bisa kubantu?</P></SYNC>
+<SYNC Start=1115254><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1115321><P Class=ENUSCC>Ya, aku mau sewa kamar.</P></SYNC>
+<SYNC Start=1116690><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1120661><P Class=ENUSCC>Maaf, fasilitas kami tidak mengizinkan hewan.</P></SYNC>
+<SYNC Start=1123296><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1125099><P Class=ENUSCC>Hewan pendukung emosional.</P></SYNC>
+<SYNC Start=1126634><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1126700><P Class=ENUSCC>- Anjing itu hewan pendukung emosionalmu?<br>- Sebaliknya.</P></SYNC>
+<SYNC Start=1128569><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1128636><P Class=ENUSCC>Aku pendukung emosionalnya.<br>Bukankah begitu?</P></SYNC>
+<SYNC Start=1131538><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1137044><P Class=ENUSCC>Anjing itu harus tetap di kamarmu.</P></SYNC>
+<SYNC Start=1138344><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1142248><P Class=ENUSCC>Nikmati masamu menginap, pak.</P></SYNC>
+<SYNC Start=1143884><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1150609><P Class=ENUSCC>KONTRAK TERBUKA<br>JOHN WICK, $14 JUTA</P></SYNC>
+<SYNC Start=1153258><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1153259><P Class=ENUSCC>Lumayan.</P></SYNC>
+<SYNC Start=1154528><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1155395><P Class=ENUSCC>Lumayan juga.</P></SYNC>
+<SYNC Start=1156964><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1163869><P Class=ENUSCC>UANG DIPERLUKAN $50 JUTA<br>RUMAH PENSIUN $48,3 JUTA</P></SYNC>
+<SYNC Start=1169069><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1171477><P Class=ENUSCC>Ada anjing di lobiku.</P></SYNC>
+<SYNC Start=1173580><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1173647><P Class=ENUSCC>Hewan pendukung emosional.</P></SYNC>
+<SYNC Start=1175181><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1175248><P Class=ENUSCC>Tentu saja.</P></SYNC>
+<SYNC Start=1177250><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1177316><P Class=ENUSCC>Jadwal besok.<br>Tn. Suzuki jam 11:00</P></SYNC>
+<SYNC Start=1179753><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1179820><P Class=ENUSCC>Dan keluarga Tarasov<br>minta bertemu jam 2:00.</P></SYNC>
+<SYNC Start=1182355><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1182422><P Class=ENUSCC>Apa jam 8:00 ini?</P></SYNC>
+<SYNC Start=1184257><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1184323><P Class=ENUSCC>Makan malam bersama putrimu.</P></SYNC>
+<SYNC Start=1185559><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1185560><P Class=ENUSCC>Putrimu khawatir kau...</P></SYNC>
+<SYNC Start=1186793><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1186794><P Class=ENUSCC>Bekerja terlalu keras.</P></SYNC>
+<SYNC Start=1188261><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1189530><P Class=ENUSCC>Apa yang kulakukan hingga pantas mendapat...</P></SYNC>
+<SYNC Start=1191230><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1191297><P Class=ENUSCC>Anak yang begitu perhatian?</P></SYNC>
+<SYNC Start=1193701><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1193767><P Class=ENUSCC>- Kurasa karma baik.<br>- Benar.</P></SYNC>
+<SYNC Start=1197037><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1197104><P Class=ENUSCC>Bagaimana para tamu kita?</P></SYNC>
+<SYNC Start=1199640><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1199707><P Class=ENUSCC>Beberapa anggota klub golf kita cemas.</P></SYNC>
+<SYNC Start=1203143><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1203209><P Class=ENUSCC>Selalu ada sesuatu.</P></SYNC>
+<SYNC Start=1205179><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1205244><P Class=ENUSCC>Juga hari ini di New York.</P></SYNC>
+<SYNC Start=1207147><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1207213><P Class=ENUSCC>Dan pramutamu milikku?</P></SYNC>
+<SYNC Start=1208649><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1208716><P Class=ENUSCC>Khawatir.</P></SYNC>
+<SYNC Start=1210651><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1210718><P Class=ENUSCC>Mungkin kami harus memberimu<br>hewan pendukung emosional.</P></SYNC>
+<SYNC Start=1214220><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1218250><P Class=ENUSCC>Apa kita harus khawatir?</P></SYNC>
+<SYNC Start=1220927><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1220928><P Class=ENUSCC>Kita tidak melakukan apa pun<br>yang menyinggung The Table.</P></SYNC>
+<SYNC Start=1223063><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1223130><P Class=ENUSCC>Hubunganmu dengan Tn. Wick bukanlah rahasia.</P></SYNC>
+<SYNC Start=1224965><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1225032><P Class=ENUSCC>The Table akan datang.</P></SYNC>
+<SYNC Start=1228002><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1228069><P Class=ENUSCC>- Silahkan.<br>- Dan...</P></SYNC>
+<SYNC Start=1229971><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1231206><P Class=ENUSCC>Akan kita sambut penuh rahmat.</P></SYNC>
+<SYNC Start=1233975><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1234042><P Class=ENUSCC>Segala yang dia sentuh mati.</P></SYNC>
+<SYNC Start=1235610><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1239560><P Class=ENUSCC>Jangan mengguruiku tentang<br>pria yang sudah lama kukenal...</P></SYNC>
+<SYNC Start=1243049><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1243050><P Class=ENUSCC>Daripada seluruh hidupmu.</P></SYNC>
+<SYNC Start=1245085><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1245086><P Class=ENUSCC>Maafkan aku, Ayah.</P></SYNC>
+<SYNC Start=1246487><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1251092><P Class=ENUSCC>Akira.</P></SYNC>
+<SYNC Start=1252292><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1255530><P Class=ENUSCC>Tolong beritahu putriku...</P></SYNC>
+<SYNC Start=1257297><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1257364><P Class=ENUSCC>Kalau aku menantikan makan malam kami.</P></SYNC>
+<SYNC Start=1259333><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1278313><P Class=ENUSCC>Jangan biarkan siapa pun masuk.</P></SYNC>
+<SYNC Start=1281215><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1304296><P Class=ENUSCC>Kurasa kau akhirnya sudah damai.</P></SYNC>
+<SYNC Start=1307434><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1323565><P Class=ENUSCC>Ternyata tidak.</P></SYNC>
+<SYNC Start=1325432><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1326701><P Class=ENUSCC>Membunuh The Elder<br>merupakan kesalahan, temanku.</P></SYNC>
+<SYNC Start=1329469><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1332640><P Class=ENUSCC>Tanggapan mereka dengan<br>menghancurkan Continental New York</P></SYNC>
+<SYNC Start=1336978><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1338780><P Class=ENUSCC>Putriku takut kami selanjutnya.</P></SYNC>
+<SYNC Start=1340949><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1342250><P Class=ENUSCC>Winston?</P></SYNC>
+<SYNC Start=1343518><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1343585><P Class=ENUSCC>Hidup, tapi mereka<br>mengeksekusi pramutamu miliknya...</P></SYNC>
+<SYNC Start=1347121><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1348256><P Class=ENUSCC>Sebagai pernyataan.</P></SYNC>
+<SYNC Start=1349891><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1362337><P Class=ENUSCC>Kau pernah berpikir...</P></SYNC>
+<SYNC Start=1364404><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1364939><P Class=ENUSCC>Di mana ini berakhir?</P></SYNC>
+<SYNC Start=1366473><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1371813><P Class=ENUSCC>The Table tidak akan berhenti.</P></SYNC>
+<SYNC Start=1373848><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1375884><P Class=ENUSCC>Kau tahu itu.</P></SYNC>
+<SYNC Start=1377085><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1381022><P Class=ENUSCC>Mereka hanya mengambil nyawa...</P></SYNC>
+<SYNC Start=1382790><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1383725><P Class=ENUSCC>Dan hanya memberi kematian.</P></SYNC>
+<SYNC Start=1385760><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1392000><P Class=ENUSCC>Koji...</P></SYNC>
+<SYNC Start=1393234><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1395982><P Class=ENUSCC>Karna memberimu masalah seperti ini...</P></SYNC>
+<SYNC Start=1398937><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1398938><P Class=ENUSCC>Maafkan aku.</P></SYNC>
+<SYNC Start=1401593><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1402944><P Class=ENUSCC>Pertemanan sedikit artinya<br>jika sudah merasa nyaman.</P></SYNC>
+<SYNC Start=1406147><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1407784><P Class=ENUSCC>LINK KHUSUS DEWASA, Daftar GRATIS BONUS 100%<br>&gt;&gt;&gt; www.MANTULXXX.COM &lt;&lt;&lt;</P></SYNC>
+<SYNC Start=1422784><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1440951><P Class=ENUSCC>MARQUIS<br>HIGH TABLE</P></SYNC>
+<SYNC Start=1444790><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1456798><P Class=ENUSCC>Selamat datang di Continental Osaka.<br>Ada yang bisa kubantu?</P></SYNC>
+<SYNC Start=1459032><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1459033><P Class=ENUSCC>Sang Manajer.</P></SYNC>
+<SYNC Start=1460234><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1462704><P Class=ENUSCC>Tolong.</P></SYNC>
+<SYNC Start=1463938><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1467175><P Class=ENUSCC>Tentu.</P></SYNC>
+<SYNC Start=1469110><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1469177><P Class=ENUSCC>Silahkan buat dirimu nyaman.</P></SYNC>
+<SYNC Start=1471012><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1474770><P Class=ENUSCC>Tolong evakuasi semua orang...</P></SYNC>
+<SYNC Start=1476217><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1476218><P Class=ENUSCC>Dengan rahasia.</P></SYNC>
+<SYNC Start=1479351><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1481389><P Class=ENUSCC>Jalan ini hanya mengarah menuju kematian.</P></SYNC>
+<SYNC Start=1484592><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1487862><P Class=ENUSCC>Akan kubunuh mereka semua.</P></SYNC>
+<SYNC Start=1490098><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1491512><P Class=ENUSCC>Kuyakin kau akan mencobanya.</P></SYNC>
+<SYNC Start=1493067><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1493500><P Class=ENUSCC>Tapi tidak seorang pun...</P></SYNC>
+<SYNC Start=1495003><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1495069><P Class=ENUSCC>Termasuk dirimu,<br>bisa membunuh semua orang.</P></SYNC>
+<SYNC Start=1497805><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1500575><P Class=ENUSCC>Kau mau mati?</P></SYNC>
+<SYNC Start=1501809><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1502677><P Class=ENUSCC>itu pilihanmu.</P></SYNC>
+<SYNC Start=1503978><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1505546><P Class=ENUSCC>Kematian bagus...</P></SYNC>
+<SYNC Start=1506848><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1507749><P Class=ENUSCC>Hanya datang setelah kehidupan bagus.</P></SYNC>
+<SYNC Start=1510118><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1511619><P Class=ENUSCC>Kau dan aku meninggalkan kehidupan bagus...</P></SYNC>
+<SYNC Start=1513621><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1513688><P Class=ENUSCC>Sudah lama sekali, temanku.</P></SYNC>
+<SYNC Start=1515923><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1521129><P Class=ENUSCC>Ayah, The High Table.</P></SYNC>
+<SYNC Start=1522897><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1524665><P Class=ENUSCC>Apa yang dia lakukan di sini?</P></SYNC>
+<SYNC Start=1526200><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1526267><P Class=ENUSCC>Tn. Wick adalah tamu kita.</P></SYNC>
+<SYNC Start=1528136><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1529137><P Class=ENUSCC>Ayah...</P></SYNC>
+<SYNC Start=1530538><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1530605><P Class=ENUSCC>Aku akan bicara dengan mereka.<br>Mereka tidak tahu kau di sini.</P></SYNC>
+<SYNC Start=1532974><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1533041><P Class=ENUSCC>- Kumohon.<br>- Tetaplah bersama Tn. Wick.</P></SYNC>
+<SYNC Start=1535777><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1545061><P Class=ENUSCC>Tamunya sudah tiba...</P></SYNC>
+<SYNC Start=1546977><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1546978><P Class=ENUSCC>Siap sambut dengan keramahan.</P></SYNC>
+<SYNC Start=1548555><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1548556><P Class=ENUSCC>Baik.</P></SYNC>
+<SYNC Start=1549757><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1575149><P Class=ENUSCC>Selamat datang di Continental Osaka, tuan-tuan.</P></SYNC>
+<SYNC Start=1578119><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1579053><P Class=ENUSCC>Apa ada yang bisa kubantu?</P></SYNC>
+<SYNC Start=1582056><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1582123><P Class=ENUSCC>The Table punya alasan percaya...</P></SYNC>
+<SYNC Start=1583758><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1583825><P Class=ENUSCC>Fasilitas ini menyediakan layanan...</P></SYNC>
+<SYNC Start=1587128><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1587218><P Class=ENUSCC>Ke orang yang telah...</P></SYNC>
+<SYNC Start=1588590><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1588591><P Class=ENUSCC>Excommunicado.<br>(Dikucilkan).</P></SYNC>
+<SYNC Start=1590090><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1591699><P Class=ENUSCC>Itu tuduhan berat.</P></SYNC>
+<SYNC Start=1594702><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1594769><P Class=ENUSCC>Kami perlu akses penuh hotelmu.</P></SYNC>
+<SYNC Start=1597605><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1599207><P Class=ENUSCC>Tentu.</P></SYNC>
+<SYNC Start=1600675><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1600741><P Class=ENUSCC>Tapi seperti yang kalian ketahui...</P></SYNC>
+<SYNC Start=1602376><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1602443><P Class=ENUSCC>Tidak ada bisnis...</P></SYNC>
+<SYNC Start=1604212><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1604278><P Class=ENUSCC>Termasuk bisnis kalian...</P></SYNC>
+<SYNC Start=1605913><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1605980><P Class=ENUSCC>Dilakukan dalam wilayah Continental.</P></SYNC>
+<SYNC Start=1609518><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1609585><P Class=ENUSCC>Jadi, kuminta kalian...</P></SYNC>
+<SYNC Start=1612053><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1612120><P Class=ENUSCC>Menyerahkan senjata api kalian.</P></SYNC>
+<SYNC Start=1614655><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1616424><P Class=ENUSCC>Kami bicara mewakili Marquis.</P></SYNC>
+<SYNC Start=1618527><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1618594><P Class=ENUSCC>Dan aku bicara mewakili Osaka.</P></SYNC>
+<SYNC Start=1620661><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1621262><P Class=ENUSCC>Pistol kalian...</P></SYNC>
+<SYNC Start=1622296><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1622997><P Class=ENUSCC>Tolong.</P></SYNC>
+<SYNC Start=1624098><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1626000><P Class=ENUSCC>Jangan ulangi kesalahan yang dilakukan<br>orang bodoh New York itu.</P></SYNC>
+<SYNC Start=1629871><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1629937><P Class=ENUSCC>Orang bodoh bicara,<br>penakut diam...</P></SYNC>
+<SYNC Start=1632907><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1632974><P Class=ENUSCC>Tapi orang bijak mendengarkan.</P></SYNC>
+<SYNC Start=1635710><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1635776><P Class=ENUSCC>Jadi, kau yang mana?</P></SYNC>
+<SYNC Start=1637678><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1648222><P Class=ENUSCC>Halo, teman lama.</P></SYNC>
+<SYNC Start=1650424><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1653227><P Class=ENUSCC>Senang kau berkunjung<br>setelah sekian tahun lamanya.</P></SYNC>
+<SYNC Start=1657031><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1658065><P Class=ENUSCC>- Sekarang kau bersama mereka?<br>- Tidak.</P></SYNC>
+<SYNC Start=1660301><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1662837><P Class=ENUSCC>- Tidak.<br>- Putrimu?</P></SYNC>
+<SYNC Start=1664906><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1665673><P Class=ENUSCC>Mia?</P></SYNC>
+<SYNC Start=1666908><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1668510><P Class=ENUSCC>Masih hidup.</P></SYNC>
+<SYNC Start=1669710><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1671379><P Class=ENUSCC>Dan putrimu Akira?</P></SYNC>
+<SYNC Start=1672780><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1674715><P Class=ENUSCC>Sehat.</P></SYNC>
+<SYNC Start=1675917><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1677653><P Class=ENUSCC>Syukurlah.</P></SYNC>
+<SYNC Start=1678853><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1681455><P Class=ENUSCC>Kau tahu...</P></SYNC>
+<SYNC Start=1682690><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1684660><P Class=ENUSCC>Kita tidak perlu mengakhiri ini dengan darah.</P></SYNC>
+<SYNC Start=1686794><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1688664><P Class=ENUSCC>Maka pergilah.</P></SYNC>
+<SYNC Start=1690431><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1690432><P Class=ENUSCC>Tidak ada yang bisa menentang The Table.</P></SYNC>
+<SYNC Start=1691965><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1691966><P Class=ENUSCC>Aku ingat kau dulu memahami itu.</P></SYNC>
+<SYNC Start=1694502><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1694570><P Class=ENUSCC>Dan aku ingat masa...</P></SYNC>
+<SYNC Start=1696070><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1696137><P Class=ENUSCC>Saat kau memahami arti persaudaraan.</P></SYNC>
+<SYNC Start=1698973><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1699040><P Class=ENUSCC>Cukup!</P></SYNC>
+<SYNC Start=1700642><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1700708><P Class=ENUSCC>Atas perintah Marquis de Gramont...</P></SYNC>
+<SYNC Start=1702644><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1702710><P Class=ENUSCC>Hotel ini telah dinajiskan.</P></SYNC>
+<SYNC Start=1705146><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1706180><P Class=ENUSCC>Menyingkirlah.</P></SYNC>
+<SYNC Start=1707415><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1723497><P Class=ENUSCC>Jangan lakukan ini, Koji.</P></SYNC>
+<SYNC Start=1724932><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1734742><P Class=ENUSCC>Maafkan aku.</P></SYNC>
+<SYNC Start=1736043><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1746668><P Class=ENUSCC>Panah!</P></SYNC>
+<SYNC Start=1747800><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1762750><P Class=ENUSCC>Bunuh mereka semua!</P></SYNC>
+<SYNC Start=1764381><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1815524><P Class=ENUSCC>Keluar.</P></SYNC>
+<SYNC Start=1816591><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1833905><P Class=ENUSCC>Mundur.</P></SYNC>
+<SYNC Start=1836478><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1841082><P Class=ENUSCC>Geledah hotel ini.</P></SYNC>
+<SYNC Start=1842718><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1842784><P Class=ENUSCC>Temukan Wick.</P></SYNC>
+<SYNC Start=1844051><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1849146><P Class=ENUSCC>Kau tidak punya hak berada di sini.</P></SYNC>
+<SYNC Start=1852058><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1852059><P Class=ENUSCC>Jika mereka menemukanmu di sini...</P></SYNC>
+<SYNC Start=1853594><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1853595><P Class=ENUSCC>The Table akan membunuh Ayahku dan aku...</P></SYNC>
+<SYNC Start=1856597><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1857666><P Class=ENUSCC>Semua orang, karena kau melanggar peraturan.</P></SYNC>
+<SYNC Start=1860101><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1861670><P Class=ENUSCC>Kau tidak seharusnya datang.</P></SYNC>
+<SYNC Start=1863304><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1877044><P Class=ENUSCC>Hotel telah diserang.</P></SYNC>
+<SYNC Start=1879440><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1887596><P Class=ENUSCC>Kau bersenjata?</P></SYNC>
+<SYNC Start=1888797><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1959333><P Class=ENUSCC>- Cepat.<br>- Baik.</P></SYNC>
+<SYNC Start=1960569><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1965561><P Class=ENUSCC>Hentikan mereka!</P></SYNC>
+<SYNC Start=1968017><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=2001589><P Class=ENUSCC>Cepat!</P></SYNC>
+<SYNC Start=2002717><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=2014990><P Class=ENUSCC>Hei!</P></SYNC>
+<SYNC Start=2016658><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=2016725><P Class=ENUSCC>Pria buta!</P></SYNC>
+<SYNC Start=2018259><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=2018925><P Class=ENUSCC>Lakukan tugasmu!</P></SYNC>
+<SYNC Start=2020327><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=2273413><P Class=ENUSCC>Akira!</P></SYNC>
+<SYNC Start=2274749><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=2289920><P Class=ENUSCC>Bisa kau berdiri?</P></SYNC>
+<SYNC Start=2291739><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=2293500><P Class=ENUSCC>Pergilah lewat jalan kau masuk.</P></SYNC>
+<SYNC Start=2294803><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=2294869><P Class=ENUSCC>- Pergilah ke Stasiun Umeda.<br>- Aku tetap di sini.</P></SYNC>
+<SYNC Start=2297272><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=2297337><P Class=ENUSCC>Jangan hina hadiahku padamu.</P></SYNC>
+<SYNC Start=2299808><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=2302544><P Class=ENUSCC>Dan, John, beri aku sedikit bantuan.</P></SYNC>
+<SYNC Start=2305547><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=2306434><P Class=ENUSCC>Bunuhlah sebanyak yang kau bisa.</P></SYNC>
+<SYNC Start=2308919><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=2309164><P Class=ENUSCC>Siap!</P></SYNC>
+<SYNC Start=2310349><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=2417784><P Class=ENUSCC>Rasakan Sensasi Terbaik, Klik Sekarang Akses Terbatas<br>&gt;&gt;&gt; www.MANTULXXX.COM &lt;&lt;&lt;</P></SYNC>
+<SYNC Start=2432784><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=2628169><P Class=ENUSCC>John?</P></SYNC>
+<SYNC Start=2629203><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=2630572><P Class=ENUSCC>Caine.</P></SYNC>
+<SYNC Start=2631772><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=2640781><P Class=ENUSCC>Mereka memberimu namaku.</P></SYNC>
+<SYNC Start=2642750><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=2646187><P Class=ENUSCC>Ya.</P></SYNC>
+<SYNC Start=2647255><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=2650526><P Class=ENUSCC>Maafkan aku.</P></SYNC>
+<SYNC Start=2651893><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=2654228><P Class=ENUSCC>Aku juga.</P></SYNC>
+<SYNC Start=2655363><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=2677084><P Class=ENUSCC>Kau seharusnya diam saja.</P></SYNC>
+<SYNC Start=2679053><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=2679854><P Class=ENUSCC>Demi kita semua.</P></SYNC>
+<SYNC Start=2682356><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=2683457><P Class=ENUSCC>Sudah kucoba.</P></SYNC>
+<SYNC Start=2685293><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=2687261><P Class=ENUSCC>Sungguh?</P></SYNC>
+<SYNC Start=2688362><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=2722930><P Class=ENUSCC>Ayo, John.</P></SYNC>
+<SYNC Start=2724232><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=2727001><P Class=ENUSCC>Mari akhiri ini semua.</P></SYNC>
+<SYNC Start=2728369><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=2732373><P Class=ENUSCC>Ya.</P></SYNC>
+<SYNC Start=2733908><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=2733975><P Class=ENUSCC>Sepertinya itu ide bagus.</P></SYNC>
+<SYNC Start=2736210><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=2752793><P Class=ENUSCC>Kau menerima kesepakatan itu.</P></SYNC>
+<SYNC Start=2754295><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=2756565><P Class=ENUSCC>Sama sepertimu, John.</P></SYNC>
+<SYNC Start=2757965><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=2761670><P Class=ENUSCC>Keluarga?</P></SYNC>
+<SYNC Start=2762870><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=2766608><P Class=ENUSCC>Keluarga.</P></SYNC>
+<SYNC Start=2767775><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=2796937><P Class=ENUSCC>Kau sudah mati, John?</P></SYNC>
+<SYNC Start=2798406><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=2835744><P Class=ENUSCC>John.</P></SYNC>
+<SYNC Start=2836977><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=2837679><P Class=ENUSCC>Caine.</P></SYNC>
+<SYNC Start=2839046><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=2877218><P Class=ENUSCC>John Wick, harga buronan,<br>$20 juta.</P></SYNC>
+<SYNC Start=2881155><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=2881222><P Class=ENUSCC>John Wick...</P></SYNC>
+<SYNC Start=2885560><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=2889912><P Class=ENUSCC>KONTRAK DINAIKKAN<br>$20 JUTA</P></SYNC>
+<SYNC Start=2892731><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=2895641><P Class=ENUSCC>KASTIL OSAKA</P></SYNC>
+<SYNC Start=2898131><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=2950926><P Class=ENUSCC>Astaga, Johnny.</P></SYNC>
+<SYNC Start=2952727><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=2952794><P Class=ENUSCC>Kau membuat banyak kekacauan.</P></SYNC>
+<SYNC Start=2955229><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=2955831><P Class=ENUSCC>Aku tidak mengenalmu.</P></SYNC>
+<SYNC Start=2957599><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=2957666><P Class=ENUSCC>Tapi aku mengenalmu.</P></SYNC>
+<SYNC Start=2958933><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=2966575><P Class=ENUSCC>Kau pelacak?</P></SYNC>
+<SYNC Start=2968142><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=2973782><P Class=ENUSCC>Berapa banyak?</P></SYNC>
+<SYNC Start=2975049><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=2978219><P Class=ENUSCC>Tidak cukup.</P></SYNC>
+<SYNC Start=2979588><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=2982356><P Class=ENUSCC>Tapi semakin mendekati.</P></SYNC>
+<SYNC Start=2983758><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=2989564><P Class=ENUSCC>Aku ingin kau menjaga dirimu<br>lebih baik lagi, Johnny.</P></SYNC>
+<SYNC Start=2991999><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=2994268><P Class=ENUSCC>Karena kita bersama dalam masalah ini.</P></SYNC>
+<SYNC Start=2996203><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3040815><P Class=ENUSCC>Baik, Koji.</P></SYNC>
+<SYNC Start=3042216><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3046420><P Class=ENUSCC>Katakan John ada di mana<br>dan pergilah dari sini.</P></SYNC>
+<SYNC Start=3049356><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3050759><P Class=ENUSCC>Pergi.</P></SYNC>
+<SYNC Start=3051926><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3052928><P Class=ENUSCC>Pergilah ke suatu tempat yang jauh.</P></SYNC>
+<SYNC Start=3055496><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3057298><P Class=ENUSCC>Kau tahu aku tidak akan pergi.</P></SYNC>
+<SYNC Start=3058800><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3067558><P Class=ENUSCC>Ayah tertembak?</P></SYNC>
+<SYNC Start=3070862><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3088162><P Class=ENUSCC>Kau tidak menunggak apa pun ke John Wick.</P></SYNC>
+<SYNC Start=3090164><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3092901><P Class=ENUSCC>Dia tidak berhutang padamu.</P></SYNC>
+<SYNC Start=3095235><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3101275><P Class=ENUSCC>Kau pasti sudah tersesat sampai percaya...</P></SYNC>
+<SYNC Start=3104345><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3104411><P Class=ENUSCC>Satu-satunya tunggakan yang kita miliki...</P></SYNC>
+<SYNC Start=3106347><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3108016><P Class=ENUSCC>Terletak dalam hutang.</P></SYNC>
+<SYNC Start=3109818><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3116457><P Class=ENUSCC>Sudahlah.</P></SYNC>
+<SYNC Start=3117559><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3119995><P Class=ENUSCC>Aku tidak mau melakukan ini.</P></SYNC>
+<SYNC Start=3121630><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3167909><P Class=ENUSCC>Ayah!</P></SYNC>
+<SYNC Start=3169176><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3184826><P Class=ENUSCC>Tatap aku.</P></SYNC>
+<SYNC Start=3186027><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3194268><P Class=ENUSCC>Bahkan pria buta tahu kau sudah kalah.</P></SYNC>
+<SYNC Start=3196671><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3198907><P Class=ENUSCC>Dan, Caine...</P></SYNC>
+<SYNC Start=3200340><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3201910><P Class=ENUSCC>Kau tidak perlu mata untuk melihat jalan yang benar.</P></SYNC>
+<SYNC Start=3205613><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3209283><P Class=ENUSCC>Rawat saja putrimu.</P></SYNC>
+<SYNC Start=3210952><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3213320><P Class=ENUSCC>Aku...</P></SYNC>
+<SYNC Start=3214656><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3217792><P Class=ENUSCC>Sudah merawatnya.</P></SYNC>
+<SYNC Start=3218927><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3225567><P Class=ENUSCC>Tidak!</P></SYNC>
+<SYNC Start=3227434><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3264371><P Class=ENUSCC>Jangan.</P></SYNC>
+<SYNC Start=3265707><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3268275><P Class=ENUSCC>Hiduplah.</P></SYNC>
+<SYNC Start=3269476><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3291533><P Class=ENUSCC>Aku akan menunggumu.</P></SYNC>
+<SYNC Start=3293300><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3366007><P Class=ENUSCC>Siapa dia?</P></SYNC>
+<SYNC Start=3367241><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3374215><P Class=ENUSCC>Dia seorang teman.</P></SYNC>
+<SYNC Start=3375884><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3377852><P Class=ENUSCC>Ayahku mati karena dirimu.</P></SYNC>
+<SYNC Start=3380154><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3383558><P Class=ENUSCC>Karena perbuatanmu.</P></SYNC>
+<SYNC Start=3385093><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3388730><P Class=ENUSCC>Kau bunuh dia...</P></SYNC>
+<SYNC Start=3390932><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3393101><P Class=ENUSCC>Atau kulakukan sendiri.</P></SYNC>
+<SYNC Start=3394434><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3401542><P Class=ENUSCC>Aku paham.</P></SYNC>
+<SYNC Start=3403410><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3423531><P Class=ENUSCC>Selamat tinggal, Tn. Wick.</P></SYNC>
+<SYNC Start=3426868><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3450024><P Class=ENUSCC>Terima kasih sudah datang.</P></SYNC>
+<SYNC Start=3451292><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3452694><P Class=ENUSCC>Kita para gelandangan harus...</P></SYNC>
+<SYNC Start=3454460><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3454461><P Class=ENUSCC>Tetap bersama, benar bukan?</P></SYNC>
+<SYNC Start=3456463><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3460735><P Class=ENUSCC>Aku harus bicara dengan dia.</P></SYNC>
+<SYNC Start=3463538><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3465440><P Class=ENUSCC>Terakhir kali kau bicara dengan dia...</P></SYNC>
+<SYNC Start=3467875><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3467942><P Class=ENUSCC>Kau menembaknya jatuh dari atap.</P></SYNC>
+<SYNC Start=3470878><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3470945><P Class=ENUSCC>Aku tidak punya pilihan.</P></SYNC>
+<SYNC Start=3472847><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3472914><P Class=ENUSCC>Mereka memegang semua kartu.</P></SYNC>
+<SYNC Start=3474716><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3475183><P Class=ENUSCC>Tidak.</P></SYNC>
+<SYNC Start=3476483><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3477285><P Class=ENUSCC>Tapi siapa yang memegang pistolnya?</P></SYNC>
+<SYNC Start=3479020><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3479087><P Class=ENUSCC>John harus tahu apa yang akan mendatanginya.</P></SYNC>
+<SYNC Start=3481656><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3481723><P Class=ENUSCC>Marquis itu tidak dikekang.</P></SYNC>
+<SYNC Start=3483490><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3483558><P Class=ENUSCC>The Table membiarkannya lepas.</P></SYNC>
+<SYNC Start=3485460><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3485526><P Class=ENUSCC>Oh, Winston sayangku...</P></SYNC>
+<SYNC Start=3487695><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3487762><P Class=ENUSCC>Kebajikanmu sangat menyentuh!</P></SYNC>
+<SYNC Start=3490631><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3491733><P Class=ENUSCC>Katakan padaku.<br>Katakan sesungguhnya.</P></SYNC>
+<SYNC Start=3494435><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3494501><P Class=ENUSCC>Mengapa orang Prancis itu<br>membiarkanmu hidup?</P></SYNC>
+<SYNC Start=3497138><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3497205><P Class=ENUSCC>Membunuh seorang pria bisa<br>mengubahnya jadi Martir.</P></SYNC>
+<SYNC Start=3500108><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3501242><P Class=ENUSCC>Biarkan dia hidup...</P></SYNC>
+<SYNC Start=3503845><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3503911><P Class=ENUSCC>Beritahu dunia kalau dia<br>penakut atau pengkhianat.</P></SYNC>
+<SYNC Start=3507281><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3510752><P Class=ENUSCC>Lantas, kau itu apa?</P></SYNC>
+<SYNC Start=3512553><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3514522><P Class=ENUSCC>Dirugikan.</P></SYNC>
+<SYNC Start=3516057><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3537879><P Class=ENUSCC>Aku gagal melihat<br>menghancurkan Continental...</P></SYNC>
+<SYNC Start=3541215><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3541282><P Class=ENUSCC>Membuatmu semakin dekat membunuh John Wick.</P></SYNC>
+<SYNC Start=3544719><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3544786><P Class=ENUSCC>Kampanye ini bukan untuk membunuh John Wick.</P></SYNC>
+<SYNC Start=3548022><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3548089><P Class=ENUSCC>Tapi untuk membunuh gagasan John Wick.</P></SYNC>
+<SYNC Start=3550958><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3551859><P Class=ENUSCC>Dan untuk itu, aku harus...</P></SYNC>
+<SYNC Start=3553795><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3553861><P Class=ENUSCC>Menghancurkan setiap gagasan yang disentuh.</P></SYNC>
+<SYNC Start=3556664><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3561737><P Class=ENUSCC>Pertumpahan darah di Osaka...</P></SYNC>
+<SYNC Start=3563672><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3563739><P Class=ENUSCC>Itu tidak dibutuhkan.</P></SYNC>
+<SYNC Start=3565207><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3566775><P Class=ENUSCC>Pertumpahan darah itu intinya.</P></SYNC>
+<SYNC Start=3569845><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3585661><P Class=ENUSCC>Dia akan membuatmu memilih.</P></SYNC>
+<SYNC Start=3587596><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3595370><P Class=ENUSCC>Kau, ikut denganku.</P></SYNC>
+<SYNC Start=3597239><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3598774><P Class=ENUSCC>Berpikirlah dua kali sebelum menerimanya.</P></SYNC>
+<SYNC Start=3601009><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3607584><P Class=ENUSCC>Dan siapa kau?</P></SYNC>
+<SYNC Start=3608784><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3609552><P Class=ENUSCC>Nobody.<br>(Bukan siapa pun).</P></SYNC>
+<SYNC Start=3610986><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3612821><P Class=ENUSCC>Pura-pura malu, Tn. Nobody...</P></SYNC>
+<SYNC Start=3616559><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3616625><P Class=ENUSCC>Itu sifat menyedihkan.</P></SYNC>
+<SYNC Start=3618260><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3619695><P Class=ENUSCC>Salah perhitungan...</P></SYNC>
+<SYNC Start=3621230><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3621296><P Class=ENUSCC>Yang mana berupaya menyembunyikan ego kita...</P></SYNC>
+<SYNC Start=3624666><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3624733><P Class=ENUSCC>Kita biarkan muncul telanjang bulat.</P></SYNC>
+<SYNC Start=3626668><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3629539><P Class=ENUSCC>Aku hanya tanya sekali.</P></SYNC>
+<SYNC Start=3631340><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3636579><P Class=ENUSCC>Bagaimana caramu berhasil menemukan lokasinya?</P></SYNC>
+<SYNC Start=3638780><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3640916><P Class=ENUSCC>Bayar dan kuberitahu kau.</P></SYNC>
+<SYNC Start=3642351><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3648423><P Class=ENUSCC>Berapa banyak harga layanan itu?</P></SYNC>
+<SYNC Start=3651493><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3651561><P Class=ENUSCC>$25 juta...</P></SYNC>
+<SYNC Start=3652961><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3653028><P Class=ENUSCC>Ditambah retribusi jumlah sama<br>ke rekening tabungan pensiunku.</P></SYNC>
+<SYNC Start=3655831><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3655898><P Class=ENUSCC>Setelah dia mati.</P></SYNC>
+<SYNC Start=3657099><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3657166><P Class=ENUSCC>Hmm.</P></SYNC>
+<SYNC Start=3658267><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3660736><P Class=ENUSCC>Kami pernah menemukan dia sekali.</P></SYNC>
+<SYNC Start=3662504><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3662505><P Class=ENUSCC>Kami akan menemukan dia lagi.</P></SYNC>
+<SYNC Start=3663638><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3663640><P Class=ENUSCC>Apa itu sebelum...</P></SYNC>
+<SYNC Start=3664907><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3664973><P Class=ENUSCC>Atau setelah dia membunuhmu?</P></SYNC>
+<SYNC Start=3667075><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3674149><P Class=ENUSCC>Aku menyukaimu.</P></SYNC>
+<SYNC Start=3675317><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3678854><P Class=ENUSCC>$20 juta.</P></SYNC>
+<SYNC Start=3680322><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3684393><P Class=ENUSCC>Sukai aku lebih banyak.</P></SYNC>
+<SYNC Start=3685794><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3687196><P Class=ENUSCC>$23 juta.</P></SYNC>
+<SYNC Start=3688297><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3689364><P Class=ENUSCC>Ego, Tn. Nobody.</P></SYNC>
+<SYNC Start=3692569><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3692635><P Class=ENUSCC>Nilainya $23 juta.</P></SYNC>
+<SYNC Start=3694671><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3694736><P Class=ENUSCC>Sudah jelas kau mampu membayarnya.</P></SYNC>
+<SYNC Start=3696438><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3704647><P Class=ENUSCC>Untuk layanan ini.</P></SYNC>
+<SYNC Start=3706348><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3709851><P Class=ENUSCC>Brengsek!</P></SYNC>
+<SYNC Start=3711486><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3713822><P Class=ENUSCC>Tidak. Tidak.<br>Tidak. Tidak apa.</P></SYNC>
+<SYNC Start=3715424><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3715490><P Class=ENUSCC>Hei, tidak apa.<br>Duduk. Duduk.</P></SYNC>
+<SYNC Start=3717527><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3720929><P Class=ENUSCC>Apa-apaan ini, bung?</P></SYNC>
+<SYNC Start=3722831><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3722898><P Class=ENUSCC>Pilihan.</P></SYNC>
+<SYNC Start=3725133><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3725200><P Class=ENUSCC>Kau bisa menarik keluar pisaunya...</P></SYNC>
+<SYNC Start=3726669><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3726735><P Class=ENUSCC>Atau kau tarik keluar tanganmu.</P></SYNC>
+<SYNC Start=3729838><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3729905><P Class=ENUSCC>Pilihan pertama menunjukkan<br>pria yang berkomitmen pada dirinya...</P></SYNC>
+<SYNC Start=3732774><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3732841><P Class=ENUSCC>Dan yang kedua...</P></SYNC>
+<SYNC Start=3734176><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3734243><P Class=ENUSCC>Pria yang berkomitmen pada tujuan.</P></SYNC>
+<SYNC Start=3736512><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3737680><P Class=ENUSCC>Yang mana kau itu?</P></SYNC>
+<SYNC Start=3738947><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3783095><P Class=ENUSCC>Selamat berburu.</P></SYNC>
+<SYNC Start=3784811><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3813380><P Class=ENUSCC>SETIAP KEHIDUPAN ADA KEMATIAN<br>TEMAN TERKASIH</P></SYNC>
+<SYNC Start=3818040><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3833909><P Class=ENUSCC>Winston.</P></SYNC>
+<SYNC Start=3835177><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3835844><P Class=ENUSCC>Jonathan.</P></SYNC>
+<SYNC Start=3837212><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3838947><P Class=ENUSCC>Aku turut berduka.</P></SYNC>
+<SYNC Start=3840882><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3842150><P Class=ENUSCC>Dia pria baik.</P></SYNC>
+<SYNC Start=3843919><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3845887><P Class=ENUSCC>Ya, benar.</P></SYNC>
+<SYNC Start=3847356><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3848123><P Class=ENUSCC>Dibunuh karena dosa-dosa kita.</P></SYNC>
+<SYNC Start=3850158><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3860068><P Class=ENUSCC>Siapa dia?</P></SYNC>
+<SYNC Start=3861537><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3863004><P Class=ENUSCC>Marquis de Gramont.</P></SYNC>
+<SYNC Start=3865207><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3865273><P Class=ENUSCC>Ditinggikan dengan satu jaminan<br>untuk membunuhmu.</P></SYNC>
+<SYNC Start=3869110><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3869111><P Class=ENUSCC>Semua sumber daya The Table<br>siap membantunya.</P></SYNC>
+<SYNC Start=3872381><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3873850><P Class=ENUSCC>Di mana aku bisa menemukan dia?</P></SYNC>
+<SYNC Start=3875450><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3876519><P Class=ENUSCC>Paris.</P></SYNC>
+<SYNC Start=3877553><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3882558><P Class=ENUSCC>Kapan ini berakhir?</P></SYNC>
+<SYNC Start=3883925><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3885494><P Class=ENUSCC>Kapan?</P></SYNC>
+<SYNC Start=3886595><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3887929><P Class=ENUSCC>Dengan matinya dia.</P></SYNC>
+<SYNC Start=3889331><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3890165><P Class=ENUSCC>Oh. Lalu?</P></SYNC>
+<SYNC Start=3892167><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3893736><P Class=ENUSCC>Hmm?</P></SYNC>
+<SYNC Start=3895070><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3895137><P Class=ENUSCC>Apa kau tidak pernah belajar?</P></SYNC>
+<SYNC Start=3899374><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3899441><P Class=ENUSCC>Mereka akan mengganti dia<br>sebelum jasadnya mendingin.</P></SYNC>
+<SYNC Start=3902879><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3902944><P Class=ENUSCC>Hercules melawan Hydra.</P></SYNC>
+<SYNC Start=3904714><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3904781><P Class=ENUSCC>Kau melawan The Table,<br>kecuali kau kehabisan peluru...</P></SYNC>
+<SYNC Start=3907182><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3907249><P Class=ENUSCC>Sebelum mereka kehabisan kepala.</P></SYNC>
+<SYNC Start=3909251><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3913488><P Class=ENUSCC>Bunuh dia, tapi lakukan dengan cara cerdas.</P></SYNC>
+<SYNC Start=3917025><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3917092><P Class=ENUSCC>Buat dia memberimu kebebasan.</P></SYNC>
+<SYNC Start=3919161><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3921731><P Class=ENUSCC>Caranya?</P></SYNC>
+<SYNC Start=3923198><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3923265><P Class=ENUSCC>Balik peraturan dan konsekuensinya<br>melawan dia.</P></SYNC>
+<SYNC Start=3925835><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3925902><P Class=ENUSCC>Tantang dia dalam pertarungan tunggal.</P></SYNC>
+<SYNC Start=3928370><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3930038><P Class=ENUSCC>Duel High Table itu hanya mitos.</P></SYNC>
+<SYNC Start=3933308><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3933375><P Class=ENUSCC>Salah!</P></SYNC>
+<SYNC Start=3934744><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3934811><P Class=ENUSCC>Duel itu fakta nyata!</P></SYNC>
+<SYNC Start=3937547><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3937613><P Class=ENUSCC>Bagian dari pondasi The Table...</P></SYNC>
+<SYNC Start=3939782><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3939849><P Class=ENUSCC>Sekaligus menghentikan lebih banyak<br>anggota yang gemar berperang.</P></SYNC>
+<SYNC Start=3943385><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3945755><P Class=ENUSCC>Juga, menang atau kalah...</P></SYNC>
+<SYNC Start=3948156><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3950292><P Class=ENUSCC>Sebutkan permintaanmu...</P></SYNC>
+<SYNC Start=3952194><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3952862><P Class=ENUSCC>Sebuah jalan keluar.</P></SYNC>
+<SYNC Start=3954396><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3958400><P Class=ENUSCC>Aku tidak duduk di The Table.</P></SYNC>
+<SYNC Start=3960770><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3960837><P Class=ENUSCC>Keluargamu duduk di sana.</P></SYNC>
+<SYNC Start=3963171><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3963238><P Class=ENUSCC>Suruh mereka mengeluarkan tantangan...</P></SYNC>
+<SYNC Start=3964973><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3965040><P Class=ENUSCC>Lalu tawarkan dirimu sebagai wakil.</P></SYNC>
+<SYNC Start=3967543><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3967610><P Class=ENUSCC>Aku tidak punya keluarga.</P></SYNC>
+<SYNC Start=3969879><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3969946><P Class=ENUSCC>Ruska Roma sudah merobek tiketku.</P></SYNC>
+<SYNC Start=3972447><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3974115><P Class=ENUSCC>Maka kusarankan kau<br>segera pergi ke Berlin...</P></SYNC>
+<SYNC Start=3978053><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3978821><P Class=ENUSCC>Dan perbaiki tiketmu.</P></SYNC>
+<SYNC Start=3980255><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3980957><P Class=ENUSCC>Atau...</P></SYNC>
+<SYNC Start=3982157><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3984660><P Class=ENUSCC>Pilihlah makam.</P></SYNC>
+<SYNC Start=3985795><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3988296><P Class=ENUSCC>Apa yang kau dapat dari ini, Winston?</P></SYNC>
+<SYNC Start=3990900><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3992100><P Class=ENUSCC>Keahlian terbaikmu, Jonathan.</P></SYNC>
+<SYNC Start=3994336><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=3995103><P Class=ENUSCC>Balas dendam.</P></SYNC>
+<SYNC Start=3997138><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4034543><P Class=ENUSCC>TANDA GELANDANGAN = BOWERY KING | RUMAH AMAN<br>RUSKA ROMA</P></SYNC>
+<SYNC Start=4037708><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4047583><P Class=ENUSCC>Revolver bagus.</P></SYNC>
+<SYNC Start=4050224><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4050225><P Class=ENUSCC>Antik.</P></SYNC>
+<SYNC Start=4052145><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4055936><P Class=ENUSCC>Sudah semua?</P></SYNC>
+<SYNC Start=4057608><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4077130><P Class=ENUSCC>Romo.</P></SYNC>
+<SYNC Start=4078742><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4078756><P Class=ENUSCC>Ya...</P></SYNC>
+<SYNC Start=4079934><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4080332><P Class=ENUSCC>Putraku?</P></SYNC>
+<SYNC Start=4081488><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4081489><P Class=ENUSCC>Aku ingin bicara ke Paman Pyotr.</P></SYNC>
+<SYNC Start=4083265><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4096104><P Class=ENUSCC>Setelan bagus.</P></SYNC>
+<SYNC Start=4097540><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4113923><P Class=ENUSCC>Bicaralah.</P></SYNC>
+<SYNC Start=4115490><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4115558><P Class=ENUSCC>Dia di Berlin, di Ruska Roma.</P></SYNC>
+<SYNC Start=4118393><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4118460><P Class=ENUSCC>Kau sekarang bisa mengirim uang<br>karena menemukan dia.</P></SYNC>
+<SYNC Start=4120796><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4120863><P Class=ENUSCC>Tidak.</P></SYNC>
+<SYNC Start=4121864><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4122665><P Class=ENUSCC>Maaf?</P></SYNC>
+<SYNC Start=4124165><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4124232><P Class=ENUSCC>Bunuh John dan kau akan dapat uangmu.</P></SYNC>
+<SYNC Start=4126669><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4128169><P Class=ENUSCC>Itu bukan bagian kesepakatan kita.</P></SYNC>
+<SYNC Start=4129905><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4131339><P Class=ENUSCC>Kesepakatannya untuk pelayananmu.</P></SYNC>
+<SYNC Start=4134777><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4134844><P Class=ENUSCC>Dan itu, nyawa diganti nyawa, Tn. Nobody.</P></SYNC>
+<SYNC Start=4138446><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4140248><P Class=ENUSCC>Nyawamu atau nyawa John.</P></SYNC>
+<SYNC Start=4143786><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4143853><P Class=ENUSCC>Saat selesai, kau akan dapat hadiahmu...</P></SYNC>
+<SYNC Start=4147355><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4147422><P Class=ENUSCC>Dan uang pensiunmu.</P></SYNC>
+<SYNC Start=4148791><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4158100><P Class=ENUSCC>Bajingan.</P></SYNC>
+<SYNC Start=4159334><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4181346><P Class=ENUSCC>Anak yang hilang telah kembali.</P></SYNC>
+<SYNC Start=4184289><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4187640><P Class=ENUSCC>Tapi ini bukan rumahmu lagi, benar bukan...</P></SYNC>
+<SYNC Start=4191132><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4191133><P Class=ENUSCC>Jonathan Wick?</P></SYNC>
+<SYNC Start=4192568><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4193583><P Class=ENUSCC>Kau sudah tumbuh besar, Katia.</P></SYNC>
+<SYNC Start=4197523><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4197526><P Class=ENUSCC>Dan kau sudah tua.</P></SYNC>
+<SYNC Start=4199605><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4199693><P Class=ENUSCC>Namun, lama tidak berjumpa.</P></SYNC>
+<SYNC Start=4202716><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4202717><P Class=ENUSCC>Aku harus bicara dengan dia.</P></SYNC>
+<SYNC Start=4205792><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4210052><P Class=ENUSCC>Kau lupa...</P></SYNC>
+<SYNC Start=4211419><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4211486><P Class=ENUSCC>Kalau kami masih di bawah The Table.</P></SYNC>
+<SYNC Start=4214422><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4214489><P Class=ENUSCC>Dan terakhir kali kuperiksa...</P></SYNC>
+<SYNC Start=4217126><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4217193><P Class=ENUSCC>Kau itu Excommunicado...</P></SYNC>
+<SYNC Start=4219327><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4219328><P Class=ENUSCC>Dan tiketmu sudah dikoyak.</P></SYNC>
+<SYNC Start=4222531><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4223766><P Class=ENUSCC>Kau tidak ada urusan dengan kami.</P></SYNC>
+<SYNC Start=4227268><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4228353><P Class=ENUSCC>Itu keputusannya Pyotr.</P></SYNC>
+<SYNC Start=4230171><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4230172><P Class=ENUSCC>Pyotr sudah mati!</P></SYNC>
+<SYNC Start=4231741><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4236645><P Class=ENUSCC>Setelah kau...</P></SYNC>
+<SYNC Start=4238279><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4238346><P Class=ENUSCC>Menembak kepalanya The Elder (Tetua)...</P></SYNC>
+<SYNC Start=4240482><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4242317><P Class=ENUSCC>Marquis juga menembak kepalanya Pyotr.</P></SYNC>
+<SYNC Start=4244820><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4245921><P Class=ENUSCC>Dan dalam tradisi Rusia...</P></SYNC>
+<SYNC Start=4249324><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4249490><P Class=ENUSCC>Dia mengirim tagihannya ke kami.</P></SYNC>
+<SYNC Start=4252127><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4253763><P Class=ENUSCC>Karena dirimu...</P></SYNC>
+<SYNC Start=4255330><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4255396><P Class=ENUSCC>Aku harus berlutut...</P></SYNC>
+<SYNC Start=4256799><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4256866><P Class=ENUSCC>Di depan pria yang membunuh Ayahku.</P></SYNC>
+<SYNC Start=4259769><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4259835><P Class=ENUSCC>Maka kita punya...</P></SYNC>
+<SYNC Start=4261971><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4262037><P Class=ENUSCC>Musuh yang sama.</P></SYNC>
+<SYNC Start=4263639><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4265007><P Class=ENUSCC>Kita bisa saling membantu.</P></SYNC>
+<SYNC Start=4267910><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4267977><P Class=ENUSCC>Kau bahkan tidak bisa membantu dirimu sendiri.</P></SYNC>
+<SYNC Start=4272114><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4272181><P Class=ENUSCC>Bagaimana caramu membantu kami?</P></SYNC>
+<SYNC Start=4274550><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4274617><P Class=ENUSCC>Dengan membunuh Marquis itu.</P></SYNC>
+<SYNC Start=4278453><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4278521><P Class=ENUSCC>Mereka akan menunjuk orang lain.</P></SYNC>
+<SYNC Start=4280355><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4280661><P Class=ENUSCC>Kematiannya tidak mengubah APA PUN!</P></SYNC>
+<SYNC Start=4283396><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4284860><P Class=ENUSCC>Tidak akan...</P></SYNC>
+<SYNC Start=4286461><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4286529><P Class=ENUSCC>Jika aku membunuhnya dalam duel!</P></SYNC>
+<SYNC Start=4289464><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4303615><P Class=ENUSCC>Old Ways (Cara Lama)<br>menyatakannya dengan jelas...</P></SYNC>
+<SYNC Start=4306473><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4306474><P Class=ENUSCC>Duel itu harus diprakarsai oleh The Table...</P></SYNC>
+<SYNC Start=4310102><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4310293><P Class=ENUSCC>Dia perlu jadi anggota suatu keluarga...</P></SYNC>
+<SYNC Start=4314491><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4314492><P Class=ENUSCC>Dan memiliki...</P></SYNC>
+<SYNC Start=4316012><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4316013><P Class=ENUSCC>LAMBANG</P></SYNC>
+<SYNC Start=4319499><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4328804><P Class=ENUSCC>Katia.</P></SYNC>
+<SYNC Start=4330287><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4330487><P Class=ENUSCC>Berapa banyak yang kau bunuh...</P></SYNC>
+<SYNC Start=4332373><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4332374><P Class=ENUSCC>Supaya bebas?</P></SYNC>
+<SYNC Start=4333608><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4333609><P Class=ENUSCC>Banyak.</P></SYNC>
+<SYNC Start=4335678><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4335679><P Class=ENUSCC>Katia.</P></SYNC>
+<SYNC Start=4336778><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4336779><P Class=ENUSCC>Kau hanya perlu membunuh satu orang...</P></SYNC>
+<SYNC Start=4338814><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4339380><P Class=ENUSCC>Untuk kembali diterima.</P></SYNC>
+<SYNC Start=4340683><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4340749><P Class=ENUSCC>Bajingan yang membunuh Ayahku.</P></SYNC>
+<SYNC Start=4343786><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4345386><P Class=ENUSCC>Berikan namanya.</P></SYNC>
+<SYNC Start=4347957><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4349158><P Class=ENUSCC>Killa Harkan.</P></SYNC>
+<SYNC Start=4350860><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4350926><P Class=ENUSCC>Kau akan menemukan dia di &quot;Himmel dan Holle.&quot;</P></SYNC>
+<SYNC Start=4353461><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4353529><P Class=ENUSCC>Setelah dia mati,<br>akan kuperbaiki tiketmu.</P></SYNC>
+<SYNC Start=4356298><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4356364><P Class=ENUSCC>Dan lambangnya?</P></SYNC>
+<SYNC Start=4358634><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4358701><P Class=ENUSCC>Harkan dulu, lalu kita bicara.</P></SYNC>
+<SYNC Start=4361537><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4362204><P Class=ENUSCC>Bawa bukti kematiannya.</P></SYNC>
+<SYNC Start=4363906><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4367009><P Class=ENUSCC>Aku perlu jalan masuk.</P></SYNC>
+<SYNC Start=4368844><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4371446><P Class=ENUSCC>Aku tahu jalannya.</P></SYNC>
+<SYNC Start=4373048><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4374183><P Class=ENUSCC>Klaus akan mengantarmu.</P></SYNC>
+<SYNC Start=4375483><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4384793><P Class=ENUSCC>Aku Klaus.</P></SYNC>
+<SYNC Start=4386095><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4390766><P Class=ENUSCC>John.</P></SYNC>
+<SYNC Start=4392141><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4392142><P Class=ENUSCC>Aku Klaus.</P></SYNC>
+<SYNC Start=4394082><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4397785><P Class=ENUSCC>LINK KHUSUS DEWASA, Daftar GRATIS BONUS 100%<br>&gt;&gt;&gt; www.MANTULXXX.COM &lt;&lt;&lt;</P></SYNC>
+<SYNC Start=4412785><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4441483><P Class=ENUSCC>Silahkan beritahu Nyonyamu...</P></SYNC>
+<SYNC Start=4442917><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4442918><P Class=ENUSCC>Aku merasa terhormat oleh sikapnya ini...</P></SYNC>
+<SYNC Start=4444886><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4444887><P Class=ENUSCC>Dan aku mengharapkan melajutkan kemitraan kita.</P></SYNC>
+<SYNC Start=4447823><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4449224><P Class=ENUSCC>Aku Klaus.</P></SYNC>
+<SYNC Start=4450526><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4457498><P Class=ENUSCC>Tn. John Wick...</P></SYNC>
+<SYNC Start=4460035><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4460636><P Class=ENUSCC>Yang nyata.</P></SYNC>
+<SYNC Start=4462104><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4463706><P Class=ENUSCC>Sang Baba Yaga.</P></SYNC>
+<SYNC Start=4466942><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4468177><P Class=ENUSCC>Ini pasti Natal, ya?</P></SYNC>
+<SYNC Start=4469877><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4480856><P Class=ENUSCC>Mana sopan santunku?<br>Silahkan duduk.</P></SYNC>
+<SYNC Start=4482691><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4488630><P Class=ENUSCC>Mau minum, Tn. Wick?</P></SYNC>
+<SYNC Start=4490766><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4493969><P Class=ENUSCC>Kau menantikan kedatanganku.</P></SYNC>
+<SYNC Start=4495971><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4496038><P Class=ENUSCC>Bukan aku.</P></SYNC>
+<SYNC Start=4497239><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4498307><P Class=ENUSCC>Dia.</P></SYNC>
+<SYNC Start=4499507><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4500309><P Class=ENUSCC>John?</P></SYNC>
+<SYNC Start=4501477><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4504079><P Class=ENUSCC>Apa kabarmu?</P></SYNC>
+<SYNC Start=4505180><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4507116><P Class=ENUSCC>Kau tahu aku akan kemari.</P></SYNC>
+<SYNC Start=4509051><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4509118><P Class=ENUSCC>Aku menduganya.</P></SYNC>
+<SYNC Start=4510819><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4511520><P Class=ENUSCC>Keluarga.</P></SYNC>
+<SYNC Start=4512755><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4517526><P Class=ENUSCC>Keluarga itu menjualmu, Tn. Wick.</P></SYNC>
+<SYNC Start=4520696><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4522364><P Class=ENUSCC>Mereka menyerahkanmu...</P></SYNC>
+<SYNC Start=4523699><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4523766><P Class=ENUSCC>Dengan harapan sia-sia untuk<br>menyelamatkan diri mereka sendiri.</P></SYNC>
+<SYNC Start=4526168><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4527469><P Class=ENUSCC>Itu sebabnya aku tidak pernah<br>memercayai orang Cossack.</P></SYNC>
+<SYNC Start=4529638><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4529705><P Class=ENUSCC>Mereka orang kotor.</P></SYNC>
+<SYNC Start=4532574><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4535677><P Class=ENUSCC>Ini masalah pribadi.</P></SYNC>
+<SYNC Start=4537746><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4540249><P Class=ENUSCC>Aku merasakan ketegangan di sini.</P></SYNC>
+<SYNC Start=4541950><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4543520><P Class=ENUSCC>Tn. Wick mungkin merasa...</P></SYNC>
+<SYNC Start=4545821><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4545888><P Class=ENUSCC>Aku bertanggung jawab atas kematian...</P></SYNC>
+<SYNC Start=4548557><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4549491><P Class=ENUSCC>Teman bersama.</P></SYNC>
+<SYNC Start=4550793><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4554063><P Class=ENUSCC>Tapi aku tidak membunuh Koji.<br>Kau yang membunuhnya, John.</P></SYNC>
+<SYNC Start=4557132><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4559468><P Class=ENUSCC>Perselisihan diantara teman lama...</P></SYNC>
+<SYNC Start=4562337><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4562404><P Class=ENUSCC>Membuatku sedih.</P></SYNC>
+<SYNC Start=4563772><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4565174><P Class=ENUSCC>Izinkan aku membantu.</P></SYNC>
+<SYNC Start=4566375><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4569078><P Class=ENUSCC>Jangan.</P></SYNC>
+<SYNC Start=4570112><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4571514><P Class=ENUSCC>Kita sudah sepakat.</P></SYNC>
+<SYNC Start=4572748><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4575518><P Class=ENUSCC>Dulunya.</P></SYNC>
+<SYNC Start=4576718><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4576785><P Class=ENUSCC>Sang Marquis.</P></SYNC>
+<SYNC Start=4578253><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4578320><P Class=ENUSCC>Kurasa dia tidak keberatan<br>yang membunuhnya peluru...</P></SYNC>
+<SYNC Start=4580389><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4580456><P Class=ENUSCC>Pisau atau pria buta.</P></SYNC>
+<SYNC Start=4582224><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4594347><P Class=ENUSCC>Kami menemukan seseorang di luar.</P></SYNC>
+<SYNC Start=4596702><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4603045><P Class=ENUSCC>Ini untukku, Tn...</P></SYNC>
+<SYNC Start=4605848><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4607149><P Class=ENUSCC>Nobody.<br>(Bukan siapa pun).</P></SYNC>
+<SYNC Start=4608450><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4609918><P Class=ENUSCC>Dan tidak, itu sebenarnya untuk dia.</P></SYNC>
+<SYNC Start=4612121><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4616959><P Class=ENUSCC>Maka silahkan duduk, Tn. Nobody.</P></SYNC>
+<SYNC Start=4620095><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4624032><P Class=ENUSCC>Menarik, ya?</P></SYNC>
+<SYNC Start=4625834><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4635578><P Class=ENUSCC>Jadi, kau ingin membunuh dia.</P></SYNC>
+<SYNC Start=4638947><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4641818><P Class=ENUSCC>Kau mau membunuh dia.</P></SYNC>
+<SYNC Start=4643218><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4644286><P Class=ENUSCC>Aku ingin membunuh dia.</P></SYNC>
+<SYNC Start=4645821><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4646922><P Class=ENUSCC>Bagaimana denganmu, Tn. Wick?</P></SYNC>
+<SYNC Start=4648724><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4649391><P Class=ENUSCC>Aku akan membunuhmu.</P></SYNC>
+<SYNC Start=4651393><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4651460><P Class=ENUSCC>Oh.</P></SYNC>
+<SYNC Start=4652728><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4652794><P Class=ENUSCC>Demi Pyotr. Tentu saja, ya.</P></SYNC>
+<SYNC Start=4655197><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4656732><P Class=ENUSCC>Tapi sepertinya, masing-masing dari kita...</P></SYNC>
+<SYNC Start=4659735><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4659801><P Class=ENUSCC>Memiliki permasalahan pelik.</P></SYNC>
+<SYNC Start=4662671><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4662738><P Class=ENUSCC>Anggap saja, kebingungan.<br>Dilema dunia nyata.</P></SYNC>
+<SYNC Start=4666175><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4667910><P Class=ENUSCC>Jadi...</P></SYNC>
+<SYNC Start=4669178><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4670812><P Class=ENUSCC>Bagaimana kalau kita bermain?</P></SYNC>
+<SYNC Start=4673115><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4673182><P Class=ENUSCC>Permainan &quot;One hand.&quot;</P></SYNC>
+<SYNC Start=4674249><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4675117><P Class=ENUSCC>Pemenangnya memutuskan siapa yang hidup...</P></SYNC>
+<SYNC Start=4677286><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4679321><P Class=ENUSCC>Dan siapa yang mati.</P></SYNC>
+<SYNC Start=4680789><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4685794><P Class=ENUSCC>Baik.<br>Berapa nominalnya?</P></SYNC>
+<SYNC Start=4688830><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4688897><P Class=ENUSCC>Melebihi kemampuanmu.</P></SYNC>
+<SYNC Start=4691133><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4691200><P Class=ENUSCC>Ya, aku perlu satu peluru...</P></SYNC>
+<SYNC Start=4693367><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4693368><P Class=ENUSCC>Untuk jadi pria kaya raya.</P></SYNC>
+<SYNC Start=4695404><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4696738><P Class=ENUSCC>Atau mati.</P></SYNC>
+<SYNC Start=4698106><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4700375><P Class=ENUSCC>Bagikan lima kartu.</P></SYNC>
+<SYNC Start=4703145><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4727269><P Class=ENUSCC>Tn. Wick.</P></SYNC>
+<SYNC Start=4728303><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4729438><P Class=ENUSCC>Tn. Wick?</P></SYNC>
+<SYNC Start=4730739><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4754029><P Class=ENUSCC>Kartu &quot;Dead man&#039;s hand,&quot; Tn. Wick.</P></SYNC>
+<SYNC Start=4756131><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4760135><P Class=ENUSCC>Yah...</P></SYNC>
+<SYNC Start=4761136><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4762504><P Class=ENUSCC>Aku tidak berjudi.</P></SYNC>
+<SYNC Start=4764106><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4766743><P Class=ENUSCC>Mari lihat.</P></SYNC>
+<SYNC Start=4767943><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4775484><P Class=ENUSCC>Empat sembilan.<br>Dan empat.</P></SYNC>
+<SYNC Start=4777754><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4777819><P Class=ENUSCC>Sangat mengesankan.</P></SYNC>
+<SYNC Start=4780255><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4792100><P Class=ENUSCC>Ah. Kartu &quot;Royal Flush.&quot;</P></SYNC>
+<SYNC Start=4795538><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4795605><P Class=ENUSCC>Hebat sekali buat bukan siapa pun.</P></SYNC>
+<SYNC Start=4797339><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4797406><P Class=ENUSCC>Terima kasih.</P></SYNC>
+<SYNC Start=4798507><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4800543><P Class=ENUSCC>Seorang pria buta,<br>seorang pria membawa anjing...</P></SYNC>
+<SYNC Start=4803780><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4803845><P Class=ENUSCC>Dan John Wick masuk ke dalam bar.</P></SYNC>
+<SYNC Start=4805814><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4805881><P Class=ENUSCC>Lalu duduk di depan meja ini.</P></SYNC>
+<SYNC Start=4809284><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4809351><P Class=ENUSCC>Entah itu terdengar seperti awal...</P></SYNC>
+<SYNC Start=4811420><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4811486><P Class=ENUSCC>Lelucon mengagumkan.</P></SYNC>
+<SYNC Start=4812988><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4813055><P Class=ENUSCC>Atau kesempatan paling menguntungkan.</P></SYNC>
+<SYNC Start=4815658><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4817859><P Class=ENUSCC>Seseorang mengira dia bisa menemukan jalan keluar.</P></SYNC>
+<SYNC Start=4821997><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4826401><P Class=ENUSCC>Seseorang...</P></SYNC>
+<SYNC Start=4827570><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4828837><P Class=ENUSCC>Mengira dia bisa membeli jalan keluarnya.</P></SYNC>
+<SYNC Start=4831139><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4833975><P Class=ENUSCC>Dan seseorang...</P></SYNC>
+<SYNC Start=4835410><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4836912><P Class=ENUSCC>Mengira dia bisa membunuh...</P></SYNC>
+<SYNC Start=4838380><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4839448><P Class=ENUSCC>Jalan keluarnya.</P></SYNC>
+<SYNC Start=4840683><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4843318><P Class=ENUSCC>Masing-masing dari mereka mengira<br>mereka punya kesempatan menang.</P></SYNC>
+<SYNC Start=4846522><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4847923><P Class=ENUSCC>Tapi yang mereka gagal...</P></SYNC>
+<SYNC Start=4849257><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4850292><P Class=ENUSCC>Sadari...</P></SYNC>
+<SYNC Start=4851761><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4851828><P Class=ENUSCC>Pada saat mereka duduk di meja ini...</P></SYNC>
+<SYNC Start=4855497><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4858867><P Class=ENUSCC>Mereka sudah kalah.</P></SYNC>
+<SYNC Start=4860837><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4860902><P Class=ENUSCC>Biar kutebak.<br>Kartu &quot;Five of a kind&quot;?</P></SYNC>
+<SYNC Start=4863338><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4864973><P Class=ENUSCC>Ya.</P></SYNC>
+<SYNC Start=4866074><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4866606><P Class=ENUSCC>Aku tahu kau itu bajingan curang.</P></SYNC>
+<SYNC Start=4869569><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4869570><P Class=ENUSCC>Ya... Bajingan curang.</P></SYNC>
+<SYNC Start=4872734><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4873516><P Class=ENUSCC>Asal kau tahu...</P></SYNC>
+<SYNC Start=4875016><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4876284><P Class=ENUSCC>Pyotr bukan karena dendam pribadi.</P></SYNC>
+<SYNC Start=4878353><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4880155><P Class=ENUSCC>Mungkin sedikit begitu.</P></SYNC>
+<SYNC Start=4881456><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4885026><P Class=ENUSCC>Bunuh!</P></SYNC>
+<SYNC Start=4887797><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4923776><P Class=ENUSCC>Lampunya mati<br>BAJINGAN</P></SYNC>
+<SYNC Start=4925215><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=4966509><P Class=ENUSCC>Hei!<br>Dia di sebelah sana!</P></SYNC>
+<SYNC Start=4968443><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5010003><P Class=ENUSCC>Kau menembak bokongku!</P></SYNC>
+<SYNC Start=5012452><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5012453><P Class=ENUSCC>BAJINGAN!</P></SYNC>
+<SYNC Start=5013652><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5143586><P Class=ENUSCC>Zakar!</P></SYNC>
+<SYNC Start=5145136><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5174249><P Class=ENUSCC>Kau tahu masalahmu, Tn. Wick?</P></SYNC>
+<SYNC Start=5176418><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5177053><P Class=ENUSCC>Kau sangat tidak beruntung.</P></SYNC>
+<SYNC Start=5179487><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5180956><P Class=ENUSCC>Tidak beruntung dalam kehidupan...</P></SYNC>
+<SYNC Start=5182457><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5182958><P Class=ENUSCC>Dalam cinta...</P></SYNC>
+<SYNC Start=5184325><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5184392><P Class=ENUSCC>Dalam persahabatan...</P></SYNC>
+<SYNC Start=5186194><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5188396><P Class=ENUSCC>Dan sekarang...</P></SYNC>
+<SYNC Start=5189665><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5191199><P Class=ENUSCC>Dalam kematian.</P></SYNC>
+<SYNC Start=5192668><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5252228><P Class=ENUSCC>Bunuh!</P></SYNC>
+<SYNC Start=5254395><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5303311><P Class=ENUSCC>Mengapa kau tidak mati saja?</P></SYNC>
+<SYNC Start=5305948><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5373582><P Class=ENUSCC>Dia milikku.</P></SYNC>
+<SYNC Start=5374917><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5376919><P Class=ENUSCC>Sudah kubilang jangan terima tawarannya.</P></SYNC>
+<SYNC Start=5378954><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5379021><P Class=ENUSCC>Ya, kurasa tawaranmu juga gagal.</P></SYNC>
+<SYNC Start=5381389><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5382157><P Class=ENUSCC>Benar, kan?</P></SYNC>
+<SYNC Start=5383993><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5384059><P Class=ENUSCC>Sampai mereka juga merenggut kedua matamu.</P></SYNC>
+<SYNC Start=5386528><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5391200><P Class=ENUSCC>Mereka tidak merenggut mataku.</P></SYNC>
+<SYNC Start=5392533><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5394637><P Class=ENUSCC>Aku memberikannya.</P></SYNC>
+<SYNC Start=5396004><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5426769><P Class=ENUSCC>Kau adalah anak Belarusia...</P></SYNC>
+<SYNC Start=5429172><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5429173><P Class=ENUSCC>Yatim piatu dari suku kita...</P></SYNC>
+<SYNC Start=5432142><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5432753><P Class=ENUSCC>Kau terikat pada kami<br>seperti kami padamu...</P></SYNC>
+<SYNC Start=5435812><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5435813><P Class=ENUSCC>Dalam kehidupan ini dan selanjutnya.</P></SYNC>
+<SYNC Start=5438119><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5445781><P Class=ENUSCC>Darahmu...</P></SYNC>
+<SYNC Start=5447649><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5447719><P Class=ENUSCC>Dalam darahku.</P></SYNC>
+<SYNC Start=5449416><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5449516><P Class=ENUSCC>Deritamu...</P></SYNC>
+<SYNC Start=5451368><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5451369><P Class=ENUSCC>Adalah deritaku.</P></SYNC>
+<SYNC Start=5453742><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5454601><P Class=ENUSCC>Kehidupanmu...</P></SYNC>
+<SYNC Start=5456363><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5456364><P Class=ENUSCC>Adalah kehidupanku.</P></SYNC>
+<SYNC Start=5458233><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5478098><P Class=ENUSCC>Selamat datang kembali, Jardani.</P></SYNC>
+<SYNC Start=5481070><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5492101><P Class=ENUSCC>Ruska Roma mendukung...</P></SYNC>
+<SYNC Start=5494570><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5494636><P Class=ENUSCC>Tantanganmu.</P></SYNC>
+<SYNC Start=5495804><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5497039><P Class=ENUSCC>Siapa yang jadi pendampingmu?</P></SYNC>
+<SYNC Start=5498607><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5527102><P Class=ENUSCC>Peringatan akan akibat tirani.</P></SYNC>
+<SYNC Start=5529938><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5533375><P Class=ENUSCC>Kau pasti berniat gabung dengan pramutamu milikmu.</P></SYNC>
+<SYNC Start=5536712><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5536779><P Class=ENUSCC>Tidak hari ini.</P></SYNC>
+<SYNC Start=5538047><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5545187><P Class=ENUSCC>Sesuai Old Ways (Cara Lama)<br>dan Old Laws (Peraturan Kuno)...</P></SYNC>
+<SYNC Start=5547289><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5547356><P Class=ENUSCC>John Wick meminta duel denganmu.</P></SYNC>
+<SYNC Start=5550092><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5550159><P Class=ENUSCC>Untuk mengakhiri perbedaan kalian<br>dengan cara kuno...</P></SYNC>
+<SYNC Start=5552728><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5552795><P Class=ENUSCC>Seperti pria sejati.</P></SYNC>
+<SYNC Start=5554730><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5556965><P Class=ENUSCC>Kau membicarakan Old Ways<br>seolah kau mengetahuinya.</P></SYNC>
+<SYNC Start=5559334><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5560502><P Class=ENUSCC>Pria seperti Tn. Wick...</P></SYNC>
+<SYNC Start=5562571><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5562638><P Class=ENUSCC>Tidak bisa mengeluarkan tantangan.</P></SYNC>
+<SYNC Start=5564339><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5565974><P Class=ENUSCC>Dia dapat lambang keluarganya.</P></SYNC>
+<SYNC Start=5568110><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5570779><P Class=ENUSCC>Hmm.</P></SYNC>
+<SYNC Start=5572114><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5573082><P Class=ENUSCC>Berlin.</P></SYNC>
+<SYNC Start=5574116><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5574183><P Class=ENUSCC>Tantangan Ruska Roma...</P></SYNC>
+<SYNC Start=5575584><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5575651><P Class=ENUSCC>Menerima kembali Tn. Wick<br>dalam keluarga...</P></SYNC>
+<SYNC Start=5577586><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5577653><P Class=ENUSCC>Semuanya ada di sini.</P></SYNC>
+<SYNC Start=5579321><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5579388><P Class=ENUSCC>Tercatat dalam sejarah sekarang.</P></SYNC>
+<SYNC Start=5581056><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5589598><P Class=ENUSCC>Mengapa aku menerima tantangan...</P></SYNC>
+<SYNC Start=5591300><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5591366><P Class=ENUSCC>Dari posisi kelas dua?</P></SYNC>
+<SYNC Start=5592935><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5593001><P Class=ENUSCC>Karena itu peraturannya,<br>dan tanpa peraturan itu...</P></SYNC>
+<SYNC Start=5595304><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5595370><P Class=ENUSCC>- Kita hidup seperti hewan.<br>- Tepat.</P></SYNC>
+<SYNC Start=5598307><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5601877><P Class=ENUSCC>Zaman telah berubah.</P></SYNC>
+<SYNC Start=5603345><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5604246><P Class=ENUSCC>Hari baru akan tiba.</P></SYNC>
+<SYNC Start=5605681><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5605747><P Class=ENUSCC>Gagasan baru, peraturan baru...</P></SYNC>
+<SYNC Start=5608617><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5609485><P Class=ENUSCC>Manajemen baru.</P></SYNC>
+<SYNC Start=5610853><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5612921><P Class=ENUSCC>Namun kau akan menerimanya.</P></SYNC>
+<SYNC Start=5615057><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5615124><P Class=ENUSCC>Karena kita semua masih duduk di bawah The Table.</P></SYNC>
+<SYNC Start=5619061><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5619128><P Class=ENUSCC>Bahkan kau tidak kebal terhadap<br>konsekuensi kegagalan.</P></SYNC>
+<SYNC Start=5622364><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5630239><P Class=ENUSCC>Dan apa tepatnya ketentuan Tn. Wick?</P></SYNC>
+<SYNC Start=5633308><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5634143><P Class=ENUSCC>&quot;Victoriae fiducia.&quot;<br>(Keyakinan akan kemenangan).</P></SYNC>
+<SYNC Start=5636712><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5636778><P Class=ENUSCC>Pembebasan tanpa syarat dari setiap<br>dan segala kewajiban kepada The Table.</P></SYNC>
+<SYNC Start=5641683><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5656031><P Class=ENUSCC>Sejarah dikotori oleh Marquis...</P></SYNC>
+<SYNC Start=5658934><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5659001><P Class=ENUSCC>Yang hanya diingat oleh para pelayan mereka.</P></SYNC>
+<SYNC Start=5661370><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5662171><P Class=ENUSCC>Tapi kau...</P></SYNC>
+<SYNC Start=5663338><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5665140><P Class=ENUSCC>Kau bisa dikenang...</P></SYNC>
+<SYNC Start=5666576><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5666643><P Class=ENUSCC>Sebagai pria yang mengalahkan John Wick...</P></SYNC>
+<SYNC Start=5669011><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5669077><P Class=ENUSCC>Yang paling ditakuti...</P></SYNC>
+<SYNC Start=5670746><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5670812><P Class=ENUSCC>Oleh The Table dan segala yang<br>duduk di dalamnya, jadi dikenal.</P></SYNC>
+<SYNC Start=5673348><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5674816><P Class=ENUSCC>Kau jadi terkenal.</P></SYNC>
+<SYNC Start=5676185><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5678420><P Class=ENUSCC>Siapa yang bisa memprediksi...</P></SYNC>
+<SYNC Start=5679922><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5679988><P Class=ENUSCC>Betapa tingginya keagungan itu...</P></SYNC>
+<SYNC Start=5682024><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5682090><P Class=ENUSCC>Berpengaruh bagi seorang pria<br>dalam duniamu?</P></SYNC>
+<SYNC Start=5684426><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5701310><P Class=ENUSCC>Siang, di &quot;La Tour Eiffel,&quot;<br>untuk membahas peraturan.</P></SYNC>
+<SYNC Start=5705047><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5705914><P Class=ENUSCC>Kau boleh pergi.</P></SYNC>
+<SYNC Start=5707182><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5708350><P Class=ENUSCC>Aku belum selesai.</P></SYNC>
+<SYNC Start=5709518><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5710852><P Class=ENUSCC>Sebagai pendamping,<br>dalam kemenangannya...</P></SYNC>
+<SYNC Start=5712522><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5712589><P Class=ENUSCC>Excommunicado milikku harus diangkat,<br>gelarku dipulihkan...</P></SYNC>
+<SYNC Start=5716258><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5716325><P Class=ENUSCC>Hotelku dibangun ulang<br>dan disucikan kembali...</P></SYNC>
+<SYNC Start=5719261><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5719328><P Class=ENUSCC>Semuanya memakai dana The Table.</P></SYNC>
+<SYNC Start=5721530><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5723666><P Class=ENUSCC>Tentu.</P></SYNC>
+<SYNC Start=5724866><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5725858><P Class=ENUSCC>Aku terkesan.</P></SYNC>
+<SYNC Start=5728256><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5735110><P Class=ENUSCC>&quot;Caramu melakukan apa pun<br>Adalah caramu melakukan segalanya.&quot;</P></SYNC>
+<SYNC Start=5737813><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5739748><P Class=ENUSCC>Sekarang aku selesai.</P></SYNC>
+<SYNC Start=5740949><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5745053><P Class=ENUSCC>Aku akan merindukanmu setelah kau pergi.</P></SYNC>
+<SYNC Start=5746989><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5747055><P Class=ENUSCC>Sayang, aku tidak bisa<br>mengatakan hal yang sama.</P></SYNC>
+<SYNC Start=5749057><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5749958><P Class=ENUSCC>Kau tidak tahu itu, kan?</P></SYNC>
+<SYNC Start=5751493><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5752595><P Class=ENUSCC>Apa?</P></SYNC>
+<SYNC Start=5754796><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5754863><P Class=ENUSCC>Seorang pendamping,<br>seperti penyokongnya...</P></SYNC>
+<SYNC Start=5757966><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5758033><P Class=ENUSCC>Entah berjalan keluar bersama juaranya...</P></SYNC>
+<SYNC Start=5760068><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5760135><P Class=ENUSCC>Atau dikubur disamping juaranya.</P></SYNC>
+<SYNC Start=5762037><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5763606><P Class=ENUSCC>Old Ways (Cara Lama).</P></SYNC>
+<SYNC Start=5765140><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5773382><P Class=ENUSCC>Begitulah kehidupan.</P></SYNC>
+<SYNC Start=5774649><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5821798><P Class=ENUSCC>Menurut Old Laws...<br>(Peraturan Kuno)</P></SYNC>
+<SYNC Start=5823965><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5824032><P Class=ENUSCC>Hanya satu yang bisa selamat.</P></SYNC>
+<SYNC Start=5826234><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5826235><P Class=ENUSCC>Kalian berdua memahaminya?</P></SYNC>
+<SYNC Start=5828036><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5831774><P Class=ENUSCC>Bagus.</P></SYNC>
+<SYNC Start=5833208><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5833275><P Class=ENUSCC>Peraturan.</P></SYNC>
+<SYNC Start=5835077><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5835143><P Class=ENUSCC>Sang penantang memilih<br>terlebih dahulu. Waktu?</P></SYNC>
+<SYNC Start=5837979><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5839816><P Class=ENUSCC>Mentari terbit.</P></SYNC>
+<SYNC Start=5841083><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5846723><P Class=ENUSCC>Sekarang.</P></SYNC>
+<SYNC Start=5847956><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5851728><P Class=ENUSCC>Mentari terbit.</P></SYNC>
+<SYNC Start=5853061><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5853563><P Class=ENUSCC>Lokasi?</P></SYNC>
+<SYNC Start=5854664><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5855498><P Class=ENUSCC>Kau datang kemari...</P></SYNC>
+<SYNC Start=5856832><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5856833><P Class=ENUSCC>Mengira ada jalan keluar dari<br>dunia ini bagimu, Tn. Wick?</P></SYNC>
+<SYNC Start=5859901><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5862070><P Class=ENUSCC>Tidak ada.</P></SYNC>
+<SYNC Start=5863305><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5866174><P Class=ENUSCC>Le Centre Pompidou.<br>(Pusat Pompidou).</P></SYNC>
+<SYNC Start=5868043><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5870747><P Class=ENUSCC>Sacre Coeur.<br>(Basilika Hati Suci).</P></SYNC>
+<SYNC Start=5872347><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5877052><P Class=ENUSCC>Sacre Coeur.</P></SYNC>
+<SYNC Start=5878320><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5879522><P Class=ENUSCC>Senjata?</P></SYNC>
+<SYNC Start=5880523><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5881591><P Class=ENUSCC>Jika kau menang...</P></SYNC>
+<SYNC Start=5882958><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5883024><P Class=ENUSCC>The Table akan menepati janjinya.</P></SYNC>
+<SYNC Start=5885026><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5886128><P Class=ENUSCC>Kau akan dapat kebebasanmu.</P></SYNC>
+<SYNC Start=5887596><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5888797><P Class=ENUSCC>Tapi kau tidak akan menerimanya.</P></SYNC>
+<SYNC Start=5890332><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5891601><P Class=ENUSCC>Pisau.</P></SYNC>
+<SYNC Start=5892603><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5898575><P Class=ENUSCC>Pistol.</P></SYNC>
+<SYNC Start=5899909><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5904648><P Class=ENUSCC>Duel dengan pistol.<br>Tiga puluh langkah.</P></SYNC>
+<SYNC Start=5909018><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5909085><P Class=ENUSCC>Jika kedua peserta selamat...</P></SYNC>
+<SYNC Start=5911487><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5911555><P Class=ENUSCC>Masing-masing akan saling mendekat<br>maju dalam sepuluh langkah...</P></SYNC>
+<SYNC Start=5914957><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5915024><P Class=ENUSCC>Sampai hanya satu yang tersisa.</P></SYNC>
+<SYNC Start=5917393><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5918829><P Class=ENUSCC>Peraturan pertarungan.</P></SYNC>
+<SYNC Start=5920229><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5921497><P Class=ENUSCC>Tanpa ampun.</P></SYNC>
+<SYNC Start=5922965><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5923032><P Class=ENUSCC>Kau tahu mengapa kau tidak akan<br>mendapat kebebasanmu?</P></SYNC>
+<SYNC Start=5925602><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5926469><P Class=ENUSCC>Hmm?</P></SYNC>
+<SYNC Start=5927503><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5929038><P Class=ENUSCC>Karena inilah jati dirimu...</P></SYNC>
+<SYNC Start=5931107><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5932008><P Class=ENUSCC>Selamanya seperti ini.</P></SYNC>
+<SYNC Start=5933544><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5935813><P Class=ENUSCC>Kau itu pembunuh.</P></SYNC>
+<SYNC Start=5937648><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5939982><P Class=ENUSCC>Yatim piatu yang kami pungut dari jalanan...</P></SYNC>
+<SYNC Start=5942619><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5942686><P Class=ENUSCC>Dan diasah menjadi mematikan.</P></SYNC>
+<SYNC Start=5945154><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5945221><P Class=ENUSCC>Pembunuhan itu memberimu tujuan.</P></SYNC>
+<SYNC Start=5948057><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5949058><P Class=ENUSCC>Seorang pria tanpa tujuan...</P></SYNC>
+<SYNC Start=5950993><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5952796><P Class=ENUSCC>Tidak jadi apa pun.</P></SYNC>
+<SYNC Start=5954130><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5956533><P Class=ENUSCC>Tanpa ampun.</P></SYNC>
+<SYNC Start=5957734><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5959368><P Class=ENUSCC>Tanpa ampun.</P></SYNC>
+<SYNC Start=5961237><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5961304><P Class=ENUSCC>Jika tidak ada lagi, tuan-tuan...</P></SYNC>
+<SYNC Start=5964173><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5964240><P Class=ENUSCC>- Kutemui kalian...<br>- Perwakilan.</P></SYNC>
+<SYNC Start=5965975><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5970446><P Class=ENUSCC>Itu haknya.</P></SYNC>
+<SYNC Start=5971648><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5973316><P Class=ENUSCC>Kau punya nama?</P></SYNC>
+<SYNC Start=5974984><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5979989><P Class=ENUSCC>Caine.</P></SYNC>
+<SYNC Start=5981224><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5983760><P Class=ENUSCC>Baiklah.</P></SYNC>
+<SYNC Start=5985596><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5985662><P Class=ENUSCC>Mentari terbit, Sacre Coeur.</P></SYNC>
+<SYNC Start=5987564><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5989165><P Class=ENUSCC>Duel pistol,<br>tanpa ampun.</P></SYNC>
+<SYNC Start=5991535><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5991602><P Class=ENUSCC>Jika Tn. Wick menang...</P></SYNC>
+<SYNC Start=5994070><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5994136><P Class=ENUSCC>Dia akan bebas dari setiap dan segala kewajiban...</P></SYNC>
+<SYNC Start=5995973><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5996072><P Class=ENUSCC>Terhadap The High Table...</P></SYNC>
+<SYNC Start=5997641><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=5997708><P Class=ENUSCC>Dan pendampingnya akan dipulihkan...</P></SYNC>
+<SYNC Start=5999977><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6000042><P Class=ENUSCC>Sebagai manajer yang telah dibangun kembali...</P></SYNC>
+<SYNC Start=6002278><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6002345><P Class=ENUSCC>Continental New York.</P></SYNC>
+<SYNC Start=6004046><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6005749><P Class=ENUSCC>Jika Marquis Vincent Bisset de Gramont<br>menang...</P></SYNC>
+<SYNC Start=6009786><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6009853><P Class=ENUSCC>John Wick akan mati.</P></SYNC>
+<SYNC Start=6011555><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6013824><P Class=ENUSCC>Demikian juga pendampingnya.</P></SYNC>
+<SYNC Start=6015358><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6017226><P Class=ENUSCC>Begitulah.</P></SYNC>
+<SYNC Start=6018996><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6019061><P Class=ENUSCC>Jika tidak ada lagi, tuan-tuan...</P></SYNC>
+<SYNC Start=6020396><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6020463><P Class=ENUSCC>Kutemui kalian saat mentari terbit.</P></SYNC>
+<SYNC Start=6022633><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6022699><P Class=ENUSCC>Gagal bertemu pada jam yang ditetapkan...</P></SYNC>
+<SYNC Start=6024433><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6024500><P Class=ENUSCC>Akan dianggap mundur...</P></SYNC>
+<SYNC Start=6026035><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6026102><P Class=ENUSCC>Dan langsung dieksekusi.</P></SYNC>
+<SYNC Start=6028271><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6039248><P Class=ENUSCC>Tidak ada John di luar sana.</P></SYNC>
+<SYNC Start=6042318><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6043554><P Class=ENUSCC>Tidak ada suami bahagia<br>dengan kehidupan normal.</P></SYNC>
+<SYNC Start=6046322><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6049225><P Class=ENUSCC>Hanya ada John Wick...</P></SYNC>
+<SYNC Start=6050661><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6051528><P Class=ENUSCC>Sang pembunuh.</P></SYNC>
+<SYNC Start=6052729><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6054965><P Class=ENUSCC>Dan dia akan membunuhmu.</P></SYNC>
+<SYNC Start=6057099><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6063774><P Class=ENUSCC>Hotelmu?</P></SYNC>
+<SYNC Start=6065041><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6065943><P Class=ENUSCC>Ya.</P></SYNC>
+<SYNC Start=6067243><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6067310><P Class=ENUSCC>Kau selalu punya niat tersembunyi, ya?</P></SYNC>
+<SYNC Start=6069245><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6069312><P Class=ENUSCC>Bukankah semua orang begitu?</P></SYNC>
+<SYNC Start=6071247><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6071314><P Class=ENUSCC>Mari cari tempat aman sebelum duel dimulai.</P></SYNC>
+<SYNC Start=6075117><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6075184><P Class=ENUSCC>Ada sesuatu yang harus<br>kulakukan lebih dulu.</P></SYNC>
+<SYNC Start=6077054><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6077119><P Class=ENUSCC>Semakin cepat lebih baik.</P></SYNC>
+<SYNC Start=6079523><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6083225><P Class=ENUSCC>Aku tidak mau.</P></SYNC>
+<SYNC Start=6084895><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6084962><P Class=ENUSCC>Kau bertarunglah sendiri.</P></SYNC>
+<SYNC Start=6086429><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6090333><P Class=ENUSCC>Bukankah ini yang kau inginkan?</P></SYNC>
+<SYNC Start=6092168><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6093904><P Class=ENUSCC>Hmm?</P></SYNC>
+<SYNC Start=6095371><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6095438><P Class=ENUSCC>&quot;Victoriae fiducia.&quot;<br>(Keyakinan akan kemenangan).</P></SYNC>
+<SYNC Start=6097373><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6098207><P Class=ENUSCC>Kau bunuh dia...</P></SYNC>
+<SYNC Start=6099543><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6099610><P Class=ENUSCC>Kau dan putrimu akan bebas.</P></SYNC>
+<SYNC Start=6101578><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6103747><P Class=ENUSCC>Tidak akan ada yang menyentuh putrimu.</P></SYNC>
+<SYNC Start=6105447><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6106750><P Class=ENUSCC>Jika kau tidak mau...</P></SYNC>
+<SYNC Start=6108585><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6108652><P Class=ENUSCC>Putrimu harus menerima konsekuensinya.</P></SYNC>
+<SYNC Start=6111420><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6112990><P Class=ENUSCC>Pilihlah sendiri.</P></SYNC>
+<SYNC Start=6115124><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6201678><P Class=ENUSCC>Caine.</P></SYNC>
+<SYNC Start=6202746><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6203680><P Class=ENUSCC>John.</P></SYNC>
+<SYNC Start=6204815><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6205949><P Class=ENUSCC>Mengucapkan perpisahan?</P></SYNC>
+<SYNC Start=6207316><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6209251><P Class=ENUSCC>Mengucapkan salam.</P></SYNC>
+<SYNC Start=6210887><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6216159><P Class=ENUSCC>Menurutmu istrimu bisa mendengarmu?</P></SYNC>
+<SYNC Start=6217961><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6220564><P Class=ENUSCC>Tidak.</P></SYNC>
+<SYNC Start=6221665><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6225234><P Class=ENUSCC>Mengapa susah-susah?</P></SYNC>
+<SYNC Start=6226770><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6228705><P Class=ENUSCC>Mungkin aku salah.</P></SYNC>
+<SYNC Start=6230239><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6233977><P Class=ENUSCC>Yang mati telah hilang.</P></SYNC>
+<SYNC Start=6235579><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6239149><P Class=ENUSCC>Yang hidup yang terpenting.</P></SYNC>
+<SYNC Start=6240951><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6246388><P Class=ENUSCC>Setelah putriku lahir...</P></SYNC>
+<SYNC Start=6248692><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6250594><P Class=ENUSCC>Aku ingin meninggalkan kehidupan ini.</P></SYNC>
+<SYNC Start=6252261><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6254898><P Class=ENUSCC>Kukira berhasil.</P></SYNC>
+<SYNC Start=6256265><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6258501><P Class=ENUSCC>Namun tidak.</P></SYNC>
+<SYNC Start=6260003><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6262271><P Class=ENUSCC>Kita dikutuk...</P></SYNC>
+<SYNC Start=6263707><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6265876><P Class=ENUSCC>Kau dan aku.</P></SYNC>
+<SYNC Start=6266977><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6268444><P Class=ENUSCC>Untuk itu kita setuju.</P></SYNC>
+<SYNC Start=6270547><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6274618><P Class=ENUSCC>Putriku tidak.</P></SYNC>
+<SYNC Start=6276418><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6279589><P Class=ENUSCC>Jika ini antara kau dan putriku...</P></SYNC>
+<SYNC Start=6281658><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6283827><P Class=ENUSCC>Kau harus mati.</P></SYNC>
+<SYNC Start=6285461><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6292269><P Class=ENUSCC>Mungkin tidak.</P></SYNC>
+<SYNC Start=6293837><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6299042><P Class=ENUSCC>Aku rindu kau, John.</P></SYNC>
+<SYNC Start=6300577><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6302646><P Class=ENUSCC>Senang bisa duduk bersama seorang teman.</P></SYNC>
+<SYNC Start=6305447><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6310419><P Class=ENUSCC>Sampai jumpa besok.</P></SYNC>
+<SYNC Start=6312522><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6342586><P Class=ENUSCC>Beginikah caramu memecahkan masalah?</P></SYNC>
+<SYNC Start=6345454><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6345522><P Class=ENUSCC>Duel dengan Baba Yaga.</P></SYNC>
+<SYNC Start=6347657><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6347724><P Class=ENUSCC>Kegagalan akan mengguncang<br>pondasi The High Table...</P></SYNC>
+<SYNC Start=6350894><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6352295><P Class=ENUSCC>Dan akan mengubah Wick jadi Santo.</P></SYNC>
+<SYNC Start=6355532><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6358201><P Class=ENUSCC>Kemenanganku akan menghasilkan sebaliknya.</P></SYNC>
+<SYNC Start=6360537><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6363106><P Class=ENUSCC>Marquis de Gramont!</P></SYNC>
+<SYNC Start=6364708><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6366375><P Class=ENUSCC>Ambisi seorang pria...</P></SYNC>
+<SYNC Start=6368545><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6368612><P Class=ENUSCC>Tidak seharusnya melebihi kemampuannya.</P></SYNC>
+<SYNC Start=6370881><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6373750><P Class=ENUSCC>Kau pasti akan mengingat itu, pak.</P></SYNC>
+<SYNC Start=6376786><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6417786><P Class=ENUSCC>Rasakan Sensasi Terbaik, Klik Sekarang Akses Terbatas<br>&gt;&gt;&gt; www.MANTULXXX.COM &lt;&lt;&lt;</P></SYNC>
+<SYNC Start=6432786><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6457534><P Class=ENUSCC>Halo, Tn. Wick.</P></SYNC>
+<SYNC Start=6459536><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6459602><P Class=ENUSCC>Dan selamat datang di La Resistance.<br>(Perlawanan).</P></SYNC>
+<SYNC Start=6462471><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6462539><P Class=ENUSCC>Agak jauh dari rumah, ya?</P></SYNC>
+<SYNC Start=6464641><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6464708><P Class=ENUSCC>Tindakan kecilmu...</P></SYNC>
+<SYNC Start=6466076><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6466142><P Class=ENUSCC>Ketidaktaatan yang tidak beradabmu<br>itu menginspirasiku, John.</P></SYNC>
+<SYNC Start=6468712><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6468778><P Class=ENUSCC>Kuperluas cabangku.</P></SYNC>
+<SYNC Start=6470380><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6470447><P Class=ENUSCC>Kulebarkan sayapku.</P></SYNC>
+<SYNC Start=6472682><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6472749><P Class=ENUSCC>Bagaimana tur perpisahan agungmu itu?</P></SYNC>
+<SYNC Start=6474751><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6476419><P Class=ENUSCC>Akan berakhir.</P></SYNC>
+<SYNC Start=6477954><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6478888><P Class=ENUSCC>Begitulah. Begitulah.</P></SYNC>
+<SYNC Start=6481224><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6482392><P Class=ENUSCC>Setelan ukuran 42, kan?</P></SYNC>
+<SYNC Start=6484493><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6485494><P Class=ENUSCC>Ini Kevlar,<br>depan sampai belakang.</P></SYNC>
+<SYNC Start=6487030><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6487097><P Class=ENUSCC>Keluaran terbaru tahan balistik.</P></SYNC>
+<SYNC Start=6488965><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6489032><P Class=ENUSCC>Layak dipakai dalam segala acara resmi.</P></SYNC>
+<SYNC Start=6490834><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6490900><P Class=ENUSCC>Pernikahan, pemakaman,<br>duel High Table.</P></SYNC>
+<SYNC Start=6494037><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6494104><P Class=ENUSCC>Lagi pula, seorang pria harus terlihat tampan...</P></SYNC>
+<SYNC Start=6495772><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6495839><P Class=ENUSCC>Saat tiba waktunya menikah.</P></SYNC>
+<SYNC Start=6497607><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6499142><P Class=ENUSCC>Atau dikubur.</P></SYNC>
+<SYNC Start=6500343><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6510987><P Class=ENUSCC>Maafkan aku, pak...</P></SYNC>
+<SYNC Start=6512155><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6512822><P Class=ENUSCC>Tapi ini gila.</P></SYNC>
+<SYNC Start=6514290><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6515492><P Class=ENUSCC>Gila?</P></SYNC>
+<SYNC Start=6516960><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6517027><P Class=ENUSCC>Memercayakan nasibmu ke pria buta?</P></SYNC>
+<SYNC Start=6518995><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6520296><P Class=ENUSCC>Ada tiga jenis pria dalam dunia ini.</P></SYNC>
+<SYNC Start=6523166><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6524934><P Class=ENUSCC>Mereka yang punya sesuatu untuk hidup...</P></SYNC>
+<SYNC Start=6528004><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6528071><P Class=ENUSCC>Mereka yang punya sesuatu untuk mati...</P></SYNC>
+<SYNC Start=6531141><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6531207><P Class=ENUSCC>Dan mereka yang punya<br>sesuatu untuk dibunuh.</P></SYNC>
+<SYNC Start=6533977><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6534044><P Class=ENUSCC>John Wick tidak punya itu semua.</P></SYNC>
+<SYNC Start=6536713><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6536780><P Class=ENUSCC>Dia itu hanyalah hantu yang<br>mencari makamnya.</P></SYNC>
+<SYNC Start=6540016><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6541451><P Class=ENUSCC>Tapi pria buat itu...</P></SYNC>
+<SYNC Start=6542852><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6544154><P Class=ENUSCC>Dia punya ketiganya.</P></SYNC>
+<SYNC Start=6545655><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6547390><P Class=ENUSCC>Lagi pula, aku punya perasaan...</P></SYNC>
+<SYNC Start=6549426><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6549492><P Class=ENUSCC>Tn. Wick tidak akan pernah sampai...</P></SYNC>
+<SYNC Start=6551628><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6551694><P Class=ENUSCC>Ke tempat duel saat mentari terbit.</P></SYNC>
+<SYNC Start=6553797><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6558452><P Class=ENUSCC>Dimengerti, pak.</P></SYNC>
+<SYNC Start=6560588><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6576279><P Class=ENUSCC>KIRIM KE DJ<br>CARI DAN HANCURKAN JOHN WICK</P></SYNC>
+<SYNC Start=6578787><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6578788><P Class=ENUSCC>SUBYEK WICK J $20 JUTA</P></SYNC>
+<SYNC Start=6582030><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6582031><P Class=ENUSCC>CINTA - BENCI</P></SYNC>
+<SYNC Start=6583031><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6583032><P Class=ENUSCC>CARI DAN HANCURKAN<br>WICK, JOHN</P></SYNC>
+<SYNC Start=6584549><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6584550><P Class=ENUSCC>$26 JUTA</P></SYNC>
+<SYNC Start=6586337><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6591460><P Class=ENUSCC>MENGUDARA</P></SYNC>
+<SYNC Start=6593427><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6598641><P Class=ENUSCC>Baiklah.</P></SYNC>
+<SYNC Start=6600210><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6600276><P Class=ENUSCC>Untuk kalian semua orang trendi<br>di luar sana di Kota Cahaya...</P></SYNC>
+<SYNC Start=6603012><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6603079><P Class=ENUSCC>Untuk kalian semua orang jalanan<br>yang ingin mendengarkan aksi...</P></SYNC>
+<SYNC Start=6606983><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6607050><P Class=ENUSCC>Untuk semua pendengar setiaku...</P></SYNC>
+<SYNC Start=6609319><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6609385><P Class=ENUSCC>Yang sangat mengenali jalanan...</P></SYNC>
+<SYNC Start=6612322><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6612388><P Class=ENUSCC>Malam ini kesempatan kalian<br>untuk menghasilkan lagu nan merdu.</P></SYNC>
+<SYNC Start=6616960><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6617026><P Class=ENUSCC>Aku diminta menyampaikan<br>permintaan istimewa ini...</P></SYNC>
+<SYNC Start=6620497><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6620564><P Class=ENUSCC>Dari seorang penggemar rahasia.</P></SYNC>
+<SYNC Start=6622332><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6623399><P Class=ENUSCC>Sepertinya ada duri...</P></SYNC>
+<SYNC Start=6625034><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6625101><P Class=ENUSCC>Dalam sepotong Surga kecil kita.</P></SYNC>
+<SYNC Start=6628572><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6628638><P Class=ENUSCC>Seorang pria jahat dari Kota Big Apple...</P></SYNC>
+<SYNC Start=6630874><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6630940><P Class=ENUSCC>Sedang dalam perjalanan<br>menuju Hati Suci kita.</P></SYNC>
+<SYNC Start=6634277><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6635445><P Class=ENUSCC>Kami melakukan panggilan...</P></SYNC>
+<SYNC Start=6636880><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6636946><P Class=ENUSCC>Untuk mengantarkan hantaman terkeras kalian<br>kepada pria berbaju hitam itu.</P></SYNC>
+<SYNC Start=6640817><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6640884><P Class=ENUSCC>Jika kalian ingin hadiah ini,<br>harus kalian selesaikan sebelum mentari terbit.</P></SYNC>
+<SYNC Start=6645221><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6645288><P Class=ENUSCC>Senandung kenangan ini...</P></SYNC>
+<SYNC Start=6647390><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6647457><P Class=ENUSCC>Dan maksudku tembang kenangan ini...</P></SYNC>
+<SYNC Start=6650493><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6650561><P Class=ENUSCC>Dipersembahkan untukmu, Tn. Wick.</P></SYNC>
+<SYNC Start=6653196><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6655098><P Class=ENUSCC>Dan ingat,<br>tidak ada tempat lari.</P></SYNC>
+<SYNC Start=6658034><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6684955><P Class=ENUSCC>NAPAS NAGA</P></SYNC>
+<SYNC Start=6687333><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6723733><P Class=ENUSCC>Terima kasih semuanya...</P></SYNC>
+<SYNC Start=6725101><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6725168><P Class=ENUSCC>Telah mendengarkan WUXIA...</P></SYNC>
+<SYNC Start=6729339><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6729405><P Class=ENUSCC>Tempat untuk segala hiburan kalian...</P></SYNC>
+<SYNC Start=6732576><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6732643><P Class=ENUSCC>Dan informasi yang dibutuhkan.</P></SYNC>
+<SYNC Start=6734777><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6734844><P Class=ENUSCC>Selamat berburu.</P></SYNC>
+<SYNC Start=6736246><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6738582><P Class=ENUSCC>Dan dimulailah.</P></SYNC>
+<SYNC Start=6740183><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6741518><P Class=ENUSCC>Aku perlu pistol.</P></SYNC>
+<SYNC Start=6743820><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6745121><P Class=ENUSCC>Kukira kau tidak akan tanya.</P></SYNC>
+<SYNC Start=6746789><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6748124><P Class=ENUSCC>Pit Viper sembilan milimeter.</P></SYNC>
+<SYNC Start=6750561><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6750628><P Class=ENUSCC>Bagaimana kau dapat ini?</P></SYNC>
+<SYNC Start=6752328><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6752395><P Class=ENUSCC>Aku kenal pria yang kenal pria<br>yang menembak seorang pria.</P></SYNC>
+<SYNC Start=6755498><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6756634><P Class=ENUSCC>Magazen kapasitas 21 peluru...</P></SYNC>
+<SYNC Start=6758368><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6758369><P Class=ENUSCC>Dengan kompensator bawaan...</P></SYNC>
+<SYNC Start=6759501><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6759502><P Class=ENUSCC>Tanpa pengangkat laras.</P></SYNC>
+<SYNC Start=6761337><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6761404><P Class=ENUSCC>Serat optik bagian depan...</P></SYNC>
+<SYNC Start=6763306><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6763373><P Class=ENUSCC>Pengaman ambideksteritas...</P></SYNC>
+<SYNC Start=6764974><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6765041><P Class=ENUSCC>Flared magwell untuk mengisi ulang lebih cepat...</P></SYNC>
+<SYNC Start=6767578><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6767645><P Class=ENUSCC>Pemicu ekstrim dua pon...</P></SYNC>
+<SYNC Start=6769613><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6769680><P Class=ENUSCC>Dan untuk,<br>Apa istilahnya...</P></SYNC>
+<SYNC Start=6772315><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6772382><P Class=ENUSCC>Pertemuan intim...</P></SYNC>
+<SYNC Start=6774083><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6774150><P Class=ENUSCC>Pistol Viper itu punya taring ganas.</P></SYNC>
+<SYNC Start=6777220><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6782158><P Class=ENUSCC>Seberapa dekat kau bisa membawaku ke Gereja?</P></SYNC>
+<SYNC Start=6785061><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6790233><P Class=ENUSCC>Amin.</P></SYNC>
+<SYNC Start=6791301><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6801377><P Class=ENUSCC>Ini dia, tuan-tuan.</P></SYNC>
+<SYNC Start=6804047><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6805582><P Class=ENUSCC>Kendaraan kalian.</P></SYNC>
+<SYNC Start=6806884><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6810086><P Class=ENUSCC>Saat aku memberimu saran...</P></SYNC>
+<SYNC Start=6811487><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6811555><P Class=ENUSCC>Jangan berurusan lagi...</P></SYNC>
+<SYNC Start=6812922><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6812989><P Class=ENUSCC>Dalam dunia ini...</P></SYNC>
+<SYNC Start=6814758><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6814824><P Class=ENUSCC>Aku tidak mengira akan dapat masalah.</P></SYNC>
+<SYNC Start=6817093><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6819862><P Class=ENUSCC>Ini semua akan selesai<br>setelah hari ini.</P></SYNC>
+<SYNC Start=6822131><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6825068><P Class=ENUSCC>Saat aku mengubur Charon...</P></SYNC>
+<SYNC Start=6827270><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6829205><P Class=ENUSCC>Aku bingung apa yang harus<br>kutulis di nisannya.</P></SYNC>
+<SYNC Start=6832241><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6833510><P Class=ENUSCC>Dua kalimat untuk menyimpulkan<br>seluruh hidupnya?</P></SYNC>
+<SYNC Start=6836879><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6836946><P Class=ENUSCC>Hidup Sang Raja!</P></SYNC>
+<SYNC Start=6840016><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6840083><P Class=ENUSCC>Aku sudah memikirkan kalimat nisanku.</P></SYNC>
+<SYNC Start=6842185><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6843453><P Class=ENUSCC>Sederhana.</P></SYNC>
+<SYNC Start=6844487><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6844555><P Class=ENUSCC>Penubuatan.</P></SYNC>
+<SYNC Start=6846422><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6847591><P Class=ENUSCC>Kalimat apa yang kau putuskan?</P></SYNC>
+<SYNC Start=6849225><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6850226><P Class=ENUSCC>Teman.</P></SYNC>
+<SYNC Start=6852061><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6852128><P Class=ENUSCC>Itulah dia dalam seluruh hidupnya.</P></SYNC>
+<SYNC Start=6854565><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6855331><P Class=ENUSCC>Seorang teman.</P></SYNC>
+<SYNC Start=6856566><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6865542><P Class=ENUSCC>Selamat tinggal dan<br>selamat berburu, Tn. Wick.</P></SYNC>
+<SYNC Start=6868177><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6869912><P Class=ENUSCC>Terima kasih, King.</P></SYNC>
+<SYNC Start=6871314><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6873883><P Class=ENUSCC>Jonathan.</P></SYNC>
+<SYNC Start=6875151><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6876285><P Class=ENUSCC>Winston.</P></SYNC>
+<SYNC Start=6877453><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6877521><P Class=ENUSCC>Mentari terbit jam 6:03.</P></SYNC>
+<SYNC Start=6880423><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6880490><P Class=ENUSCC>Jangan terlambat demi kita semua.</P></SYNC>
+<SYNC Start=6883159><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6892703><P Class=ENUSCC>&quot;Suami tercinta.&quot;</P></SYNC>
+<SYNC Start=6894170><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6894605><P Class=ENUSCC>Hmm?</P></SYNC>
+<SYNC Start=6896172><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6896239><P Class=ENUSCC>Itu kalimat yang aku inginkan di nisanku.</P></SYNC>
+<SYNC Start=6898542><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6898609><P Class=ENUSCC>&quot;John. Suami tercinta.&quot;</P></SYNC>
+<SYNC Start=6901210><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6929364><P Class=ENUSCC>METROPOLITAN PARIS</P></SYNC>
+<SYNC Start=6931039><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6931040><P Class=ENUSCC>Dikonfirmasi.</P></SYNC>
+<SYNC Start=6932275><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6932375><P Class=ENUSCC>MENARA EIFFEL</P></SYNC>
+<SYNC Start=6933575><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6933610><P Class=ENUSCC>Berita bagus, para pendengar.</P></SYNC>
+<SYNC Start=6935478><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6935546><P Class=ENUSCC>Kita mendapat penampakan.</P></SYNC>
+<SYNC Start=6937146><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6938281><P Class=ENUSCC>Pria baju hitam kita telah terlihat...</P></SYNC>
+<SYNC Start=6940116><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6940183><P Class=ENUSCC>Di Septieme Arrondissement.</P></SYNC>
+<SYNC Start=6942452><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=6942519><P Class=ENUSCC>Kurasa ini saat tepat kita warnai dia merah.</P></SYNC>
+<SYNC Start=6946456><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=7068979><P Class=ENUSCC>Kurasa teman kita di serikat meleset...</P></SYNC>
+<SYNC Start=7073182><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=7073249><P Class=ENUSCC>Dan sekarang dia berpindah ke Arc de Triomphe.</P></SYNC>
+<SYNC Start=7076185><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=7076252><P Class=ENUSCC>Mari lihat siapa yang memburunya.</P></SYNC>
+<SYNC Start=7078187><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=7203046><P Class=ENUSCC>Ayolah, semuanya.</P></SYNC>
+<SYNC Start=7204548><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=7204614><P Class=ENUSCC>Kita harus melakukannya lebih baik lagi.</P></SYNC>
+<SYNC Start=7206717><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=7210687><P Class=ENUSCC>Sekarang, siapa yang akan jadi pemenang besar kita?</P></SYNC>
+<SYNC Start=7213990><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=7361304><P Class=ENUSCC>Siapa ini?</P></SYNC>
+<SYNC Start=7362739><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=7362740><P Class=ENUSCC>Pertanyaan yang harus kau tanyakan...</P></SYNC>
+<SYNC Start=7364373><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=7364440><P Class=ENUSCC>Adalah berapa banyak?</P></SYNC>
+<SYNC Start=7366142><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=7366209><P Class=ENUSCC>Kurasa kami sudah mengatasi situasinya.</P></SYNC>
+<SYNC Start=7368511><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=7377320><P Class=ENUSCC>Karena dari sudut pandangku...</P></SYNC>
+<SYNC Start=7379289><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=7379290><P Class=ENUSCC>Jika Tn. Johnny Boy<br>sampai Gereja tepat waktu...</P></SYNC>
+<SYNC Start=7382125><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=7382192><P Class=ENUSCC>Ini bisa jadi malam terakhirmu sebagai Marquis.</P></SYNC>
+<SYNC Start=7384828><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=7457968><P Class=ENUSCC>Perkembangan lalu lintas terbaru.</P></SYNC>
+<SYNC Start=7459970><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=7460036><P Class=ENUSCC>Kudengar pria baju hitam itu masih hidup.</P></SYNC>
+<SYNC Start=7463606><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=7463673><P Class=ENUSCC>Teman jahat kita bergerak lagi.</P></SYNC>
+<SYNC Start=7466508><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=7466576><P Class=ENUSCC>Dia menuju ke arah kalian,<br>para pendengarku di Jalan 8.</P></SYNC>
+<SYNC Start=7470547><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=7470548><P Class=ENUSCC>Sacre Coeur.<br>(Basilika Hati Suci).</P></SYNC>
+<SYNC Start=7471747><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=7594204><P Class=ENUSCC>Ya?</P></SYNC>
+<SYNC Start=7595205><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=7595271><P Class=ENUSCC>Baik. Sepakat.</P></SYNC>
+<SYNC Start=7597674><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=7597740><P Class=ENUSCC>Baik. $35 juta.</P></SYNC>
+<SYNC Start=7599543><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=7599609><P Class=ENUSCC>Itu bukan kesepakatan kita.</P></SYNC>
+<SYNC Start=7602479><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=7606916><P Class=ENUSCC>Itu satu-satunya kesepakatan yang<br>kutawarkan hari ini.</P></SYNC>
+<SYNC Start=7609185><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=7632775><P Class=ENUSCC>Habisi dia!</P></SYNC>
+<SYNC Start=7633977><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=7642485><P Class=ENUSCC>Telepon!</P></SYNC>
+<SYNC Start=7643587><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=7648124><P Class=ENUSCC>- Apa?<br>- Dengarkan aku.</P></SYNC>
+<SYNC Start=7650260><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=7650326><P Class=ENUSCC>$40 juta.</P></SYNC>
+<SYNC Start=7651361><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=7652795><P Class=ENUSCC>Kau bayar layanannya.</P></SYNC>
+<SYNC Start=7655165><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=7657260><P Class=ENUSCC>Baik.</P></SYNC>
+<SYNC Start=7659144><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=7667844><P Class=ENUSCC>Berita baik, para pendengar.</P></SYNC>
+<SYNC Start=7669913><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=7672148><P Class=ENUSCC>Hadiahnya baru saja naik.</P></SYNC>
+<SYNC Start=7674450><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=7674652><P Class=ENUSCC>KONTRAK NAIK<br>$40 JUTA</P></SYNC>
+<SYNC Start=7676612><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=7973983><P Class=ENUSCC>Untuk kalian semua yang masih belum bergerak...</P></SYNC>
+<SYNC Start=7978020><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=7978087><P Class=ENUSCC>Tn. Wick sekarang bisa melihat Gereja.</P></SYNC>
+<SYNC Start=7981424><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=7983025><P Class=ENUSCC>Kita nyaris kehabisan waktu.</P></SYNC>
+<SYNC Start=7985796><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=7985863><P Class=ENUSCC>Kesempatan terakhir memenangkan hadiah...</P></SYNC>
+<SYNC Start=7987831><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=7987898><P Class=ENUSCC>Sebelum mentari terakhir Tn. Wick.</P></SYNC>
+<SYNC Start=7991501><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=7991568><P Class=ENUSCC>Jadi, siapa yang siap<br>memanjat 222 anak tangga itu?</P></SYNC>
+<SYNC Start=7996239><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=8003322><P Class=ENUSCC>Semoga beruntung.</P></SYNC>
+<SYNC Start=8005560><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=8173444><P Class=ENUSCC>Sial!</P></SYNC>
+<SYNC Start=8174675><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=8275086><P Class=ENUSCC>Sepertinya Tn. Wick tidak bergabung dengan kita.</P></SYNC>
+<SYNC Start=8278355><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=8297275><P Class=ENUSCC>John?</P></SYNC>
+<SYNC Start=8298543><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=8301245><P Class=ENUSCC>John?</P></SYNC>
+<SYNC Start=8302580><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=8304115><P Class=ENUSCC>Caine.</P></SYNC>
+<SYNC Start=8305550><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=8305616><P Class=ENUSCC>Kapan mentari terbit?</P></SYNC>
+<SYNC Start=8307350><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=8310453><P Class=ENUSCC>Dua...</P></SYNC>
+<SYNC Start=8311689><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=8312990><P Class=ENUSCC>Mungkin tiga menit.</P></SYNC>
+<SYNC Start=8314525><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=8315827><P Class=ENUSCC>Aku ingin kau naik ke<br>puncak tangga itu, John.</P></SYNC>
+<SYNC Start=8319063><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=8323100><P Class=ENUSCC>Ya.</P></SYNC>
+<SYNC Start=8324367><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=8331474><P Class=ENUSCC>Siap?</P></SYNC>
+<SYNC Start=8332743><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=8333410><P Class=ENUSCC>Ya.</P></SYNC>
+<SYNC Start=8334712><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=8353496><P Class=ENUSCC>Arah jam dua belas atau sembilan?</P></SYNC>
+<SYNC Start=8355099><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=8356067><P Class=ENUSCC>Sembilan.</P></SYNC>
+<SYNC Start=8357101><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=8390568><P Class=ENUSCC>- Arah jam enam di atas.<br>- Terima kasih.</P></SYNC>
+<SYNC Start=8392502><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=8467712><P Class=ENUSCC>Selamat tinggal, Tn. Wick.</P></SYNC>
+<SYNC Start=8469213><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=8482693><P Class=ENUSCC>Kau tidak boleh menembakku.</P></SYNC>
+<SYNC Start=8484095><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=8488099><P Class=ENUSCC>Ya, kau benar.</P></SYNC>
+<SYNC Start=8489700><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=8490500><P Class=ENUSCC>Tapi aku bisa menembak dia.</P></SYNC>
+<SYNC Start=8491802><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=8503981><P Class=ENUSCC>Tapi aku boleh menghajarmu, bajingan.</P></SYNC>
+<SYNC Start=8506951><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=8508352><P Class=ENUSCC>Mari pergi, John.</P></SYNC>
+<SYNC Start=8509620><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=8525458><P Class=ENUSCC>Sial.</P></SYNC>
+<SYNC Start=8526960><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=8535613><P Class=ENUSCC>Zakar.</P></SYNC>
+<SYNC Start=8537215><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=8545356><P Class=ENUSCC>Kau menghajar anak anjingku.</P></SYNC>
+<SYNC Start=8546824><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=8563974><P Class=ENUSCC>Kau hutang padaku.</P></SYNC>
+<SYNC Start=8565276><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=8566177><P Class=ENUSCC>Ya.</P></SYNC>
+<SYNC Start=8567178><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=8575853><P Class=ENUSCC>Jangan ambil hati, John.</P></SYNC>
+<SYNC Start=8577354><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=8578489><P Class=ENUSCC>Kita impas sekarang.</P></SYNC>
+<SYNC Start=8580124><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=8581158><P Class=ENUSCC>Ya.</P></SYNC>
+<SYNC Start=8582359><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=8632776><P Class=ENUSCC>Maka dimulailah.</P></SYNC>
+<SYNC Start=8634778><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=8655099><P Class=ENUSCC>Kita mencari kebenaran dan<br>kita menerima Konsekuensinya.</P></SYNC>
+<SYNC Start=8658903><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=8658969><P Class=ENUSCC>Konsekuensi.</P></SYNC>
+<SYNC Start=8661372><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=8680991><P Class=ENUSCC>Minumlah. Ayo.</P></SYNC>
+<SYNC Start=8682359><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=8721498><P Class=ENUSCC>Posisi, tuan-tuan.</P></SYNC>
+<SYNC Start=8722900><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=8735913><P Class=ENUSCC>Sampai jumpa di kehidupan selanjutnya, kawan.</P></SYNC>
+<SYNC Start=8738382><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=8740518><P Class=ENUSCC>Tiga puluh langkah.</P></SYNC>
+<SYNC Start=8742119><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=8790467><P Class=ENUSCC>- Ingat putrimu.<br>- Diamlah!</P></SYNC>
+<SYNC Start=8792870><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=8800210><P Class=ENUSCC>Mentari terbit yang indah.</P></SYNC>
+<SYNC Start=8803113><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=8822433><P Class=ENUSCC>Kata terakhir, Winston?</P></SYNC>
+<SYNC Start=8824468><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=8825836><P Class=ENUSCC>Bersenang-senanglah.</P></SYNC>
+<SYNC Start=8827438><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=8851696><P Class=ENUSCC>Kau siap, Tn. Caine?</P></SYNC>
+<SYNC Start=8853565><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=8860304><P Class=ENUSCC>Tn. Wick?</P></SYNC>
+<SYNC Start=8861372><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=8873227><P Class=ENUSCC>Aku menyerahkan roh kalian ke Tuhan.</P></SYNC>
+<SYNC Start=8876288><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=8876289><P Class=ENUSCC>Kita mulai seperti kita akhiri.</P></SYNC>
+<SYNC Start=8878603><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=8878604><P Class=ENUSCC>Abu jadi abu.</P></SYNC>
+<SYNC Start=8880868><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=8880869><P Class=ENUSCC>Debu jadi debu.</P></SYNC>
+<SYNC Start=8884010><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=8886063><P Class=ENUSCC>Tembak!</P></SYNC>
+<SYNC Start=8887398><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=8907685><P Class=ENUSCC>Dua puluh langkah!</P></SYNC>
+<SYNC Start=8909386><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=8943420><P Class=ENUSCC>Tembak!</P></SYNC>
+<SYNC Start=8944455><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=8956333><P Class=ENUSCC>Bagus.</P></SYNC>
+<SYNC Start=8957334><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=8964876><P Class=ENUSCC>Sepuluh langkah!</P></SYNC>
+<SYNC Start=8966678><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=9016995><P Class=ENUSCC>Bunuh dia.</P></SYNC>
+<SYNC Start=9018428><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=9038282><P Class=ENUSCC>Mereka yang ingin mati...</P></SYNC>
+<SYNC Start=9040484><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=9042085><P Class=ENUSCC>Hidup...</P></SYNC>
+<SYNC Start=9043320><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=9046056><P Class=ENUSCC>Mereka yang ingin hidup...</P></SYNC>
+<SYNC Start=9048258><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=9049459><P Class=ENUSCC>Mati.</P></SYNC>
+<SYNC Start=9050562><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=9060772><P Class=ENUSCC>Tembak!</P></SYNC>
+<SYNC Start=9062105><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=9099180><P Class=ENUSCC>Hentikan!</P></SYNC>
+<SYNC Start=9100882><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=9101182><P Class=ENUSCC>Sebagai penyokongmu...</P></SYNC>
+<SYNC Start=9102512><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=9104616><P Class=ENUSCC>Aku mengklaim &quot;Coup de grace&quot;<br>(Tembakan penghabisan).</P></SYNC>
+<SYNC Start=9106784><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=9110354><P Class=ENUSCC>Senjatamu, berikan padaku.</P></SYNC>
+<SYNC Start=9112322><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=9113156><P Class=ENUSCC>Putriku bebas sekarang?</P></SYNC>
+<SYNC Start=9114826><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=9116193><P Class=ENUSCC>Ya. Kau dan putrimu.</P></SYNC>
+<SYNC Start=9118428><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=9119097><P Class=ENUSCC>Nikmatilah.</P></SYNC>
+<SYNC Start=9120297><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=9138315><P Class=ENUSCC>- Peraturan.<br>- Ha!</P></SYNC>
+<SYNC Start=9139851><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=9141586><P Class=ENUSCC>Dasar bajingan arogan...</P></SYNC>
+<SYNC Start=9144421><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=9145123><P Class=ENUSCC>Dia tidak menembak.</P></SYNC>
+<SYNC Start=9146691><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=9147892><P Class=ENUSCC>Konsekuensi</P></SYNC>
+<SYNC Start=9149326><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=9165409><P Class=ENUSCC>Bagus sekali.</P></SYNC>
+<SYNC Start=9167210><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=9179256><P Class=ENUSCC>Hmm.</P></SYNC>
+<SYNC Start=9180591><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=9187397><P Class=ENUSCC>Kewajibanmu terhadap The Table...</P></SYNC>
+<SYNC Start=9190367><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=9192070><P Class=ENUSCC>Telah dipuaskan, John Wick.</P></SYNC>
+<SYNC Start=9194237><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=9194304><P Class=ENUSCC>Kau bebas.</P></SYNC>
+<SYNC Start=9195505><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=9200611><P Class=ENUSCC>Begitu juga kau dan putrimu, pak.</P></SYNC>
+<SYNC Start=9202980><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=9205817><P Class=ENUSCC>Kau akan dipulihkan sepenuhnya, Tn. Manajer.</P></SYNC>
+<SYNC Start=9208786><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=9210088><P Class=ENUSCC>Seluruh ketentuanmu...</P></SYNC>
+<SYNC Start=9211488><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=9212824><P Class=ENUSCC>Akan dipenuhi.</P></SYNC>
+<SYNC Start=9214525><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=9220363><P Class=ENUSCC>Bisnis kita di sini telah usai.</P></SYNC>
+<SYNC Start=9223467><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=9223534><P Class=ENUSCC>Selamat tinggal.</P></SYNC>
+<SYNC Start=9225502><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=9266244><P Class=ENUSCC>Kawanku.</P></SYNC>
+<SYNC Start=9267444><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=9270748><P Class=ENUSCC>Kau hutang satu padaku.</P></SYNC>
+<SYNC Start=9272549><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=9274986><P Class=ENUSCC>Ya.</P></SYNC>
+<SYNC Start=9276053><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=9298643><P Class=ENUSCC>Winston.</P></SYNC>
+<SYNC Start=9299777><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=9300778><P Class=ENUSCC>Jonathan.</P></SYNC>
+<SYNC Start=9301979><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=9304582><P Class=ENUSCC>Maukah kau antar aku pulang?</P></SYNC>
+<SYNC Start=9306449><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=9313423><P Class=ENUSCC>Tentu.</P></SYNC>
+<SYNC Start=9314792><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=9408386><P Class=ENUSCC>Helen.</P></SYNC>
+<SYNC Start=9409654><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=9460786><P Class=ENUSCC>JOHN WICK<br>SUAMI TERCINTA</P></SYNC>
+<SYNC Start=9467141><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=9467142><P Class=ENUSCC>HELEN WICK<br>ISTRI TERCINTA</P></SYNC>
+<SYNC Start=9470563><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=9471282><P Class=ENUSCC>Tidak pernah kusangka hari ini tiba.</P></SYNC>
+<SYNC Start=9473551><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=9478889><P Class=ENUSCC>Menurutmu dia ada di mana,<br>Surga atau Neraka?</P></SYNC>
+<SYNC Start=9481859><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=9487565><P Class=ENUSCC>Siapa tahu?</P></SYNC>
+<SYNC Start=9488933><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=9505914><P Class=ENUSCC>Selamat tinggal, putraku.</P></SYNC>
+<SYNC Start=9510410><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=9536663><P Class=ENUSCC>JOHN WICK<br>BAB 4</P></SYNC>
+<SYNC Start=9542828><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=9628113><P Class=ENUSCC>MENGENANG<br>LANCE REDDICK</P></SYNC>
+<SYNC Start=9633267><P Class=ENUSCC>&nbsp;</P></SYNC>
+</BODY>
+</SAMI>
