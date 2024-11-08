@@ -1,0 +1,973 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:timeBase="media" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+  <head>
+    <metadata>
+      <ttm:title></ttm:title>
+    </metadata>
+    <styling>
+      <style xml:id="s0" tts:backgroundColor="black" tts:fontStyle="normal" tts:fontSize="16px" tts:fontFamily="sansSerif" tts:color="white" />
+    </styling>
+    <layout>
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="start" xml:id="topLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="start" xml:id="centerLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="start" xml:id="bottomLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="center" xml:id="topCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="center" xml:id="centerСenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="center" xml:id="bottomCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="end" xml:id="topRight" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="end" xml:id="centerRight" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="end" xml:id="bottomRight" />
+    </layout>
+  </head>
+  <body style="s0">
+    <div>
+      <p begin="0.1s" xml:id="p0" end="0.6s">Translated By Pein Akatsuki<br />WWW.SEBUAH-DONGENG.COM</p>
+      <p begin="0.6s" xml:id="p1" end="1.1s">Translated By Pein Akatsuki<br />WWW.SEBUAH-DONGENG.COM</p>
+      <p begin="1.1s" xml:id="p2" end="1.6s">Translated By Pein Akatsuki<br />WWW.SEBUAH-DONGENG.COM</p>
+      <p begin="1.6s" xml:id="p3" end="2.1s">Translated By Pein Akatsuki<br />WWW.SEBUAH-DONGENG.COM</p>
+      <p begin="2.1s" xml:id="p4" end="2.6s">Translated By Pein Akatsuki<br />WWW.SEBUAH-DONGENG.COM</p>
+      <p begin="2.6s" xml:id="p5" end="3.1s">Translated By Pein Akatsuki<br />WWW.SEBUAH-DONGENG.COM</p>
+      <p begin="3.1s" xml:id="p6" end="3.6s">Translated By Pein Akatsuki<br />WWW.SEBUAH-DONGENG.COM</p>
+      <p begin="3.6s" xml:id="p7" end="4.1s">Translated By Pein Akatsuki<br />WWW.SEBUAH-DONGENG.COM</p>
+      <p begin="4.1s" xml:id="p8" end="4.6s">Translated By Pein Akatsuki<br />WWW.SEBUAH-DONGENG.COM</p>
+      <p begin="4.6s" xml:id="p9" end="5.1s">Translated By Pein Akatsuki<br />WWW.SEBUAH-DONGENG.COM</p>
+      <p begin="5.1s" xml:id="p10" end="5.6s">Translated By Pein Akatsuki<br />WWW.SEBUAH-DONGENG.COM</p>
+      <p begin="5.6s" xml:id="p11" end="6.1s">Translated By Pein Akatsuki<br />WWW.SEBUAH-DONGENG.COM</p>
+      <p begin="6.1s" xml:id="p12" end="6.6s">Translated By Pein Akatsuki<br />WWW.SEBUAH-DONGENG.COM</p>
+      <p begin="6.6s" xml:id="p13" end="7.1s">Translated By Pein Akatsuki<br />WWW.SEBUAH-DONGENG.COM</p>
+      <p begin="7.1s" xml:id="p14" end="7.6s">Translated By Pein Akatsuki<br />WWW.SEBUAH-DONGENG.COM</p>
+      <p begin="7.6s" xml:id="p15" end="8.1s">Translated By Pein Akatsuki<br />WWW.SEBUAH-DONGENG.COM</p>
+      <p begin="8.1s" xml:id="p16" end="8.6s">Translated By Pein Akatsuki<br />WWW.SEBUAH-DONGENG.COM</p>
+      <p begin="8.6s" xml:id="p17" end="25.1s">Translated By Pein Akatsuki<br />WWW.SEBUAH-DONGENG.COM</p>
+      <p begin="45.333s" xml:id="p18" end="49.888s">Sejak awal peradaban, Boneka di sukai anak - anak,<br />Dihargai para Kolektor..,..</p>
+      <p begin="49.889s" xml:id="p19" end="53.97s">Dan digunakan dalam ritus religius<br />Sebagai perantara kebaikan dan kejahatan</p>
+      <p begin="53.971s" xml:id="p20" end="56.065s">Hal itu menakutkan kami saat memikirkannya.</p>
+      <p begin="58.141s" xml:id="p21" end="60.769s">Saat kau mendengarnya, kau pasti<br />Mengira kami gila.</p>
+      <p begin="61.562s" xml:id="p22" end="63.36s">Awalnya hanya kejadian kecil..,..</p>
+      <p begin="63.814s" xml:id="p23" end="66.909s">Seperti tangan atau kaki dalam posisi berbeda.</p>
+      <p begin="67.067s" xml:id="p24" end="69.991s">Dan kepalanya melongok ke atas, bukannya ke bawah..,..</p>
+      <p begin="70.445s" xml:id="p25" end="73.87s">Lalu suatu hari, Boneka itu<br />Ada di ruang yang berbeda.</p>
+      <p begin="74.658s" xml:id="p26" end="77.081s">Boneka itu bergerak sendiri.</p>
+      <p begin="77.869s" xml:id="p27" end="79.917s">Camilla menghubungi seorang cenayang.</p>
+      <p begin="80.08s" xml:id="p28" end="84.005s">Kami tahu bahwa Boneka itu<br />Dirasuki gadis bernama Annabelle Higgins.</p>
+      <p begin="84.167s" xml:id="p29" end="88.172s">Dia kehilangan kedua orang tuanya<br />Dan menyukai Boneka-ku.</p>
+      <p begin="88.338s" xml:id="p30" end="92.809s">- Dia hanya ingin menjadi teman.<br />- Saat mendengarnya, kami merasa kasihan padanya.</p>
+      <p begin="92.968s" xml:id="p31" end="95.187s">Kami perawat, kami membantu orang lain.</p>
+      <p begin="95.637s" xml:id="p32" end="98.186s">Lalu keadaan semakin memburuk.</p>
+      <p begin="99.975s" xml:id="p33" end="101.522s">Bagaimana kau mendapatkan Boneka itu ?</p>
+      <p begin="101.685s" xml:id="p34" end="104.529s">Boneka itu hadiah dari Ibuku saat aku berulang tahun.</p>
+      <p begin="105.314s" xml:id="p35" end="107.783s">Aku tak tahu darimana dia mendapatkannya..,..</p>
+      <p begin="108.859s" xml:id="p36" end="111.203s">Tapi kami sangat ketakutan.</p>
+      <p begin="129.975s" xml:id="p37" end="140.0s">Pein Akatsuki<br />www.SEBUAH-DONGENG.COM</p>
+      <p begin="144.561s" xml:id="p38" end="145.921s">Tuhan menghargai pengorbanan.</p>
+      <p begin="145.922s" xml:id="p39" end="147.716s">SATU TAHUN SEBELUMNYA</p>
+      <p begin="149.191s" xml:id="p40" end="153.742s">Dan pengorbanan kita menyentuh hati Tuhan<br />Serta membuatNya tergerak.</p>
+      <p begin="155.989s" xml:id="p41" end="158.708s">Yesus mengatakan, &quot;Inilah Firmanku&quot;</p>
+      <p begin="159.409s" xml:id="p42" end="162.458s">&quot;Kalian harus saling mengasihi<br />Seperti Aku mengasihimu&quot;</p>
+      <p begin="163.246s" xml:id="p43" end="165.749s">&quot;Tak ada kasih lebih besar daripada ini&quot;</p>
+      <p begin="166.792s" xml:id="p44" end="169.796s">&quot;Dimana Dia mengorbankan dirinya<br />Demi sahabat - sahabatNya&quot;</p>
+      <p begin="171.088s" xml:id="p45" end="172.34s">Aku menang.</p>
+      <p begin="173.799s" xml:id="p46" end="175.142s">Mari kita Berdoa.</p>
+      <p begin="181.932s" xml:id="p47" end="184.23s">Senang bertemu denganmu.<br />Sampai jumpa lagi.</p>
+      <p begin="186.144s" xml:id="p48" end="187.361s">Hei, kau.</p>
+      <p begin="187.521s" xml:id="p49" end="188.738s">Oh.</p>
+      <p begin="190.107s" xml:id="p50" end="191.609s">Baik, jadi, uh..,..</p>
+      <p begin="192.359s" xml:id="p51" end="193.451s">Siapa yang Menang ?</p>
+      <p begin="194.027s" xml:id="p52" end="195.995s">John. Tapi dia curang.</p>
+      <p begin="196.154s" xml:id="p53" end="200.33s">Apa ? Aku melawan dua orang<br />Aku harus melakukan sesuatu &#039;kan ?</p>
+      <p begin="200.867s" xml:id="p54" end="201.959s">Ya, benar.</p>
+      <p begin="202.119s" xml:id="p55" end="203.621s">Apa ?</p>
+      <p begin="203.787s" xml:id="p56" end="205.289s">Kemana perginya Sharon ?</p>
+      <p begin="206.289s" xml:id="p57" end="208.383s">- Oh, akan kucari dia.<br />- Terima kasih.</p>
+      <p begin="208.542s" xml:id="p58" end="209.759s">Dah.</p>
+      <p begin="229.02s" xml:id="p59" end="230.567s">Pete menyuruhmu mencariku ?</p>
+      <p begin="235.318s" xml:id="p60" end="238.037s">Aku bersumpah, dia pernah mengira bahwa aku..,..</p>
+      <p begin="238.947s" xml:id="p61" end="240.324s">..,..Kabur darinya.</p>
+      <p begin="244.244s" xml:id="p62" end="245.291s">Dasar pria.</p>
+      <p begin="246.538s" xml:id="p63" end="249.291s">Apa yang bisa mereka lakukan tanpa kita ?</p>
+      <p begin="261.678s" xml:id="p64" end="264.522s">Hei, tunggu sebentar.<br />Biar kubantu kau.</p>
+      <p begin="270.353s" xml:id="p65" end="272.321s">- Kami hargai tumpangannya, Pete.<br />- Tak masalah.</p>
+      <p begin="272.481s" xml:id="p66" end="275.576s">Pastikan kau menjaga istri dan bayimu.</p>
+      <p begin="275.734s" xml:id="p67" end="277.111s">Apa kalian sudah menentukan namanya ?</p>
+      <p begin="277.277s" xml:id="p68" end="278.95s">- Sharon.<br />- Apa ? Tak masalah.</p>
+      <p begin="279.112s" xml:id="p69" end="281.16s">- Maafkan dia.<br />- Ini hanya obrolan biasa.</p>
+      <p begin="281.323s" xml:id="p70" end="284.702s">- Kami masih mencari namanya.<br />- Akan kami namai &quot;John&quot; jika laki - laki.</p>
+      <p begin="284.868s" xml:id="p71" end="287.308s">- Dan &quot;Phyllis&quot; jika perempuan.<br />- Benarkah ?</p>
+      <p begin="287.454s" xml:id="p72" end="290.458s">- Ya, kau bilang menyukainya.<br />- Aku tak pernah mengatakan itu.</p>
+      <p begin="290.832s" xml:id="p73" end="293.927s">- Itu nama Nenek-ku.<br />- Dan aku tak tahan menghadapi Nenekmu.</p>
+      <p begin="294.085s" xml:id="p74" end="295.337s">Oh, astaga.</p>
+      <p begin="295.504s" xml:id="p75" end="297.723s">Bukan hanya aku,<br />Tak ada yang tahan menghadapinya.</p>
+      <p begin="297.881s" xml:id="p76" end="300.054s">Tidak, dia benar,<br />Semua orang membenci Nenek-ku.</p>
+      <p begin="300.55s" xml:id="p77" end="302.143s">Jika begitu..,..</p>
+      <p begin="302.302s" xml:id="p78" end="305.055s">Sharon, mari kita masuk.<br />Mereka berdua punya banyak pembicaraan.</p>
+      <p begin="305.222s" xml:id="p79" end="307.316s">Terima kasih lagi.</p>
+      <p begin="307.682s" xml:id="p80" end="308.854s">Jangan kalian pikirkan.</p>
+      <p begin="309.017s" xml:id="p81" end="310.314s">Ingatlah..,..</p>
+      <p begin="311.228s" xml:id="p82" end="312.525s">Anak - anak merupakan karunia.</p>
+      <p begin="312.687s" xml:id="p83" end="313.939s">Memang benar.</p>
+      <p begin="314.105s" xml:id="p84" end="315.732s">Lalu mereka akan belajar berbicara.</p>
+      <p begin="315.899s" xml:id="p85" end="317.321s">Oh, kau.</p>
+      <p begin="318.151s" xml:id="p86" end="319.368s">Dah.</p>
+      <p begin="321.822s" xml:id="p87" end="323.165s">Kurasa kau tak setuju dengan Phyllis ?</p>
+      <p begin="325.242s" xml:id="p88" end="329.713s">Kita tak seharusnya membicarakan bayi kita<br />Dengan mereka. Itu tak tepat.</p>
+      <p begin="329.871s" xml:id="p89" end="331.088s">Mengapa tidak ?</p>
+      <p begin="331.873s" xml:id="p90" end="334.501s">Mereka kehilangan puteri mereka<br />Dua tahun lalu.</p>
+      <p begin="334.835s" xml:id="p91" end="336.678s">Puteri mereka tak hilang, Mia.</p>
+      <p begin="336.837s" xml:id="p92" end="338.839s">Puterinya kabur dan bergabung dengan para Hippie.</p>
+      <p begin="339.005s" xml:id="p93" end="342.054s">Mungkin sekarang dia punya tiga suami<br />Dan menyebut dirinya &quot;Bintang&quot;</p>
+      <p begin="342.217s" xml:id="p94" end="347.269s">Bahkan &quot;Bintang&quot; nama yang<br />Jauh lebih baik daripada Phyllis.</p>
+      <p begin="349.724s" xml:id="p95" end="351.317s">Oh, kau tak mengunci pintunya ?</p>
+      <p begin="351.476s" xml:id="p96" end="353.069s">Tidak, mengapa harus ku-kunci ?</p>
+      <p begin="353.228s" xml:id="p97" end="356.732s">Kau harus menguncinya, John.<br />Ini keadaan yang berbeda.</p>
+      <p begin="359.276s" xml:id="p98" end="361.62s">Mereka menyebut diri mereka &quot;Keluarga&quot;</p>
+      <p begin="361.778s" xml:id="p99" end="364.782s">Tapi Polisi secara resmi menyatakan<br />Mereka sebagai Sekte Berbahaya</p>
+      <p begin="364.948s" xml:id="p100" end="367.417s">Mereka bemarkas di Pertanian Spahn..,..</p>
+      <p begin="367.576s" xml:id="p101" end="370.546s">Tempat yang dulunya dimiliki<br />Banyak orang barat terkenal..,..</p>
+      <p begin="370.704s" xml:id="p102" end="373.878s">&quot;Keluarga&quot; memiliki sedikitnya 30 anggota..,..</p>
+      <p begin="374.291s" xml:id="p103" end="378.262s">Banyak dari mereka memiliki sejarah<br />Sebagai pemadat dan mantan narapidana</p>
+      <p begin="378.753s" xml:id="p104" end="381.222s">Saat ini, beberapa anggota &quot;Keluarga&quot; telah ditahan..,..</p>
+      <p begin="381.381s" xml:id="p105" end="385.136s">Menunggu persidangan atas pembunuhan brutal<br />Tate dan LaBianca..,..</p>
+      <p begin="385.302s" xml:id="p106" end="388.055s">Yang terjadi di Los Angeles<br />Dan menyebarkan rasa takut..,..</p>
+      <p begin="388.221s" xml:id="p107" end="390.974s">Sebelum penyelidikan Polisi mengarah ke tersangka..,..</p>
+      <p begin="391.141s" xml:id="p108" end="392.142s">Hei, sayang ?</p>
+      <p begin="392.309s" xml:id="p109" end="396.234s">Bisa kau matikan TV-nya ?<br />Aku susah berkonsentrasi di sini.</p>
+      <p begin="396.396s" xml:id="p110" end="399.4s">Pemimpin mereka, Charles Manson,<br />Terkadang disebut sebagai..,..</p>
+      <p begin="399.566s" xml:id="p111" end="402.74s">Sebagai &quot;Tuhan&quot; dan &quot;Setan&quot;<br />Oleh pengikut setianya..,..</p>
+      <p begin="402.903s" xml:id="p112" end="407.5s">Dan meramalkan datangnya akhir dunia<br />Yang dia sebut &quot;Helter Skelter&quot;</p>
+      <p begin="408.158s" xml:id="p113" end="409.501s">Terima kasih.</p>
+      <p begin="414.831s" xml:id="p114" end="418.131s">Hei, kau tak seharusnya menonton<br />Berita seperti itu, paham ?</p>
+      <p begin="418.293s" xml:id="p115" end="420.574s">Itu bisa membuat bayinya gelisah.<br />Ada penelitian terbaru..,..</p>
+      <p begin="420.712s" xml:id="p116" end="423.056s">- Oh, astaga, penelitian baru lagi ?<br />- Itu benar.</p>
+      <p begin="423.214s" xml:id="p117" end="425.137s">Mereka mempelajari bahwa bayi di uterus..,..</p>
+      <p begin="425.3s" xml:id="p118" end="428.645s">Mempelajari dunia luar lebih dari yang mereka bayangkan.</p>
+      <p begin="428.803s" xml:id="p119" end="431.306s">Mereka mengenali suara, bunyi, lagu.</p>
+      <p begin="431.473s" xml:id="p120" end="435.603s">Aku bertaruh pria yang melakukan penelitian itu<br />Menghabiskan jutaan dolar..,..</p>
+      <p begin="435.769s" xml:id="p121" end="438.522s">Padahal mereka bisa minta<br />Secara gratis ke para Ibu.</p>
+      <p begin="440.857s" xml:id="p122" end="442.53s">Bagaimana keadaannya ?</p>
+      <p begin="444.027s" xml:id="p123" end="445.244s">Yah..,..</p>
+      <p begin="446.863s" xml:id="p124" end="448.865s">Aku berusaha keras menyukainya.</p>
+      <p begin="449.532s" xml:id="p125" end="454.538s">Semua orang bilang sekali kita<br />Berumah tangga, segalanya memburuk.</p>
+      <p begin="454.704s" xml:id="p126" end="457.384s">Aku juga belum menyebutkan kalau<br />Aku akan jadi seorang Ayah.</p>
+      <p begin="457.54s" xml:id="p127" end="458.962s">Mengapa tidak ?</p>
+      <p begin="459.501s" xml:id="p128" end="460.798s">Entahlah.</p>
+      <p begin="460.961s" xml:id="p129" end="464.966s">Terkadang kau tak mau mendengarkan<br />Betapa sulitnya ini.</p>
+      <p begin="465.131s" xml:id="p130" end="466.508s">&quot;Sulit&quot; ?</p>
+      <p begin="467.217s" xml:id="p131" end="469.845s">Tidak, mungkin &quot;sulit&quot; bukan kata yang tepat.</p>
+      <p begin="470.011s" xml:id="p132" end="472.389s">Uh, menantang ?</p>
+      <p begin="476.518s" xml:id="p133" end="481.399s">Maksudmu tentang berumah tangga<br />Atau aku dengan bayi ini ?</p>
+      <p begin="482.399s" xml:id="p134" end="483.821s">Entahlah.</p>
+      <p begin="483.984s" xml:id="p135" end="485.736s">Semuanya, kurasa.</p>
+      <p begin="485.902s" xml:id="p136" end="489.782s">Ini bukan situasi ideal yang ingin kulalui.</p>
+      <p begin="493.034s" xml:id="p137" end="495.082s">Seperti apa yang akan kita lalui.</p>
+      <p begin="512.679s" xml:id="p138" end="515.523s">Bukan maksudku seperti itu,<br />Maafkan aku.</p>
+      <p begin="516.433s" xml:id="p139" end="521.064s">Ini &quot;tak sulit&quot; atau &quot;menantang&quot;<br />Dalam hal negatif.</p>
+      <p begin="522.23s" xml:id="p140" end="527.157s">Aku tahu perkataanku salah.</p>
+      <p begin="527.318s" xml:id="p141" end="530.117s">- Beberapa orang mengatakan itu &quot;egosentris&quot;<br />- &quot;Beberapa orang&quot; ?</p>
+      <p begin="530.28s" xml:id="p142" end="531.327s">Kebanyakan orang ?</p>
+      <p begin="532.866s" xml:id="p143" end="534.083s">Semua orang ?</p>
+      <p begin="534.784s" xml:id="p144" end="538.254s">Bisa kita kembali dan mengulang dua menit tadi ?</p>
+      <p begin="541.249s" xml:id="p145" end="542.296s">Kumohon..,..</p>
+      <p begin="547.964s" xml:id="p146" end="549.637s">Tak apa.</p>
+      <p begin="550.842s" xml:id="p147" end="552.469s">Aku tahu kau tegang.</p>
+      <p begin="553.887s" xml:id="p148" end="557.608s">Aku hanya sedikit sensitif akhir - akhir ini.</p>
+      <p begin="557.766s" xml:id="p149" end="558.892s">Ya.</p>
+      <p begin="560.143s" xml:id="p150" end="563.272s">- Kau mau tahu sebabnya?<br />- Ya, Dokter.</p>
+      <p begin="563.438s" xml:id="p151" end="564.815s">Baik, bagus, jadi..,..</p>
+      <p begin="564.981s" xml:id="p152" end="568.656s">Dalam, um, pendapatku yang hampir ahli..,..</p>
+      <p begin="568.818s" xml:id="p153" end="570.741s">Kau sedikit sensitif..,..</p>
+      <p begin="570.904s" xml:id="p154" end="573.327s">..,..Karena kau sedang hamil besar.</p>
+      <p begin="576.242s" xml:id="p155" end="578.336s">Sayang, maafkan aku, Mia.</p>
+      <p begin="578.495s" xml:id="p156" end="581.874s">Ya, aku tegang untuk menyelesaikan sekolah medisku..,..</p>
+      <p begin="582.04s" xml:id="p157" end="584.293s">Dan aku tegang menghadapi ujiannya..,..</p>
+      <p begin="584.459s" xml:id="p158" end="586.132s">Namun aku tak pernah sebahagia ini.</p>
+      <p begin="587.253s" xml:id="p159" end="588.55s">Selamanya.</p>
+      <p begin="589.631s" xml:id="p160" end="591.975s">Paham ? Dan ini karena dirimu.</p>
+      <p begin="595.929s" xml:id="p161" end="597.272s">Dan bayi kita.</p>
+      <p begin="601.81s" xml:id="p162" end="603.187s">Oh, kau tahu ?</p>
+      <p begin="604.02s" xml:id="p163" end="606.193s">Ada sesuatu yang ingin kuberikan padamu.</p>
+      <p begin="606.94s" xml:id="p164" end="609.534s">Oh, tidak, terakhir kali kau mengatakan itu,<br />Aku jadi hamil.</p>
+      <p begin="609.692s" xml:id="p165" end="611.114s">Ya, benar.</p>
+      <p begin="627.043s" xml:id="p166" end="628.795s">Baik, tutup matamu.</p>
+      <p begin="630.88s" xml:id="p167" end="635.556s">Tunggu sebentar, aku menunggu<br />Sampai bayinya lahir, tapi..,..</p>
+      <p begin="635.718s" xml:id="p168" end="637.265s">Kau merasa begitu..,..</p>
+      <p begin="637.428s" xml:id="p169" end="639.305s">Bersalah, ya. Karena perkataanku.</p>
+      <p begin="639.472s" xml:id="p170" end="641.224s">Baik, buka matamu.</p>
+      <p begin="644.936s" xml:id="p171" end="646.563s">Mustahil.</p>
+      <p begin="662.245s" xml:id="p172" end="663.588s">Ya Tuhanku, John.</p>
+      <p begin="663.746s" xml:id="p173" end="665.919s">- Ini Boneka &quot;itu&quot; &#039;kan ?<br />- Ya.</p>
+      <p begin="668.168s" xml:id="p174" end="671.718s">Di mana kau menemukannya ?<br />Kau tahu berapa lama aku mencarinya ?</p>
+      <p begin="671.88s" xml:id="p175" end="673.507s">Aku tahu.</p>
+      <p begin="673.673s" xml:id="p176" end="675.767s">Aku putus asa.</p>
+      <p begin="675.925s" xml:id="p177" end="677.598s">Aku punya caraku sendiri.</p>
+      <p begin="688.104s" xml:id="p178" end="691.278s">Kita kekurangan dana untuk<br />Sewa rumah beberapa bulan kedepan, tapi..,..</p>
+      <p begin="703.578s" xml:id="p179" end="705.672s">Sudah, Boneka ini muat di sini.</p>
+      <p begin="705.83s" xml:id="p180" end="707.798s">Koleksimu jadi lengkap &#039;kan ?</p>
+      <p begin="708.374s" xml:id="p181" end="709.876s">Ya, benar.</p>
+      <p begin="710.46s" xml:id="p182" end="712.508s">Terima kasih,<br />Aku menyukainya.</p>
+      <p begin="782.49s" xml:id="p183" end="783.787s">John ?</p>
+      <p begin="784.242s" xml:id="p184" end="785.71s">John, bangun.</p>
+      <p begin="786.077s" xml:id="p185" end="788.296s">- Ada apa ? Apa karena bayinya ?<br />- Tidak, tidak.</p>
+      <p begin="788.454s" xml:id="p186" end="790.456s">Rumah sebelah, aku mendengar jeritan.</p>
+      <p begin="790.623s" xml:id="p187" end="793.046s">Kurasa terjadi sesuatu.</p>
+      <p begin="804.429s" xml:id="p188" end="806.773s">Tetaplah di sini, akan kuperiksa.</p>
+      <p begin="809.142s" xml:id="p189" end="810.314s">John, tunggu !</p>
+      <p begin="811.019s" xml:id="p190" end="812.612s">Bukankah kita harus menelepon Polisi ?</p>
+      <p begin="812.77s" xml:id="p191" end="814.443s">Karena kau mengira mendengar jeritan ?</p>
+      <p begin="814.605s" xml:id="p192" end="817.324s">Tidak, biar kuperiksa, mereka pasti<br />Juga melakukan hal sama seperti kita.</p>
+      <p begin="817.483s" xml:id="p193" end="819.986s">Jika mereka mendengar jeritan,<br />Aku akan langsung menelepon Polisi.</p>
+      <p begin="820.153s" xml:id="p194" end="822.076s">Walau hanya &quot;mengira&quot; mendengar jeritan.</p>
+      <p begin="823.072s" xml:id="p195" end="825.7s">- Berhati - hatilah.<br />- Tentu.</p>
+      <p begin="872.413s" xml:id="p196" end="873.835s">John ?</p>
+      <p begin="892.517s" xml:id="p197" end="894.94s">- Ya Tuhanku ! Kau berlumuran darah !<br />- Ini bukan darahku.</p>
+      <p begin="895.103s" xml:id="p198" end="897.982s">Masuklah dan telepon ambulan,<br />Sekarang juga, cepat !</p>
+      <p begin="921.254s" xml:id="p199" end="922.847s">911 dengan operator</p>
+      <p begin="923.005s" xml:id="p200" end="924.803s">Aku perlu ambulan.</p>
+      <p begin="924.966s" xml:id="p201" end="926.513s">Di mana lokasimu ?</p>
+      <p begin="927.009s" xml:id="p202" end="928.886s">307 Jalan Gardner.</p>
+      <p begin="929.053s" xml:id="p203" end="930.225s">Di Santa Monica ?</p>
+      <p begin="930.388s" xml:id="p204" end="931.435s">Ya.</p>
+      <p begin="931.597s" xml:id="p205" end="932.974s">Apa keadaan daruratmu ?</p>
+      <p begin="933.599s" xml:id="p206" end="935.146s">Entahlah, tapi..,..</p>
+      <p begin="936.769s" xml:id="p207" end="938.191s">Ada banyak darah.</p>
+      <p begin="940.022s" xml:id="p208" end="942.525s">Kumohon, datanglah secepat mungkin.</p>
+      <p begin="971.012s" xml:id="p209" end="973.356s">Aku suka Bonekamu.</p>
+      <p begin="978.227s" xml:id="p210" end="980.446s">Suamiku akan kembali.</p>
+      <p begin="981.147s" xml:id="p211" end="985.368s">Ambil apapun yang kau inginkan dan pergilah !</p>
+      <p begin="990.198s" xml:id="p212" end="991.495s">Mia !</p>
+      <p begin="994.535s" xml:id="p213" end="995.707s">Pergilah dari sini !</p>
+      <p begin="996.871s" xml:id="p214" end="998.794s">Pergilah ! Pergilah dari sini, Mia !</p>
+      <p begin="1054.762s" xml:id="p215" end="1055.854s">Buka !</p>
+      <p begin="1060.226s" xml:id="p216" end="1061.603s">- Buka pintunya !<br />- Aku memegangimu.</p>
+      <p begin="1061.769s" xml:id="p217" end="1063.567s">- Buka ! Ini Polisi !<br />- Aku memegangimu.</p>
+      <p begin="1063.729s" xml:id="p218" end="1065.026s">Buka pintunya !</p>
+      <p begin="1078.202s" xml:id="p219" end="1079.419s">Bernafaslah.</p>
+      <p begin="1079.579s" xml:id="p220" end="1082.082s">Kau akan baik saja, kami menanganimu.</p>
+      <p begin="1082.248s" xml:id="p221" end="1084.376s">Aku ada di sini.<br />Aku ada di sini bersamamu.</p>
+      <p begin="1122.83s" xml:id="p222" end="1125.549s">Dalam kejadian tragis yang<br />Dijelaskan Penyelidik..,..</p>
+      <p begin="1125.708s" xml:id="p223" end="1127.881s">Yang mengingatkan akan<br />Ritual Sekte nan mengerikan..,..</p>
+      <p begin="1128.044s" xml:id="p224" end="1130.888s">Seorang pria dan istrinya<br />Ditusuk sampai mati secara brutal..,..</p>
+      <p begin="1131.047s" xml:id="p225" end="1135.018s">Oleh puteri terasing mereka, Annabelle<br />Higgins, dan pacarnya yang tak teridentifikasi</p>
+      <p begin="1135.176s" xml:id="p226" end="1137.224s">Mereka berdua dipercayai<br />Anggota sebuah Sekte</p>
+      <p begin="1137.386s" xml:id="p227" end="1141.266s">Tersangka pria ditembak mati<br />Saat Polisi masuk ke tempat kejadian..,..</p>
+      <p begin="1141.432s" xml:id="p228" end="1145.812s">Sementara sang wanita ditemukan<br />Bunuh diri dengan sayatan di leher</p>
+      <p begin="1145.978s" xml:id="p229" end="1149.482s">Salah seorang petugas mengatakan<br />Bahwa pembunuhan berdarah dingin ini merupakan</p>
+      <p begin="1149.649s" xml:id="p230" end="1153.745s">&quot;Sekian lama aku bertugas, aku tak pernah<br />Melihat sesuatu sekeji ini&quot;</p>
+      <p begin="1158.366s" xml:id="p231" end="1161.791s">Sejauh ini, kantung ketubannya tak tertusuk..,..</p>
+      <p begin="1161.952s" xml:id="p232" end="1164.046s">Dan tak pecah..,..</p>
+      <p begin="1164.205s" xml:id="p233" end="1169.462s">Kita melihat tanda - tanda<br />Ketegangan pada Servik.</p>
+      <p begin="1170.336s" xml:id="p234" end="1172.509s">Kemungkinan karena trauma.</p>
+      <p begin="1172.672s" xml:id="p235" end="1174.424s">Itu sebabnya..,..</p>
+      <p begin="1174.59s" xml:id="p236" end="1179.187s">Kusarankan kau berbaring<br />Selama sisa masa kehamilanmu.</p>
+      <p begin="1179.762s" xml:id="p237" end="1183.562s">Kau boleh bangun dan<br />Menggunakan fasilitas yang ada..,..</p>
+      <p begin="1183.724s" xml:id="p238" end="1186.068s">Jika kau melakukannya dengan hati - hati.</p>
+      <p begin="1186.56s" xml:id="p239" end="1191.612s">Tapi selebihnya bisa membuatmu dan bayimu<br />Berada dalam bahaya, paham ?</p>
+      <p begin="1191.774s" xml:id="p240" end="1194.618s">- Ya, pak, terima kasih.<br />- Sama - sama.</p>
+      <p begin="1211.752s" xml:id="p241" end="1213.299s">Kunci.</p>
+      <p begin="1226.308s" xml:id="p242" end="1229.107s">Kusuruh petugas menggosoknya dua kali.</p>
+      <p begin="1229.603s" xml:id="p243" end="1232.277s">Bahkan kau bisa melakukan operasi di sini,<br />Tempat ini begitu bersih.</p>
+      <p begin="1249.665s" xml:id="p244" end="1250.917s">Kau tak perlu melakukan itu.</p>
+      <p begin="1251.625s" xml:id="p245" end="1254.674s">Beristirahatlah sementara ini,<br />Kau pasti marah jika tak kulakukan.</p>
+      <p begin="1255.421s" xml:id="p246" end="1259.016s">Tapi jangan terobsesi dengan<br />Sinetron siang hari.</p>
+      <p begin="1259.175s" xml:id="p247" end="1261.348s">Kau tahu aku menyukainya.</p>
+      <p begin="1261.844s" xml:id="p248" end="1263.687s">Akan kubawakan alat menjahitmu nanti.</p>
+      <p begin="1263.846s" xml:id="p249" end="1267.817s">Kita bisa merubah seluruh ruang ini<br />Menjadi ruang kerja kecilmu.</p>
+      <p begin="1269.977s" xml:id="p250" end="1271.445s">Ada apa ?</p>
+      <p begin="1274.94s" xml:id="p251" end="1277.034s">Menurutmu bayinya baik - baik saja ?</p>
+      <p begin="1278.152s" xml:id="p252" end="1280.996s">Bayi kita bahkan tak tahu apa yang terjadi.</p>
+      <p begin="1281.155s" xml:id="p253" end="1284.625s">Oh, sungguh ? Karena kudengar<br />Ada penelitan baru yang, kau tahu..,..</p>
+      <p begin="1284.784s" xml:id="p254" end="1286.411s">Mia, sudahlah.</p>
+      <p begin="1286.952s" xml:id="p255" end="1288.75s">Kau dengar kata Dokter.</p>
+      <p begin="1288.913s" xml:id="p256" end="1291.166s">Jika kau menaatinya,<br />Bayinya akan baik saja.</p>
+      <p begin="1291.332s" xml:id="p257" end="1292.709s">Bayinya baik - baik saja.</p>
+      <p begin="1292.875s" xml:id="p258" end="1294.752s">Kau Ibunya &#039;kan ?</p>
+      <p begin="1294.919s" xml:id="p259" end="1296.887s">Jika bukan, kau pasti tahu itu.</p>
+      <p begin="1299.84s" xml:id="p260" end="1301.717s">Tapi jika sesuatu terjadi..,..</p>
+      <p begin="1301.884s" xml:id="p261" end="1303.602s">Apa ? Apa yang akan terjadi ?</p>
+      <p begin="1303.761s" xml:id="p262" end="1306.014s">Saat aku melakukan persalinan, John.</p>
+      <p begin="1306.18s" xml:id="p263" end="1307.648s">Mia.</p>
+      <p begin="1309.475s" xml:id="p264" end="1311.603s">Kau selamatkan bayinya daripada aku.</p>
+      <p begin="1312.436s" xml:id="p265" end="1315.565s">- Sudahlah.<br />- Kita harus membicarakannya.</p>
+      <p begin="1317.399s" xml:id="p266" end="1321.745s">Aku tak mau hal buruk terjadi.</p>
+      <p begin="1323.405s" xml:id="p267" end="1324.998s">Berjanjilah padaku.</p>
+      <p begin="1327.743s" xml:id="p268" end="1330.337s">Kau selamatkan bayinya daripada aku.</p>
+      <p begin="1333.666s" xml:id="p269" end="1335.885s">Ya, Mia, aku berjanji.</p>
+      <p begin="1336.585s" xml:id="p270" end="1337.802s">Tapi kau tahu..,..</p>
+      <p begin="1337.962s" xml:id="p271" end="1339.305s">Semuanya akan baik - baik saja.</p>
+      <p begin="1339.463s" xml:id="p272" end="1341.511s">Kau akan baik - baik saja.</p>
+      <p begin="1384.8s" xml:id="p273" end="1386.552s">Apa itu ?</p>
+      <p begin="1390.639s" xml:id="p274" end="1393.188s">John ?</p>
+      <p begin="1460.25s" xml:id="p275" end="1462.378s">- John ?<br />- Tak apa.</p>
+      <p begin="1511.01s" xml:id="p276" end="1513.21s">Aku temanmu, kau tahu itu &#039;kan ?</p>
+      <p begin="1514.93s" xml:id="p277" end="1516.182s">Apa kau, Phill ?</p>
+      <p begin="1516.89s" xml:id="p278" end="1518.187s">Tentu ini aku</p>
+      <p begin="1520.436s" xml:id="p279" end="1522.359s">Berarti aku memiliki teman</p>
+      <p begin="1523.355s" xml:id="p280" end="1526.95s">Kau memiliki Minggu menyenangkan.<br />Pergi menonton bioskop..,..</p>
+      <p begin="1527.109s" xml:id="p281" end="1529.908s">Pergi makan malam, hingga berdansa</p>
+      <p begin="1530.612s" xml:id="p282" end="1532.535s">Itu semua sangat menyenangkan bagiku</p>
+      <p begin="1583.123s" xml:id="p283" end="1585.592s">Bagaimana kabarmu hari ini ?</p>
+      <p begin="1585.751s" xml:id="p284" end="1587.87s">- TV-nya mati lagi.<br />- Sungguh ?</p>
+      <p begin="1587.928s" xml:id="p285" end="1590.802s">Pasti karena kamarnya, TV-nya<br />Tak pernah mati di ruang tamu.</p>
+      <p begin="1592.174s" xml:id="p286" end="1593.391s">Apa itu ?</p>
+      <p begin="1593.55s" xml:id="p287" end="1597.271s">Ini barang - barang yang kubeli di supermarket..,..</p>
+      <p begin="1597.429s" xml:id="p288" end="1599.477s">Untuk memuaskan rasa ngidam wanita hamil.</p>
+      <p begin="1599.64s" xml:id="p289" end="1602.985s">Lucu sekali, sejauh ini aku tak pernah ngidam,<br />Lucu sekali.</p>
+      <p begin="1604.603s" xml:id="p290" end="1606.196s">Acar.</p>
+      <p begin="1606.605s" xml:id="p291" end="1608.965s">Ya Tuhanku, apa kau tahu<br />Pasangan tepat makan acar ?</p>
+      <p begin="1611.235s" xml:id="p292" end="1614.159s">John Form,<br />Kita memang ditakdirkan bersama.</p>
+      <p begin="1614.988s" xml:id="p293" end="1616.205s">Ya, aku tahu.</p>
+      <p begin="1616.365s" xml:id="p294" end="1618.618s">Seperti mustar dan acar.</p>
+      <p begin="1623.038s" xml:id="p295" end="1625.006s">Apa rapatmu hari ini berjalan lancar ?</p>
+      <p begin="1625.165s" xml:id="p296" end="1626.508s">Ya, tentu.</p>
+      <p begin="1626.667s" xml:id="p297" end="1630.046s">Pimpinan merasa aku pantas ditempatkan<br />Di Rumah Sakit Huntington Memorial.</p>
+      <p begin="1631.88s" xml:id="p298" end="1633.257s">Tentu saja.</p>
+      <p begin="1633.423s" xml:id="p299" end="1637.269s">Tempatnya di Pasadena, tak begitu jauh<br />Dari Pantai, Kau tak keberatan ?</p>
+      <p begin="1639.638s" xml:id="p300" end="1641.39s">Perubahan suasana akan bagus.</p>
+      <p begin="1642.933s" xml:id="p301" end="1644.059s">Ya.</p>
+      <p begin="1644.226s" xml:id="p302" end="1647.776s">Ada wawancara sehari di Sacramento<br />Pimpinan ingin aku menghadirinya..,..</p>
+      <p begin="1647.938s" xml:id="p303" end="1650.191s">Dengan begitu, kesempatanku diterima akan besar.</p>
+      <p begin="1650.649s" xml:id="p304" end="1653.949s">Aku akan terbang kesana selama beberapa hari.</p>
+      <p begin="1655.612s" xml:id="p305" end="1657.114s">Hanya beberapa hari.</p>
+      <p begin="1657.781s" xml:id="p306" end="1659.033s">Aku akan baik - baik saja.</p>
+      <p begin="1660.242s" xml:id="p307" end="1661.915s">Ya, kau harus berbaring lagi.</p>
+      <p begin="1662.077s" xml:id="p308" end="1664.171s">Kau tak seharusnya duduk selama ini.</p>
+      <p begin="1664.329s" xml:id="p309" end="1665.376s">Ayo.</p>
+      <p begin="1665.873s" xml:id="p310" end="1667.716s">Oh, dan Detektif Clarkin menelepon hari ini.</p>
+      <p begin="1667.875s" xml:id="p311" end="1670.424s">Dia bilang ingin mampir kemari minggu ini.</p>
+      <p begin="1670.586s" xml:id="p312" end="1674.307s">Aku sudah menceritakan segalanya.<br />Aku ingin melupakan segalanya.</p>
+      <p begin="1674.464s" xml:id="p313" end="1676.967s">Aku tahu, dia bilang ingin<br />Menyelidiki beberapa hal lagi.</p>
+      <p begin="1680.095s" xml:id="p314" end="1681.563s">Boneka itu.</p>
+      <p begin="1682.598s" xml:id="p315" end="1686.273s">Kita harus membuangnya.<br />Wanita itu memegangnya saat mati.</p>
+      <p begin="1686.435s" xml:id="p316" end="1690.611s">Kau benar, kau benar,<br />Anggap saja Boneka itu tak ada.</p>
+      <p begin="1690.772s" xml:id="p317" end="1694.618s">Beritahu Detektif Clarkin, dia bisa<br />Kemari kapanpun dia inginkan.</p>
+      <p begin="1694.776s" xml:id="p318" end="1699.077s">Aku tak bisa pergi kemanapun dalam waktu dekat.</p>
+      <p begin="1732.439s" xml:id="p319" end="1734.316s">Mereka anggota sekte.</p>
+      <p begin="1736.902s" xml:id="p320" end="1740.748s">Kami memastikan bahwa dia puteri Higgins dan pacarnya.</p>
+      <p begin="1741.698s" xml:id="p321" end="1745.168s">- Kau pasti mendengar berita..,..<br />- Sekte itu menguasai dunia ?</p>
+      <p begin="1745.327s" xml:id="p322" end="1748.456s">Beritanya tak seperti yang kau yakini.</p>
+      <p begin="1748.622s" xml:id="p323" end="1751.421s">Kau pasti kesulitan meyakinkan kami akan hal itu.</p>
+      <p begin="1756.463s" xml:id="p324" end="1758.01s">Apa mereka pemuja setan ?</p>
+      <p begin="1760.509s" xml:id="p325" end="1762.932s">Tak apa, dia harus tahu.</p>
+      <p begin="1763.095s" xml:id="p326" end="1764.722s">Ya.</p>
+      <p begin="1764.888s" xml:id="p327" end="1768.813s">Ya, mereka dipercaya memiliki hubungan dengan sekte itu.</p>
+      <p begin="1768.976s" xml:id="p328" end="1771.149s">Mereka melakukan ini untuk membuktikan iman mereka..,..</p>
+      <p begin="1771.311s" xml:id="p329" end="1773.734s">Dengan melakukan tindak kekerasan seperti ini.</p>
+      <p begin="1773.897s" xml:id="p330" end="1776.525s">Itu gila.</p>
+      <p begin="1778.151s" xml:id="p331" end="1781.2s">Orang gila selalu melakukan hal gila, Bu.</p>
+      <p begin="1782.489s" xml:id="p332" end="1784.287s">Hanya itu saja.</p>
+      <p begin="1787.369s" xml:id="p333" end="1788.791s">Kuberitahu kau.</p>
+      <p begin="1789.955s" xml:id="p334" end="1791.707s">Akan kuselidiki lebih dalam lagi.</p>
+      <p begin="1791.873s" xml:id="p335" end="1793.546s">Akan kulihat apa yang bisa kutemukan.</p>
+      <p begin="1793.709s" xml:id="p336" end="1796.679s">Jika aku menemukan sesuatu,<br />Kuhubungi kau dan kuberitahu..,..</p>
+      <p begin="1796.837s" xml:id="p337" end="1798.43s">Tidak, tidak.</p>
+      <p begin="1799.089s" xml:id="p338" end="1800.432s">Terima kasih.</p>
+      <p begin="1801.675s" xml:id="p339" end="1804.849s">Kecuali itu ada hubungannya dengan keamanan kami..,..</p>
+      <p begin="1806.013s" xml:id="p340" end="1808.391s">Aku lebih suka tak mendengar masalah itu.</p>
+      <p begin="1809.558s" xml:id="p341" end="1810.684s">Baiklah.</p>
+      <p begin="1811.226s" xml:id="p342" end="1812.478s">Aku paham.</p>
+      <p begin="1817.274s" xml:id="p343" end="1818.742s">Baik, bagus.</p>
+      <p begin="1818.9s" xml:id="p344" end="1820.072s">Agak ke sana.</p>
+      <p begin="1821.153s" xml:id="p345" end="1822.45s">Terima kasih.</p>
+      <p begin="1823.28s" xml:id="p346" end="1824.907s">Akan kubuatkan popcorn.</p>
+      <p begin="1825.073s" xml:id="p347" end="1827.792s">- Tim Conway di sini.<br />- Dan John Wayne.</p>
+      <p begin="1829.578s" xml:id="p348" end="1831.33s">Dia mundur lagi ?!</p>
+      <p begin="1841.59s" xml:id="p349" end="1844.764s">Kau yakin bayinya tak apa jika<br />Makan mentega sebanyak ini dan..,..</p>
+      <p begin="1844.926s" xml:id="p350" end="1847.93s">- Raquel Welch dan Sophia Loren.<br />- Kau tahu mereka tak ada di sini</p>
+      <p begin="1848.096s" xml:id="p351" end="1850.616s">- Di mana mereka ?<br />- Aku tak tahu di mana mereka</p>
+      <p begin="1850.766s" xml:id="p352" end="1852.143s">Mari kita cari mereka !</p>
+      <p begin="1861.902s" xml:id="p353" end="1864.155s">- Bagaimana keadaanmu ?<br />- Sedikit tegang.</p>
+      <p begin="1869.284s" xml:id="p354" end="1871.412s">Mereka pasti akan menyukaimu.</p>
+      <p begin="1872.245s" xml:id="p355" end="1873.713s">Aku mencintaimu.</p>
+      <p begin="1874.539s" xml:id="p356" end="1875.665s">Aku mencintaimu juga.</p>
+      <p begin="1886.176s" xml:id="p357" end="1890.522s">Aku menyadarinya, Ny. Prentice, tapi kau<br />Masih punya waktu. Boleh aku melihat - lihat ?</p>
+      <p begin="1904.403s" xml:id="p358" end="1906.747s">Bukankah lebih nyaman kalau duduk ?</p>
+      <p begin="1911.785s" xml:id="p359" end="1914.163s">Aku tak tahu betapa menyakitkannya ini bagimu.</p>
+      <p begin="1922.587s" xml:id="p360" end="1925.181s">Dengar, ini tak ada hubungannya dengan uangku !</p>
+      <p begin="1930.22s" xml:id="p361" end="1933.85s">Aku tak mau membicarakannya.<br />Aku tak mau memikirkannya, aku..,..</p>
+      <p begin="1935.976s" xml:id="p362" end="1937.398s">Mengapa kau tak pergi saja.</p>
+      <p begin="1937.561s" xml:id="p363" end="1939.609s">Bagaimana jika mereka belum mati ?<br />Apa yang akan kau lakukan ?</p>
+      <p begin="1939.771s" xml:id="p364" end="1942.57s">Sudah kubilang, aku tak tahu !<br />Maukah kau pergi ?!</p>
+      <p begin="1993.033s" xml:id="p365" end="1994.159s">Tolong aku !</p>
+      <p begin="2023.063s" xml:id="p366" end="2025.816s">Kupegangi kau, kupegangi kau,<br />Tak apa, kemarilah.</p>
+      <p begin="2031.78s" xml:id="p367" end="2033.077s">Permisi.</p>
+      <p begin="2038.036s" xml:id="p368" end="2040.255s">Hei. Hei.</p>
+      <p begin="2040.997s" xml:id="p369" end="2042.214s">Hai.</p>
+      <p begin="2042.832s" xml:id="p370" end="2044.084s">Hai.</p>
+      <p begin="2044.251s" xml:id="p371" end="2048.006s">Maafkan aku tak ada di sana.<br />Maafkan aku.</p>
+      <p begin="2048.171s" xml:id="p372" end="2049.639s">Di belakangmu.</p>
+      <p begin="2055.637s" xml:id="p373" end="2057.31s">Selamat.</p>
+      <p begin="2058.014s" xml:id="p374" end="2060.437s">- Bayinya perempuan.<br />- Dia bayiku.</p>
+      <p begin="2061.518s" xml:id="p375" end="2062.895s">Astaga.</p>
+      <p begin="2067.732s" xml:id="p376" end="2069.075s">Leah ?</p>
+      <p begin="2069.776s" xml:id="p377" end="2071.87s">Leah. Hai.</p>
+      <p begin="2072.654s" xml:id="p378" end="2074.702s">Hai, Leah, ini aku Ayahmu.</p>
+      <p begin="2077.075s" xml:id="p379" end="2078.327s">Lihatlah dia.</p>
+      <p begin="2079.286s" xml:id="p380" end="2080.538s">Lihatlah dia.</p>
+      <p begin="2081.371s" xml:id="p381" end="2083.089s">Hai.</p>
+      <p begin="2083.498s" xml:id="p382" end="2085.751s">- John...,.<br />- Ya ?</p>
+      <p begin="2086.334s" xml:id="p383" end="2088.712s">- John, kebakaran itu..,..<br />- Oh, shh.</p>
+      <p begin="2088.878s" xml:id="p384" end="2091.677s">Tak apa, Leah baik- baik saja,<br />Kau juga baik saja.</p>
+      <p begin="2091.84s" xml:id="p385" end="2093.217s">Tidak.</p>
+      <p begin="2093.883s" xml:id="p386" end="2095.635s">Aku tak tahu apa yang terjadi.</p>
+      <p begin="2096.386s" xml:id="p387" end="2098.889s">Sepertinya Rumah itu dikutuk.</p>
+      <p begin="2100.223s" xml:id="p388" end="2104.103s">Aku tak mau kembali ke sana, tak mau.<br />Terutama adanya Leah, tidak.</p>
+      <p begin="2105.186s" xml:id="p389" end="2106.813s">Kau tak perlu kembali.</p>
+      <p begin="2107.23s" xml:id="p390" end="2108.356s">Selamanya.</p>
+      <p begin="2152.442s" xml:id="p391" end="2154.194s">Ayolah, ayolah.</p>
+      <p begin="2170.835s" xml:id="p392" end="2172.963s">Hei, sayang, kau sudah siap ?</p>
+      <p begin="2173.129s" xml:id="p393" end="2175.223s">Sebentar lagi..,..</p>
+      <p begin="2175.382s" xml:id="p394" end="2177.259s">Dia akan..,..</p>
+      <p begin="2180.72s" xml:id="p395" end="2181.767s">Lalu..,..</p>
+      <p begin="2184.349s" xml:id="p396" end="2187.148s">Kau harus sering - sering keluar.<br />Ayo, kita sudah terlambat.</p>
+      <p begin="2187.894s" xml:id="p397" end="2191.489s">Menurutmu kita harus pergi ?<br />Leah suka rewel.</p>
+      <p begin="2191.648s" xml:id="p398" end="2194.527s">Mia, dia baik saja.<br />Kalian berdua harus keluar dari sini.</p>
+      <p begin="2194.693s" xml:id="p399" end="2197.742s">- Kau terlalu lama berada di dalam Rumah.<br />- Aku tahu, tapi..,..</p>
+      <p begin="2197.904s" xml:id="p400" end="2199.281s">Lihatlah keadaan di luar.</p>
+      <p begin="2199.447s" xml:id="p401" end="2200.494s">Indah sekali.</p>
+      <p begin="2200.657s" xml:id="p402" end="2204.787s">Ayo, kau memerlukan ini, aku memerlukan ini,<br />Leah, dia harus memakai baju yang cerah.</p>
+      <p begin="2204.953s" xml:id="p403" end="2206.58s">Hentikan, dia sudah sempurna.</p>
+      <p begin="2206.746s" xml:id="p404" end="2210.026s">Mungkin kita bisa memakaikan ini,<br />Kau sebut apa ini ? Apa gunanya ?</p>
+      <p begin="2210.125s" xml:id="p405" end="2212.845s">Oh, selai cokelat. Mungkin kita harus<br />Mengolesinya dengan selai cokelat.</p>
+      <p begin="2213.002s" xml:id="p406" end="2214.003s">Baiklah, baik.</p>
+      <p begin="2214.17s" xml:id="p407" end="2217.891s">Aku akan pergi jika kau berhenti bitjara.</p>
+      <p begin="2218.049s" xml:id="p408" end="2219.722s">Aku berjanji.</p>
+      <p begin="2220.135s" xml:id="p409" end="2222.183s">- Ayo pergi.<br />- Ayo.</p>
+      <p begin="2223.93s" xml:id="p410" end="2225.182s">Kita pergi.</p>
+      <p begin="2235.275s" xml:id="p411" end="2237.994s">Ketakutan tak boleh menguasai kita</p>
+      <p begin="2239.154s" xml:id="p412" end="2240.997s">Karena kita tak pernah sendirian..,..</p>
+      <p begin="2241.156s" xml:id="p413" end="2242.703s">..,..Saat berjalan bersama Tuhan.</p>
+      <p begin="2243.992s" xml:id="p414" end="2248.589s">Apa itu benar semakin kita tahu akan sesuatu<br />Semakin ketakutan kita berkurang ?</p>
+      <p begin="2249.706s" xml:id="p415" end="2253.836s">Kita harus menghadapi ketakutan kita<br />Untuk memahaminya.</p>
+      <p begin="2258.882s" xml:id="p416" end="2261.226s">Kita harus tetap tegar..,..</p>
+      <p begin="2261.384s" xml:id="p417" end="2265.139s">Menghadapi monster yang melahap<br />Ketidak-amanan kita..,..</p>
+      <p begin="2265.305s" xml:id="p418" end="2267.103s">Akan kecemasan kita..,..</p>
+      <p begin="2267.265s" xml:id="p419" end="2269.734s">Dan keraguan yang timbul dalam diri kita.</p>
+      <p begin="2270.477s" xml:id="p420" end="2273.902s">Kita harus mengingatnya,<br />Kepada mereka yang memiliki iman..,..</p>
+      <p begin="2274.272s" xml:id="p421" end="2277.401s">Cahaya kebenaran ini akan terus kekal.</p>
+      <p begin="2280.445s" xml:id="p422" end="2283.949s">Mia, kau tak keberatan aku memfoto Puterimu ?</p>
+      <p begin="2284.115s" xml:id="p423" end="2288.586s">Aku suka memajang foto Jemaat baru<br />Dalam buletin kita.</p>
+      <p begin="2288.745s" xml:id="p424" end="2291.123s">Oh, ya, tentu saja.</p>
+      <p begin="2291.289s" xml:id="p425" end="2293.417s">Tidak, tidak, tahan dia di pangkuanmu.</p>
+      <p begin="2294.167s" xml:id="p426" end="2295.965s">Oh, kau tak mau aku ikut difoto.</p>
+      <p begin="2296.336s" xml:id="p427" end="2297.383s">Tentu itu yang kumau.</p>
+      <p begin="2297.754s" xml:id="p428" end="2300.428s">Ibu lebih mendekati Tuhan<br />Daripada makhluk hidup lainnya.</p>
+      <p begin="2301.216s" xml:id="p429" end="2304.311s">Hanya dengan merekalah Tuhan<br />Membagi keajaibannya.</p>
+      <p begin="2305.678s" xml:id="p430" end="2306.725s">Leah.</p>
+      <p begin="2307.383s" xml:id="p431" end="2309.01s">Hadap kemari, bagus.</p>
+      <p begin="2309.015s" xml:id="p432" end="2311.188s">Ah ! Leah.</p>
+      <p begin="2311.518s" xml:id="p433" end="2312.644s">Menakjubkan.</p>
+      <p begin="2312.811s" xml:id="p434" end="2313.983s">Ini sudah tjukup.</p>
+      <p begin="2316.856s" xml:id="p435" end="2320.326s">Aku merasa kehilangan Higgins setiap Minggu.</p>
+      <p begin="2322.07s" xml:id="p436" end="2326.45s">- Kubayangkan ini pasti berat bagimu..,..<br />- Oh,itu John. Aku harus pergi.</p>
+      <p begin="2326.95s" xml:id="p437" end="2329.123s">Masih banyak kardus yang harus kami bongkar.</p>
+      <p begin="2329.702s" xml:id="p438" end="2333.798s">Sayangnya, aku tak punya Jemaat untuk membantumu.</p>
+      <p begin="2334.499s" xml:id="p439" end="2338.174s">Kurasa ada beberapa hal yang<br />Harus kami tangani sendiri.</p>
+      <p begin="2338.67s" xml:id="p440" end="2341.549s">Ya, sampai jumpa.</p>
+      <p begin="2346.719s" xml:id="p441" end="2348.312s">Bapa Perez.</p>
+      <p begin="2366.239s" xml:id="p442" end="2368.458s">Kurasa ini kardus yang terakhir.</p>
+      <p begin="2369.868s" xml:id="p443" end="2371.791s">Seseorang tolong buka sampanye-nya.</p>
+      <p begin="2376.499s" xml:id="p444" end="2377.842s">Akan kuatasi Leah.</p>
+      <p begin="2412.285s" xml:id="p445" end="2415.71s">Tunggu, bagaimana Boneka itu ada di sana ?<br />Sumpah, aku sudah membuangnya.</p>
+      <p begin="2415.872s" xml:id="p446" end="2417.499s">Aku tak tahu.</p>
+      <p begin="2418.166s" xml:id="p447" end="2421.045s">Banyak hal tercampur aduk setelah kebakaran.</p>
+      <p begin="2421.461s" xml:id="p448" end="2423.384s">Kemarikan Boneka itu.</p>
+      <p begin="2424.547s" xml:id="p449" end="2427.175s">Tidak.</p>
+      <p begin="2428.176s" xml:id="p450" end="2429.803s">Kau memberikan Boneka ini sebagai hadiah.</p>
+      <p begin="2430.595s" xml:id="p451" end="2434.27s">Seperi yang dikatakan Bapa Perez,<br />Kita harus menghimpun kekuatan kita &#039;kan ?</p>
+      <p begin="2435.683s" xml:id="p452" end="2436.935s">Kau yakin ?</p>
+      <p begin="2437.101s" xml:id="p453" end="2438.569s">Ya.</p>
+      <p begin="2440.229s" xml:id="p454" end="2441.731s">Ya.</p>
+      <p begin="2455.954s" xml:id="p455" end="2458.457s">Sudah, dia muat di sini.</p>
+      <p begin="2462.085s" xml:id="p456" end="2465.806s">Datanglah ke Ibu !<br />Datanglah ke Ibu !</p>
+      <p begin="2485.024s" xml:id="p457" end="2486.401s">General Hospital</p>
+      <p begin="2486.567s" xml:id="p458" end="2491.744s">Di mana dokter dan perawat mendedikasikan<br />Diri mereka terhadap umat manusia</p>
+      <p begin="2532.405s" xml:id="p459" end="2536.911s">Dalam tantangan yang selalu berubah<br />Akan cinta, harapan, kesepian dan derita</p>
+      <p begin="2537.076s" xml:id="p460" end="2539.704s">General Hospital di saluran ABC</p>
+      <p begin="2542.081s" xml:id="p461" end="2546.382s">Dokter dan perawat dengan lika - liku<br />Dan tragedi mereka sendiri.</p>
+      <p begin="2553.051s" xml:id="p462" end="2555.645s">- Oh, maafkan aku.<br />- Permisi.</p>
+      <p begin="2555.803s" xml:id="p463" end="2558.352s">Oh, maaf, terima kasih.</p>
+      <p begin="2561.976s" xml:id="p464" end="2563.694s">Hai !</p>
+      <p begin="2564.103s" xml:id="p465" end="2565.48s">Kalian juga tinggal di sini ?</p>
+      <p begin="2565.646s" xml:id="p466" end="2568.741s">- Kami tinggal di atas..,..<br />- Jangan beritahu dia.</p>
+      <p begin="2568.9s" xml:id="p467" end="2572.495s">Kita tak boleh mengatakannya.<br />Dia orang asing.</p>
+      <p begin="2573.446s" xml:id="p468" end="2575.79s">Itu peraturan yang bagus.</p>
+      <p begin="2575.948s" xml:id="p469" end="2577.7s">Aku suka bonekamu.</p>
+      <p begin="2577.867s" xml:id="p470" end="2579.54s">Aku juga punya boneka seperti itu.</p>
+      <p begin="2579.702s" xml:id="p471" end="2581.079s">Sungguh ?</p>
+      <p begin="2581.245s" xml:id="p472" end="2583.088s">Jumlahnya ada beberapa, sebenarnya.</p>
+      <p begin="2584.165s" xml:id="p473" end="2587.089s">Aku Mia dan dia Leah.</p>
+      <p begin="2589.337s" xml:id="p474" end="2590.384s">Ya.</p>
+      <p begin="2590.546s" xml:id="p475" end="2591.672s">Siapa namamu ?</p>
+      <p begin="2592.548s" xml:id="p476" end="2596.849s">- Aku Nan..,..<br />- Sudah kubilang, jangan beritahu dia.</p>
+      <p begin="2600.181s" xml:id="p477" end="2604.311s">Mungkin suatu hari,<br />Kita semua akan berteman.</p>
+      <p begin="2638.509s" xml:id="p478" end="2641.272s">Menyambut Iblis</p>
+      <p begin="2647.854s" xml:id="p479" end="2651.7s">Hei, kau warga baru di Palmeri &#039;kan ?</p>
+      <p begin="2651.858s" xml:id="p480" end="2653.235s">Ya.</p>
+      <p begin="2653.401s" xml:id="p481" end="2656.951s">Kurasa si kecil ini<br />Juga banyak mengalami hal baru.</p>
+      <p begin="2657.113s" xml:id="p482" end="2658.706s">Dia Leah.</p>
+      <p begin="2658.865s" xml:id="p483" end="2660.492s">Dia sangat cantik.</p>
+      <p begin="2661.325s" xml:id="p484" end="2662.577s">Aku Mia.</p>
+      <p begin="2662.743s" xml:id="p485" end="2664.416s">Aku Evelyn, hai.</p>
+      <p begin="2664.579s" xml:id="p486" end="2667.583s">Ini.<br />Ini buku kesukaan Puteriku.</p>
+      <p begin="2667.748s" xml:id="p487" end="2671.469s">Mungkin Leah juga akan menyukainya<br />Saat dia dewasa nanti.</p>
+      <p begin="2672.753s" xml:id="p488" end="2675.222s">Manis sekali, terima kasih.</p>
+      <p begin="2676.007s" xml:id="p489" end="2678.51s">Mampirlah kemari kapanpun saja.</p>
+      <p begin="2678.676s" xml:id="p490" end="2680.053s">Terima kasih.</p>
+      <p begin="2698.779s" xml:id="p491" end="2700.156s">Hei.</p>
+      <p begin="2704.202s" xml:id="p492" end="2706.751s">Lihatlah yang mereka gambar untukmu.</p>
+      <p begin="2706.913s" xml:id="p493" end="2709.132s">Lihat ! Itu kita.</p>
+      <p begin="2709.29s" xml:id="p494" end="2710.758s">Kita sudah berteman.</p>
+      <p begin="2712.126s" xml:id="p495" end="2713.298s">Ya.</p>
+      <p begin="2715.671s" xml:id="p496" end="2717.924s">Setidaknya kita bisa berjalan - jalan.</p>
+      <p begin="2718.966s" xml:id="p497" end="2721.264s">Lihatlah ini.</p>
+      <p begin="2769.809s" xml:id="p498" end="2771.937s">Apa kita harus bicara ke orang tua mereka ?</p>
+      <p begin="2773.02s" xml:id="p499" end="2776.274s">Jika Leah menggambar seperti ini,<br />Aku pasti juga ingin Tahu.</p>
+      <p begin="2776.44s" xml:id="p500" end="2779.193s">Leah tak akan melakukan ini.<br />Gambar ini jelek, lihat proporsinya.</p>
+      <p begin="2779.36s" xml:id="p501" end="2780.987s">John.</p>
+      <p begin="2781.612s" xml:id="p502" end="2783.785s">Ya, Mia, jika Leah melakukannya,<br />Aku juga ingin tahu.</p>
+      <p begin="2783.948s" xml:id="p503" end="2787.748s">Kita cari tahu di mana mereka tinggal,<br />Lalu memperkenalkan diri kita.</p>
+      <p begin="2787.91s" xml:id="p504" end="2790.083s">Tapi jangan kita permasalahkan ini.</p>
+      <p begin="2790.246s" xml:id="p505" end="2795.218s">Ini bukanlah ancaman,<br />Ini hanyalah imajinasi anak kecil.</p>
+      <p begin="2795.376s" xml:id="p506" end="2796.844s">Aku tahu, aku tahu, aku tahu.</p>
+      <p begin="2797.67s" xml:id="p507" end="2800.844s">Ingatlah, kita pindah kemari<br />Untuk jauh dari marabahaya.</p>
+      <p begin="2801.007s" xml:id="p508" end="2805.763s">Kita mengemasi baju kita, perabotan<br />Bahkan kenangan kita.</p>
+      <p begin="2805.928s" xml:id="p509" end="2809.523s">Kita janji meninggalkan<br />Rasa takut dan juga kecemasan.</p>
+      <p begin="2809.682s" xml:id="p510" end="2812.31s">Ini tak semudah kedengarannya, John.</p>
+      <p begin="2813.227s" xml:id="p511" end="2816.902s">Kau selalu bekerja, mengobrol<br />Dengan teman sekerjamu, aku di sini..,..</p>
+      <p begin="2817.064s" xml:id="p512" end="2819.317s">Menunggumu tanpa melakukan apapun.</p>
+      <p begin="2825.531s" xml:id="p513" end="2829.035s">Maafkan aku,<br />Dengar, kau tahu..,..</p>
+      <p begin="2830.953s" xml:id="p514" end="2833.081s">Besok malam,<br />Aku tak perlu pulang larut.</p>
+      <p begin="2833.247s" xml:id="p515" end="2836.922s">Aku akan pulang,<br />Kita duduk bersama..,..</p>
+      <p begin="2837.293s" xml:id="p516" end="2838.92s">Makan malam romantis..,..</p>
+      <p begin="2839.086s" xml:id="p517" end="2842.306s">Dan kita saling mengobrol.</p>
+      <p begin="2842.882s" xml:id="p518" end="2845.51s">Bisakah kita melakukan itu ?</p>
+      <p begin="2965.421s" xml:id="p519" end="2966.843s">Halo ?</p>
+      <p begin="2989.487s" xml:id="p520" end="2991.034s">Siapa kau ?</p>
+      <p begin="3020.643s" xml:id="p521" end="3021.895s">Tak ada siapapun di sini</p>
+      <p begin="3022.061s" xml:id="p522" end="3023.608s">Hanya ada kau, aku dan Leah.</p>
+      <p begin="3023.771s" xml:id="p523" end="3027.275s">- Aku tahu yang kulihat. Ada wanita itu.<br />- Mia..,..</p>
+      <p begin="3027.608s" xml:id="p524" end="3031.203s">Banyak hal terjadi yang<br />Tak bisa kujelaskan, John.</p>
+      <p begin="3031.362s" xml:id="p525" end="3032.454s">Apa itu ?</p>
+      <p begin="3032.613s" xml:id="p526" end="3036.618s">Sayang, kau yakin itu bukan<br />Perwujudan kecemasanmu ?</p>
+      <p begin="3036.784s" xml:id="p527" end="3040.129s">Ini normal bagi Ibu baru mengalami<br />Fase setelah kelahiran..,..</p>
+      <p begin="3040.287s" xml:id="p528" end="3044.337s">Menjadi dokter tak membuatmu ahli dalam segala hal.</p>
+      <p begin="3054.927s" xml:id="p529" end="3057.055s">Kurasa kita harus membicarakannya ke orang lain.</p>
+      <p begin="3060.182s" xml:id="p530" end="3061.525s">Seperti siapa ?</p>
+      <p begin="3063.143s" xml:id="p531" end="3064.144s">Dokter jiwa ?</p>
+      <p begin="3067.731s" xml:id="p532" end="3070.655s">Aku tak gila, John.<br />Aku tak gila, John.</p>
+      <p begin="3070.818s" xml:id="p533" end="3074.493s">Aku tak mengatakan kau gila<br />Dan aku tak mengatakan dokter jiwa.</p>
+      <p begin="3078.2s" xml:id="p534" end="3080.248s">Jadi kami perlu bantuan Gereja, Bapa</p>
+      <p begin="3080.828s" xml:id="p535" end="3084.583s">Ini yang dilakukan orang tuaku<br />Saat mereka mendapat masalah pelik..,..</p>
+      <p begin="3084.748s" xml:id="p536" end="3086.216s">Dan ini berhasil bagi mereka.</p>
+      <p begin="3086.959s" xml:id="p537" end="3088.882s">Aku paham, tentu saja.</p>
+      <p begin="3090.129s" xml:id="p538" end="3093.804s">Tapi kalian mengalami<br />Lebih dari sekedar masalah pelik.</p>
+      <p begin="3093.966s" xml:id="p539" end="3098.563s">Dalam beberapa bulan ini, kalian<br />Mengalami kehidupan yang sangat buruk.</p>
+      <p begin="3099.138s" xml:id="p540" end="3100.936s">Dan juga kehidupan nan indah.</p>
+      <p begin="3101.557s" xml:id="p541" end="3106.939s">Ayunan bandul seperti ini bahkan mampu<br />Menggoyahkan pondasi terkuat.</p>
+      <p begin="3107.104s" xml:id="p542" end="3108.481s">Tapi kau bertahan.</p>
+      <p begin="3109.398s" xml:id="p543" end="3112.698s">Dan bukannya mencoba melupakan<br />Kejadian buruk ini..,..</p>
+      <p begin="3112.86s" xml:id="p544" end="3118.037s">Kurasa kau bisa menggunakan ini sebagai contoh<br />Betapa kuatnya kalian saat bersama.</p>
+      <p begin="3118.949s" xml:id="p545" end="3122.169s">Kalian tak melakukan hal mengerikan<br />Seperti yang dilakukan orang lemah.</p>
+      <p begin="3122.703s" xml:id="p546" end="3124.58s">Kalian menjadi semakin kuat.</p>
+      <p begin="3129.585s" xml:id="p547" end="3131.007s">Kau benar.</p>
+      <p begin="3135.174s" xml:id="p548" end="3136.517s">Baik.</p>
+      <p begin="3141.972s" xml:id="p549" end="3143.599s">- Hei !<br />- Oh, hai.</p>
+      <p begin="3143.766s" xml:id="p550" end="3145.313s">- Mia &#039;kan ?<br />- Ya.</p>
+      <p begin="3145.476s" xml:id="p551" end="3149.401s">Tentu aku mengingat kau, Leah.<br />Dan kau..,.. ?</p>
+      <p begin="3149.563s" xml:id="p552" end="3150.94s">- Hai. John.<br />- Hai.</p>
+      <p begin="3151.106s" xml:id="p553" end="3153.586s">Dia Evelyn. Dia pemilik toko buku<br />Yang kuceritakan padamu.</p>
+      <p begin="3153.734s" xml:id="p554" end="3157.238s">- Ya, terima kasih atas bukunya.<br />- Tak masalah.</p>
+      <p begin="3157.404s" xml:id="p555" end="3162.331s">Aku melihat puterimu dan<br />Aku merasa pernah mengenalnya.</p>
+      <p begin="3162.701s" xml:id="p556" end="3165.83s">Jadi, keluarga bahagia ini mau ke mana ?</p>
+      <p begin="3165.996s" xml:id="p557" end="3168.124s">- Kami hanya mengantarnya keluar.<br />- Aku harus ke Rumah Sakit.</p>
+      <p begin="3168.29s" xml:id="p558" end="3171.419s">- Aku tugas jaga malam.<br />- Kurasa dia melakukan hal buruk.</p>
+      <p begin="3171.585s" xml:id="p559" end="3173.053s">Mereka bilang aku akan dapat hadiah.</p>
+      <p begin="3173.212s" xml:id="p560" end="3178.434s">Jika kalian ingin berkeliling tempat ini,<br />Hubungi saja aku.</p>
+      <p begin="3178.592s" xml:id="p561" end="3179.684s">Terima kasih.</p>
+      <p begin="3179.843s" xml:id="p562" end="3181.436s">- Selamat siang.<br />- Dah.</p>
+      <p begin="3182.346s" xml:id="p563" end="3185.065s">Kurasa aku juga harus pergi.<br />Kau mau menemui Ibu ?</p>
+      <p begin="3185.224s" xml:id="p564" end="3186.271s">Ayolah !</p>
+      <p begin="3448.862s" xml:id="p565" end="3450.739s">Ayolah ! Ayolah !</p>
+      <p begin="3486.149s" xml:id="p566" end="3487.275s">Leah !</p>
+      <p begin="3491.488s" xml:id="p567" end="3492.74s">Leah !</p>
+      <p begin="3512.634s" xml:id="p568" end="3514.056s">Tolong aku !</p>
+      <p begin="3515.345s" xml:id="p569" end="3516.517s">Tolong aku !</p>
+      <p begin="3591.296s" xml:id="p570" end="3592.548s">Oh.</p>
+      <p begin="3592.714s" xml:id="p571" end="3594.216s">Maafkan aku.</p>
+      <p begin="3595.383s" xml:id="p572" end="3596.851s">Terima kasih.</p>
+      <p begin="3598.845s" xml:id="p573" end="3600.518s">Terima kasih sudah mau menemuiku.</p>
+      <p begin="3600.68s" xml:id="p574" end="3601.977s">Tak apa.</p>
+      <p begin="3602.14s" xml:id="p575" end="3605.69s">Aku terkejut mendengar panggilanmu.<br />Terakhir kali kita bicara..,..</p>
+      <p begin="3605.852s" xml:id="p576" end="3607.854s">Kubilang &quot;Aku tak mau tahu lagi&quot;</p>
+      <p begin="3608.355s" xml:id="p577" end="3611.859s">Aku mencoba menjaga jarak..,..</p>
+      <p begin="3612.901s" xml:id="p578" end="3615.37s">Namun aku menyadari membutuhkanmu.</p>
+      <p begin="3615.904s" xml:id="p579" end="3618.703s">Ada begitu banyak pertanyaan tak terjawab.</p>
+      <p begin="3618.865s" xml:id="p580" end="3620.242s">Aku paham.</p>
+      <p begin="3621.243s" xml:id="p581" end="3623.746s">Aku membawa berkas kasus Higgins yang kumiliki.</p>
+      <p begin="3629.084s" xml:id="p582" end="3632.714s">Itu Annabelle.<br />Puteri Higgins.</p>
+      <p begin="3633.38s" xml:id="p583" end="3637.476s">Foto ini jelas - jelas di ambil<br />Sebelum dia mengikuti Sekte.</p>
+      <p begin="3638.718s" xml:id="p584" end="3642.018s">Dia terlihat berbeda saat<br />Terakhir kali kau melihatnya &#039;kan ?</p>
+      <p begin="3645.767s" xml:id="p585" end="3647.94s">Sekte yang dia ikuti ini..,..</p>
+      <p begin="3648.562s" xml:id="p586" end="3650.064s">Apa kau menyelidikinya ?</p>
+      <p begin="3650.939s" xml:id="p587" end="3652.657s">Untuk apa ?</p>
+      <p begin="3652.816s" xml:id="p588" end="3656.195s">Entahlah, pasti ada alasan<br />Dibalik serangan mereka.</p>
+      <p begin="3657.279s" xml:id="p589" end="3660.658s">- Orang gila melakukan hal gila.<br />- Hal gila, aku tahu.</p>
+      <p begin="3661.825s" xml:id="p590" end="3663.953s">Mereka tak menganggap diri mereka gila.</p>
+      <p begin="3664.786s" xml:id="p591" end="3666.834s">Mereka memiliki suatu alasan.</p>
+      <p begin="3668.415s" xml:id="p592" end="3672.841s">Setelah kuselidiki, kutemukan tindakan mereka<br />Bukan suatu ibadah.</p>
+      <p begin="3673.003s" xml:id="p593" end="3677.429s">Mereka berusaha membangkitkan sesuatu.</p>
+      <p begin="3680.51s" xml:id="p594" end="3681.727s">Seperti apa ?</p>
+      <p begin="3681.887s" xml:id="p595" end="3683.981s">Iblis ? Setan ?</p>
+      <p begin="3684.139s" xml:id="p596" end="3686.892s">Peri Gigi.<br />Aku tak tahu tepatnya.</p>
+      <p begin="3687.058s" xml:id="p597" end="3689.356s">- Itu tak begitu penting..,..<br />- Mengapa tidak ?</p>
+      <p begin="3690.27s" xml:id="p598" end="3692.989s">Karena ini hanya omong kosong mistis.</p>
+      <p begin="3693.148s" xml:id="p599" end="3694.65s">Um..,..</p>
+      <p begin="3695.859s" xml:id="p600" end="3697.327s">Kumohon.</p>
+      <p begin="3706.745s" xml:id="p601" end="3707.871s">Bu..,..</p>
+      <p begin="3709.331s" xml:id="p602" end="3711.083s">Mereka adalah penjahat.</p>
+      <p begin="3711.708s" xml:id="p603" end="3714.507s">Apa yang mereka lakukan<br />Mungkin hanya Tuhan yang tahu..,..</p>
+      <p begin="3714.669s" xml:id="p604" end="3718.094s">Dan itu membuat mereka<br />Melakukan segala hal..,..</p>
+      <p begin="3719.049s" xml:id="p605" end="3720.892s">Nan mengerikan itu.</p>
+      <p begin="3730.06s" xml:id="p606" end="3732.108s">Apa ini ada artinya bagimu ?</p>
+      <p begin="3736.233s" xml:id="p607" end="3738.327s">Pernahkah kau dengar pepatah..,..</p>
+      <p begin="3738.652s" xml:id="p608" end="3741.155s">&quot;Terkadang rokok tetaplah rokok&quot;</p>
+      <p begin="3741.321s" xml:id="p609" end="3745.701s">Jika kau tak keberatan,<br />Aku ingin menyimpan ini.</p>
+      <p begin="3747.244s" xml:id="p610" end="3748.461s">Um...</p>
+      <p begin="3748.62s" xml:id="p611" end="3751.248s">Satu lagi, apa Sekte itu punya nama ?</p>
+      <p begin="3757.879s" xml:id="p612" end="3761.349s">Mereka menyebut diri mereka,<br />&quot;Para Murid Ram&quot;</p>
+      <p begin="3780.026s" xml:id="p613" end="3781.528s">Halo lagi.</p>
+      <p begin="3783.53s" xml:id="p614" end="3785.578s">Apa ada yang bisa kubantu ?</p>
+      <p begin="3785.74s" xml:id="p615" end="3789.745s">Oh, tak ada, aku hanya<br />Mencari - cari buku saja.</p>
+      <p begin="3790.287s" xml:id="p616" end="3792.039s">Aku baru mempelajari sesuatu.</p>
+      <p begin="3792.956s" xml:id="p617" end="3794.958s">Kau pembohong buruk.</p>
+      <p begin="3797.794s" xml:id="p618" end="3799.637s">Buku apa yang kau cari ?</p>
+      <p begin="3801.214s" xml:id="p619" end="3803.387s">- Aku akan kembali nanti.<br />- Mia.</p>
+      <p begin="3803.55s" xml:id="p620" end="3804.972s">Aku sudah tua.</p>
+      <p begin="3805.135s" xml:id="p621" end="3807.809s">Artinya hanya ada sedikit hal<br />Yang mampu mengejutkanku.</p>
+      <p begin="3808.471s" xml:id="p622" end="3811.224s">Dan saat itu terjadi,<br />Aku terlalu lelah untuk terkejut.</p>
+      <p begin="3811.891s" xml:id="p623" end="3813.359s">Maukah kau mengatakannya ?</p>
+      <p begin="3813.518s" xml:id="p624" end="3817.523s">- Atau kita bisa..,..<br />- Kurasa Keluargaku dihantui.</p>
+      <p begin="3819.024s" xml:id="p625" end="3821.652s">Lorong Empat, ikuti aku.</p>
+      <p begin="3826.698s" xml:id="p626" end="3830.999s">Aku tahu ini gila, ada hantu perempuan kecil<br />Menghantui kami, tapi aku..,..</p>
+      <p begin="3831.161s" xml:id="p627" end="3834.005s">Itu tak lebih gila dari<br />Musa Membelah Laut Merah.</p>
+      <p begin="3834.164s" xml:id="p628" end="3836.212s">Bagi yang tak percaya, itu gila.</p>
+      <p begin="3836.374s" xml:id="p629" end="3837.751s">Jadi kau mempercayai itu ?</p>
+      <p begin="3839.419s" xml:id="p630" end="3843.549s">Katakan saja aku punya<br />Beberapa pengalaman seperti itu..,..</p>
+      <p begin="3843.715s" xml:id="p631" end="3847.39s">Dan itu membantuku berpikir terbuka.</p>
+      <p begin="3855.435s" xml:id="p632" end="3859.906s">Kurasa kau tak dihantui gadis kecil itu.</p>
+      <p begin="3860.565s" xml:id="p633" end="3862.033s">Mengapa tidak ?</p>
+      <p begin="3862.192s" xml:id="p634" end="3864.445s">Hantu menggentayangi tempat tertentu.</p>
+      <p begin="3864.611s" xml:id="p635" end="3867.455s">Terutama tempat di mana<br />Kejadian mengerikan terjadi.</p>
+      <p begin="3867.614s" xml:id="p636" end="3869.366s">Seperti rumah lama-mu.</p>
+      <p begin="3870.909s" xml:id="p637" end="3873.128s">Tapi kami pindah dan kejadian itu terus terjadi.</p>
+      <p begin="3873.286s" xml:id="p638" end="3875.505s">Itu sebabnya itu bukan hantu.</p>
+      <p begin="3875.663s" xml:id="p639" end="3877.586s">Bagaimana dengan Sekte itu ?</p>
+      <p begin="3877.749s" xml:id="p640" end="3881.128s">Kau bilang mereka berusaha memanggil sesuatu.</p>
+      <p begin="3881.628s" xml:id="p641" end="3883.847s">Dari apa yang pernah kubaca..,..</p>
+      <p begin="3884.005s" xml:id="p642" end="3887.134s">Sekte ini tak memanggil hantu.</p>
+      <p begin="3887.801s" xml:id="p643" end="3889.895s">Mereka memanggil Roh &quot;Bukan Manusia&quot;</p>
+      <p begin="3891.262s" xml:id="p644" end="3893.64s">Sesuatu yang tak pernah berdarah daging.</p>
+      <p begin="3894.724s" xml:id="p645" end="3896.021s">Iblis.</p>
+      <p begin="3897.143s" xml:id="p646" end="3898.77s">Apa yang mereka inginkan ?</p>
+      <p begin="3900.188s" xml:id="p647" end="3901.565s">Jiwa.</p>
+      <p begin="3902.482s" xml:id="p648" end="3905.076s">Dan mereka tak berhenti<br />Sampai mendapatkannya.</p>
+      <p begin="3906.82s" xml:id="p649" end="3908.367s">Apa yang harus kulakukan ?</p>
+      <p begin="3910.031s" xml:id="p650" end="3913.251s">Semoga jawabannya ada di salah satu buku ini.</p>
+      <p begin="3929.3s" xml:id="p651" end="3931.644s">Puteriku, Ruby.</p>
+      <p begin="3932.846s" xml:id="p652" end="3935.69s">Dia meninggal saat se-usiamu.</p>
+      <p begin="3937.767s" xml:id="p653" end="3939.269s">Aku turut berduka.</p>
+      <p begin="3940.812s" xml:id="p654" end="3945.534s">Tanpa dirinya, aku merasa<br />Tak punya harapan hidup..,..</p>
+      <p begin="3946.776s" xml:id="p655" end="3950.28s">Tapi saat aku lemah,<br />Menunggu ajal menjemputku..,..</p>
+      <p begin="3951.865s" xml:id="p656" end="3953.993s">Aku mendengar suara puteriku.</p>
+      <p begin="3955.452s" xml:id="p657" end="3958.296s">Dia bilang bahwa ini bukanlah waktuku.</p>
+      <p begin="3958.455s" xml:id="p658" end="3961.334s">Tuhan memiliki rencana lain untukku.</p>
+      <p begin="3962.375s" xml:id="p659" end="3964.969s">Kau juga memiliki suatu tujuan, Mia.</p>
+      <p begin="3965.128s" xml:id="p660" end="3967.881s">Untuk melindungi keluargamu.</p>
+      <p begin="3968.047s" xml:id="p661" end="3970.391s">Jangan anggap dirimu gila<br />Karena memikirkan hal itu.</p>
+      <p begin="3970.55s" xml:id="p662" end="3973.144s">Lakukan apa yang kau anggap benar.</p>
+      <p begin="3973.97s" xml:id="p663" end="3976.064s">Lakukan apa yang harus kau lakukan.</p>
+      <p begin="3990.32s" xml:id="p664" end="3992.789s">Mia.</p>
+      <p begin="4027.357s" xml:id="p665" end="4031.032s">&quot;Iblis memangsa mereka yang lemah dan tak berdaya&quot;</p>
+      <p begin="4038.368s" xml:id="p666" end="4041.292s">&quot;Berusaha melahap jiwa mereka..,..&quot;</p>
+      <p begin="4042.038s" xml:id="p667" end="4045.668s">&quot;Untuk mendaraskan mantera..,..&quot;</p>
+      <p begin="4046.626s" xml:id="p668" end="4049.254s">&quot;Menumpahkan darah orang baik&quot;</p>
+      <p begin="4051.089s" xml:id="p669" end="4053.308s">&quot;Menumpahkan darah orang tak berdosa&quot;</p>
+      <p begin="4060.974s" xml:id="p670" end="4062.897s">Bagaimana caraku menghentikannya ?</p>
+      <p begin="4070.108s" xml:id="p671" end="4071.325s">Hei</p>
+      <p begin="4071.859s" xml:id="p672" end="4073.236s">Hei</p>
+      <p begin="4131.127s" xml:id="p673" end="4132.504s">Leah.</p>
+      <p begin="4139.761s" xml:id="p674" end="4141.138s">Leah !</p>
+      <p begin="4142.096s" xml:id="p675" end="4143.393s">Leah !</p>
+      <p begin="4147.06s" xml:id="p676" end="4148.061s">Leah !</p>
+      <p begin="4161.157s" xml:id="p677" end="4162.249s">Leah !</p>
+      <p begin="4207.62s" xml:id="p678" end="4209.543s">Ya Tuhanku !</p>
+      <p begin="4216.295s" xml:id="p679" end="4217.797s">Apa yang terjadi ?</p>
+      <p begin="4219.716s" xml:id="p680" end="4222.595s">Tolong kami,<br />Kau harus menolong kami, John.</p>
+      <p begin="4243.948s" xml:id="p681" end="4246.121s">- Terima kasih sudah datang, Bapa.<br />- Tentu.</p>
+      <p begin="4248.536s" xml:id="p682" end="4250.755s">Biar kugantung mantelmu.</p>
+      <p begin="4253.75s" xml:id="p683" end="4255.093s">Mia..,..</p>
+      <p begin="4255.793s" xml:id="p684" end="4257.09s">Boneka ini..,..</p>
+      <p begin="4257.253s" xml:id="p685" end="4258.8s">Boleh kulihat ?</p>
+      <p begin="4295.875s" xml:id="p686" end="4298.298s">- John membuang Boneka itu.<br />- Atau berusaha membuangnya.</p>
+      <p begin="4298.461s" xml:id="p687" end="4301.01s">Tapi Boneka itu masih ada,<br />Di bagian dasar kardus terakhir kami.</p>
+      <p begin="4301.172s" xml:id="p688" end="4305.097s">Aku tetap tak paham apa hubungannya<br />Boneka ini dengan Iblis itu.</p>
+      <p begin="4305.635s" xml:id="p689" end="4311.062s">Iblis terkadang menggunakan benda sebagai<br />Perantara mendapat tujuan mereka.</p>
+      <p begin="4311.224s" xml:id="p690" end="4312.851s">&quot;Mendapat tujuan mereka&quot; ?</p>
+      <p begin="4313.726s" xml:id="p691" end="4315.444s">Jiwa kita, John.</p>
+      <p begin="4316.145s" xml:id="p692" end="4317.943s">Itu sebabnya Iblis itu memburu Leah.</p>
+      <p begin="4319.941s" xml:id="p693" end="4322.364s">- Iblis itu menginginkan Jiwanya.<br />- Tidak, tidak, tidak.</p>
+      <p begin="4322.86s" xml:id="p694" end="4324.954s">Iblis tak bisa mengambil Jiwa, Mia.</p>
+      <p begin="4325.613s" xml:id="p695" end="4329.208s">Jiwa itu harus ditawarkan kepada Iblis<br />Sebelum dia mengambilnya.</p>
+      <p begin="4329.367s" xml:id="p696" end="4332.166s">Aku tak berencana menawarkan Jiwaku.</p>
+      <p begin="4332.87s" xml:id="p697" end="4335.168s">Iblis merupakan &quot;Penguasa Kedustaan&quot;</p>
+      <p begin="4335.331s" xml:id="p698" end="4337.754s">Setan salah satu manipulasinya.</p>
+      <p begin="4337.917s" xml:id="p699" end="4340.011s">Tak ada yang mau menawarkan Jiwa mereka.</p>
+      <p begin="4340.378s" xml:id="p700" end="4342.176s">Bagaimana cara Kita melenyapkannya ?</p>
+      <p begin="4343.422s" xml:id="p701" end="4346.767s">- Bagaimana cara kita menghentikannya ?<br />- Aku tak tahu.</p>
+      <p begin="4347.51s" xml:id="p702" end="4348.807s">Aku masih belum tahu.</p>
+      <p begin="4349.22s" xml:id="p703" end="4351.439s">Tapi ada orang di Gereja yang tahu caranya.</p>
+      <p begin="4351.597s" xml:id="p704" end="4355.522s">Setidaknya, aku mendengar ada pasangan<br />Di Gereja yang memiliki pekerjaan..,..</p>
+      <p begin="4355.685s" xml:id="p705" end="4358.108s">Mengatasi hal- hal semacam ini.</p>
+      <p begin="4358.271s" xml:id="p706" end="4360.74s">Mereka tinggal di Timur,<br />Tapi bisa dipanggil kapanpun.</p>
+      <p begin="4360.898s" xml:id="p707" end="4362.571s">Apa yang harus kita lakukan sekarang ?</p>
+      <p begin="4363.776s" xml:id="p708" end="4366.279s">Aku tak mau Leah berada di dekat Boneka itu.</p>
+      <p begin="4368.906s" xml:id="p709" end="4369.998s">Biar kubawa Boneka itu.</p>
+      <p begin="4371.45s" xml:id="p710" end="4373.544s">Mungkin jika Boneka itu<br />Disimpan di tempat suci..,..</p>
+      <p begin="4373.703s" xml:id="p711" end="4377.424s">Akan melemahkan Iblis itu<br />Dan tak memiliki kekuatan untuk kembali.</p>
+      <p begin="4380.418s" xml:id="p712" end="4381.92s">Terima kasih, Bapa.</p>
+      <p begin="4382.086s" xml:id="p713" end="4383.588s">Sama - sama.</p>
+      <p begin="4440.394s" xml:id="p714" end="4442.613s">Ayo, kau harus tidur,<br />Ini perintah Dokter.</p>
+      <p begin="4442.772s" xml:id="p715" end="4446.197s">Oh, tidak, John. Aku tak bisa tidur sampai<br />Memastikan benda itu tak datang lagi.</p>
+      <p begin="4446.359s" xml:id="p716" end="4448.407s">Mia. Ayolah, bagaimana jika..,..</p>
+      <p begin="4448.569s" xml:id="p717" end="4450.071s">- Bagaimana jika aku..,..<br />- John, aku tak bisa.</p>
+      <p begin="4450.237s" xml:id="p718" end="4451.659s">Bagaimana jika aku bangun menemani Leah ?</p>
+      <p begin="4451.822s" xml:id="p719" end="4453.29s">Beristirahatlah.</p>
+      <p begin="4454.825s" xml:id="p720" end="4456.873s">- Paham ?<br />- Baik.</p>
+      <p begin="4457.87s" xml:id="p721" end="4459.213s">Selamat malam.</p>
+      <p begin="4459.372s" xml:id="p722" end="4460.624s">John.</p>
+      <p begin="4463.209s" xml:id="p723" end="4464.586s">Ya ?</p>
+      <p begin="4464.752s" xml:id="p724" end="4466.379s">Terima kasih sudah mempercayaiku.</p>
+      <p begin="4468.047s" xml:id="p725" end="4469.765s">Aku tak tahu kalau kau mempercayaiku.</p>
+      <p begin="4470.549s" xml:id="p726" end="4473.223s">Mia, sudahlah.</p>
+      <p begin="4473.386s" xml:id="p727" end="4474.854s">Aku mencintaimu.</p>
+      <p begin="4475.012s" xml:id="p728" end="4477.06s">Aku selalu mempercayaimu.</p>
+      <p begin="4481.102s" xml:id="p729" end="4482.194s">Selamat malam.</p>
+      <p begin="4483.396s" xml:id="p730" end="4485.649s">Menurutmu Bapa Perez bisa membantu kita ?</p>
+      <p begin="4486.607s" xml:id="p731" end="4488.701s">Ya, aku yakin.</p>
+      <p begin="4493.447s" xml:id="p732" end="4496.371s">Kedudukannya 2-1 untuk lemparan ke 74</p>
+      <p begin="4496.742s" xml:id="p733" end="4499.086s">Di seberang sana, lemparan indah melesat</p>
+      <p begin="4499.245s" xml:id="p734" end="4502.419s">Logonov memukul.<br />Strike, membawa kedudukan 2-2</p>
+      <p begin="4502.581s" xml:id="p735" end="4503.673s">Sekarang..,..</p>
+      <p begin="4512.174s" xml:id="p736" end="4513.642s">Dan berakhir..,..</p>
+      <p begin="4516.345s" xml:id="p737" end="4517.471s">Ayolah.</p>
+      <p begin="4518.389s" xml:id="p738" end="4521.393s">Semoga Tuhan mengampuni Jiwamu !</p>
+      <p begin="4636.09s" xml:id="p739" end="4638.058s">Sejujurnya, Mia..,..</p>
+      <p begin="4638.217s" xml:id="p740" end="4640.515s">Kau tak perlu melakukan ini.</p>
+      <p begin="4641.345s" xml:id="p741" end="4642.892s">Ini antara aku dan Leah..,..</p>
+      <p begin="4643.055s" xml:id="p742" end="4646.559s">Dan Leah bilang dia ingin piyama ini.</p>
+      <p begin="4646.725s" xml:id="p743" end="4649.069s">Kau merusak kejutan untuknya.</p>
+      <p begin="4650.604s" xml:id="p744" end="4654.905s">Aku tak punya kesempatan memiliki cucu<br />Lagipula bayi tak tahu ini kejutan.</p>
+      <p begin="4655.067s" xml:id="p745" end="4657.57s">Oh, aku tak tahu apa itu benar.</p>
+      <p begin="4657.736s" xml:id="p746" end="4662.492s">Sudah jelas Leah menginginkannya,<br />Dia juga menunjuk baju ini.</p>
+      <p begin="4662.658s" xml:id="p747" end="4664.501s">Oh, Evelyn.</p>
+      <p begin="4691.27s" xml:id="p748" end="4694.114s">Oh, sayang kecil manisku.</p>
+      <p begin="4694.273s" xml:id="p749" end="4695.57s">Oh, Ibu.</p>
+      <p begin="4695.733s" xml:id="p750" end="4700.079s">Ruby-ku dulu juga suka menangis<br />Sampai aku menimang - nimangnya.</p>
+      <p begin="4700.571s" xml:id="p751" end="4701.948s">Berikan dia kemari.</p>
+      <p begin="4702.364s" xml:id="p752" end="4705.538s">Puteriku dulu sering rewel. Kemarikan.</p>
+      <p begin="4705.868s" xml:id="p753" end="4710.749s">Ayolah, sayang, tak apa.<br />Ini dia, ini dia, Leah.</p>
+      <p begin="4714.001s" xml:id="p754" end="4717.301s">Kita timang - timang bayi ini sepanjang malam</p>
+      <p begin="4722.301s" xml:id="p755" end="4724.224s">Kau penyelamatku.</p>
+      <p begin="4725.763s" xml:id="p756" end="4727.857s">Lagu apa yang kau dendangkan itu ?</p>
+      <p begin="4728.307s" xml:id="p757" end="4730.105s">Hanya lagu Blues pendek lama.</p>
+      <p begin="4730.267s" xml:id="p758" end="4734.818s">Ini satu - satunya yang mampu<br />Menenangkan Ruby-ku saat bayi.</p>
+      <p begin="4737.983s" xml:id="p759" end="4740.327s">Kau tak keberatan aku tanya<br />Bagaimana dia meninggal ?</p>
+      <p begin="4741.654s" xml:id="p760" end="4745.249s">- Jika kau tak mau menceritakannya, tak apa.<br />- Tidak, tak apa.</p>
+      <p begin="4745.783s" xml:id="p761" end="4747.581s">Terjadi kecelakaan mobil.</p>
+      <p begin="4749.745s" xml:id="p762" end="4752.498s">Kami mengemudi pulang dari rumah orang tuaku.</p>
+      <p begin="4752.665s" xml:id="p763" end="4754.292s">Mereka tinggal di Utara.</p>
+      <p begin="4754.458s" xml:id="p764" end="4758.179s">Dan aku kelelahan.</p>
+      <p begin="4758.754s" xml:id="p765" end="4760.427s">Pertemuan dengan keluarga memang melelahkan.</p>
+      <p begin="4761.59s" xml:id="p766" end="4766.266s">Sudah larut malam dan aku<br />Tak seharusnya mengemudi.</p>
+      <p begin="4769.515s" xml:id="p767" end="4771.984s">Terakhir kali yang kuingat..,..</p>
+      <p begin="4772.142s" xml:id="p768" end="4775.362s">Melihat ke tempat duduk penumpang..,..</p>
+      <p begin="4775.521s" xml:id="p769" end="4779.071s">Tempat puteriku tertidur.</p>
+      <p begin="4781.36s" xml:id="p770" end="4785.49s">Mia, dia pasti tumbuh dewasa<br />Menjadi orang yang cantik.</p>
+      <p begin="4790.035s" xml:id="p771" end="4792.834s">Aku tersadar tiga minggu kemudian..,..</p>
+      <p begin="4792.997s" xml:id="p772" end="4794.874s">Namun Ruby tak pernah bangun.</p>
+      <p begin="4797.042s" xml:id="p773" end="4799.591s">Aku tak punya kesempatan<br />Mengucapkan perpisahan.</p>
+      <p begin="4801.13s" xml:id="p774" end="4803.883s">Aku bahkan tak sempat meminta Tuhan<br />Untuk menyabut nyawaku saja.</p>
+      <p begin="4807.845s" xml:id="p775" end="4809.472s">Aku membuat kesalahan..,..</p>
+      <p begin="4811.974s" xml:id="p776" end="4813.897s">Dan Ruby harus membayarnya.</p>
+      <p begin="4847.76s" xml:id="p777" end="4849.103s">Bapa.</p>
+      <p begin="4850.596s" xml:id="p778" end="4851.939s">Di mana itu ?</p>
+      <p begin="4852.681s" xml:id="p779" end="4855.56s">- Di mana apa ?<br />- Bonekanya.</p>
+      <p begin="4856.268s" xml:id="p780" end="4857.77s">Kau membawanya bersamamu.</p>
+      <p begin="4862.149s" xml:id="p781" end="4863.651s">Iblis itu.</p>
+      <p begin="4864.86s" xml:id="p782" end="4866.658s">Kehadirannya.</p>
+      <p begin="4866.82s" xml:id="p783" end="4868.868s">Aku melihatnya, John.</p>
+      <p begin="4869.615s" xml:id="p784" end="4871.288s">Aku merasakannya.</p>
+      <p begin="4872.284s" xml:id="p785" end="4874.161s">Aku merasakan apa yang di-inginkannya.</p>
+      <p begin="4875.245s" xml:id="p786" end="4876.542s">Menginginkan apa ?</p>
+      <p begin="4876.705s" xml:id="p787" end="4879.458s">Mengambil Jiwanya.</p>
+      <p begin="4879.625s" xml:id="p788" end="4883.004s">Kau bilang Iblis itu tak bisa mengambil jiwa Leah<br />Dan jiwanya harus ditawarkan.</p>
+      <p begin="4883.17s" xml:id="p789" end="4884.422s">Ya.</p>
+      <p begin="4884.755s" xml:id="p790" end="4888.134s">Dan bayi tak bisa menawarkan Jiwanya.</p>
+      <p begin="4890.636s" xml:id="p791" end="4893.31s">Ya Tuhanku. Mia.</p>
+      <p begin="4904.066s" xml:id="p792" end="4905.659s">Biar ku-urus.</p>
+      <p begin="4908.529s" xml:id="p793" end="4910.031s">- Halo ?<br />- Mia.</p>
+      <p begin="4910.572s" xml:id="p794" end="4912.449s">Bapa Perez mengalami kecelakaan,<br />Dia bilang..,..</p>
+      <p begin="4917.955s" xml:id="p795" end="4920.834s">- John ?<br />- Mia, aku ingin kau keluar dari sana.</p>
+      <p begin="4922.835s" xml:id="p796" end="4924.257s">Aku akan pulang sekarang !</p>
+      <p begin="4948.444s" xml:id="p797" end="4949.946s">Bapa Perez ?</p>
+      <p begin="4956.493s" xml:id="p798" end="4958.211s">Apa semuanya baik saja ?</p>
+      <p begin="4962.624s" xml:id="p799" end="4964.092s">Bapa ?</p>
+      <p begin="4967.087s" xml:id="p800" end="4971.263s">Semoga Tuhan mengampuni Jiwamu !</p>
+      <p begin="4974.928s" xml:id="p801" end="4975.975s">Siapa itu ?</p>
+      <p begin="4990.027s" xml:id="p802" end="4991.074s">Kita harus pergi.</p>
+      <p begin="4993.03s" xml:id="p803" end="4995.158s">Leah ! Leah !</p>
+      <p begin="4998.076s" xml:id="p804" end="4999.248s">Leah !</p>
+      <p begin="5011.59s" xml:id="p805" end="5013.137s">Leah ! Leah !</p>
+      <p begin="5013.759s" xml:id="p806" end="5015.011s">Leah !</p>
+      <p begin="5016.929s" xml:id="p807" end="5019.102s">Mia, teleponnya mati.<br />Ayo.</p>
+      <p begin="5019.264s" xml:id="p808" end="5021.141s">- Ya Tuhanku, Iblis itu mengambil bayiku.<br />- Kita gunakan telepon di apartemenku.</p>
+      <p begin="5021.308s" xml:id="p809" end="5023.561s">- Kau harus ikut bersamaku.<br />- Tidak, aku harus menemukan Leah.</p>
+      <p begin="5023.727s" xml:id="p810" end="5027.277s">Kita akan merebutnya lagi, kita harus<br />Ke Gereja, mereka akan membantu kita, ayo.</p>
+      <p begin="5051.129s" xml:id="p811" end="5052.381s">Evelyn !</p>
+      <p begin="5066.645s" xml:id="p812" end="5067.862s">Leah !</p>
+      <p begin="5070.691s" xml:id="p813" end="5071.863s">Leah !</p>
+      <p begin="5078.991s" xml:id="p814" end="5080.038s">Leah !</p>
+      <p begin="5088.166s" xml:id="p815" end="5089.543s">Leah !</p>
+      <p begin="5096.383s" xml:id="p816" end="5098.181s">Apa yang kau mau dariku ?</p>
+      <p begin="5098.343s" xml:id="p817" end="5100.22s">Apa yang kau mau dariku ?!</p>
+      <p begin="5130.856s" xml:id="p818" end="5135.137s">Jiwanya</p>
+      <p begin="5158.236s" xml:id="p819" end="5160.079s">Kembalikan Leah padaku !</p>
+      <p begin="5162.574s" xml:id="p820" end="5165.293s">Kembalikan Leah padaku !!<br />Dimana Leah ?!</p>
+      <p begin="5180.425s" xml:id="p821" end="5181.768s">Ya Tuhanku.</p>
+      <p begin="5182.469s" xml:id="p822" end="5183.516s">Leah !</p>
+      <p begin="5185.013s" xml:id="p823" end="5186.265s">Leah !</p>
+      <p begin="5187.265s" xml:id="p824" end="5188.437s">Leah !</p>
+      <p begin="5190.435s" xml:id="p825" end="5191.778s">Leah !</p>
+      <p begin="5193.146s" xml:id="p826" end="5194.693s">Tidak !</p>
+      <p begin="5197.984s" xml:id="p827" end="5200.112s">Tidak ! Bayiku !</p>
+      <p begin="5202.114s" xml:id="p828" end="5203.661s">Kumohon, Tuhan, tidak !</p>
+      <p begin="5206.451s" xml:id="p829" end="5209.5s">Leah, Leah, Leah.<br />Kumohon, tidak.</p>
+      <p begin="5225.47s" xml:id="p830" end="5227.143s">Tolong ! Kumohon !</p>
+      <p begin="5227.806s" xml:id="p831" end="5228.807s">Di mana dia ?!</p>
+      <p begin="5229.725s" xml:id="p832" end="5231.898s">Pasti ada cara lainnya !</p>
+      <p begin="5238.797s" xml:id="p833" end="5243.402s">Jiwamu</p>
+      <p begin="5245.782s" xml:id="p834" end="5248.752s">Jiwamu</p>
+      <p begin="5250.62s" xml:id="p835" end="5252.964s">Jiwamu</p>
+      <p begin="5254.082s" xml:id="p836" end="5256.585s">Jiwamu</p>
+      <p begin="5257.419s" xml:id="p837" end="5258.636s">Jiwamu</p>
+      <p begin="5273.852s" xml:id="p838" end="5275.445s">Tak apa.</p>
+      <p begin="5290.827s" xml:id="p839" end="5295.128s">Ibu datang menyelamatkanmu, Leah.<br />Ibu datang.</p>
+      <p begin="5297.542s" xml:id="p840" end="5299.135s">Mia !</p>
+      <p begin="5305.091s" xml:id="p841" end="5306.593s">Mia !</p>
+      <p begin="5315.852s" xml:id="p842" end="5317.479s">Mia !</p>
+      <p begin="5318.522s" xml:id="p843" end="5319.944s">Mia !</p>
+      <p begin="5325.07s" xml:id="p844" end="5326.743s">Ibu datang.</p>
+      <p begin="5341.586s" xml:id="p845" end="5342.883s">- Mia !<br />- Hei !</p>
+      <p begin="5343.046s" xml:id="p846" end="5345.674s">- Mereka di dalam, aku tak bisa masuk.<br />- Mia ! Mia !</p>
+      <p begin="5349.177s" xml:id="p847" end="5350.52s">Mia !</p>
+      <p begin="5354.933s" xml:id="p848" end="5356.15s">Mia, jangan !</p>
+      <p begin="5357.143s" xml:id="p849" end="5358.611s">Hentikan ! Hentikan !</p>
+      <p begin="5358.77s" xml:id="p850" end="5360.772s">Hentikan ! Hentikan ! Hentikan !</p>
+      <p begin="5360.939s" xml:id="p851" end="5362.816s">Dengarkan aku.</p>
+      <p begin="5362.983s" xml:id="p852" end="5364.36s">Kumohon, turunlah.</p>
+      <p begin="5365.485s" xml:id="p853" end="5367.237s">Iblis itu mengambil bayiku.</p>
+      <p begin="5367.404s" xml:id="p854" end="5370.533s">Kumohon, kau harus turun.<br />Kumohon, turunlah.</p>
+      <p begin="5370.699s" xml:id="p855" end="5373.373s">Iblis itu menginginkan jiwa Leah<br />Harus kuganti jiwaku, John.</p>
+      <p begin="5373.535s" xml:id="p856" end="5375.412s">Mia, tidak !<br />Jangan lakukan itu.</p>
+      <p begin="5376.079s" xml:id="p857" end="5377.752s">Iblis itu tak akan mengembalikan Leah<br />Kecuali aku..,..</p>
+      <p begin="5377.914s" xml:id="p858" end="5381.885s">Tidak, Mia, dengarkan aku.<br />Leah membutuhkanmu di sini.</p>
+      <p begin="5382.043s" xml:id="p859" end="5384.011s">Aku membutuhkanmu.<br />Kumohon jangan lakukan ini.</p>
+      <p begin="5386.131s" xml:id="p860" end="5387.724s">Aku mencintaimu, John.</p>
+      <p begin="5388.425s" xml:id="p861" end="5389.677s">Aku mencintaimu.</p>
+      <p begin="5390.468s" xml:id="p862" end="5392.641s">Aku tahu kau akan menjaga Leah.</p>
+      <p begin="5393.805s" xml:id="p863" end="5395.398s">Kecuplah dia setiap malam.</p>
+      <p begin="5395.974s" xml:id="p864" end="5397.454s">- Saat dia dewasa..,..<br />- Tidak, kumohon.</p>
+      <p begin="5397.475s" xml:id="p865" end="5399.398s">Katakan padanya bahwa aku mencintainya.</p>
+      <p begin="5400.312s" xml:id="p866" end="5401.655s">Tidak ! Tidak !</p>
+      <p begin="5402.647s" xml:id="p867" end="5403.819s">Tidak ! Tidak !</p>
+      <p begin="5404.649s" xml:id="p868" end="5406.276s">- John, Tidak !<br />- Hentikan, Hentikan.</p>
+      <p begin="5406.443s" xml:id="p869" end="5408.883s">- John, Iblis menginginkan Leah !<br />- Hentikan, kau tak perlu melakukannya.</p>
+      <p begin="5408.945s" xml:id="p870" end="5410.288s">Bayiku !</p>
+      <p begin="5410.447s" xml:id="p871" end="5412.12s">- Kita cari cara lainnya.<br />- Tidak !</p>
+      <p begin="5412.282s" xml:id="p872" end="5413.909s">Mia, dengarkan dia.</p>
+      <p begin="5414.075s" xml:id="p873" end="5415.793s">Kau tak boleh melakukan ini ke Leah.</p>
+      <p begin="5416.286s" xml:id="p874" end="5418.254s">Seorang putri membutuhkan Ibunya.</p>
+      <p begin="5418.413s" xml:id="p875" end="5420.632s">Kau bilang Iblis itu memerlukan Jiwa.</p>
+      <p begin="5420.79s" xml:id="p876" end="5421.837s">Kumohon..,..</p>
+      <p begin="5422.0s" xml:id="p877" end="5423.76s">- Biarkan aku menyelamatkan Leah.<br />- Pikirkanlah lagi.</p>
+      <p begin="5423.919s" xml:id="p878" end="5427.048s">Kau tak perlu melakukan ini.<br />Dengarkan aku, tidak, hentikan.</p>
+      <p begin="5427.213s" xml:id="p879" end="5430.012s">Kau bilang akan menyelamatkan Leah<br />Daripada diriku.</p>
+      <p begin="5430.175s" xml:id="p880" end="5433.304s">- Kau sudah berjanji ! Kumohon.<br />- Pikirkan bayi kita, pikirkan Leah.</p>
+      <p begin="5433.47s" xml:id="p881" end="5435.017s">Pikirkanlah dia.</p>
+      <p begin="5435.18s" xml:id="p882" end="5436.773s">Kumohon, jangan lakukan ini pada kami.</p>
+      <p begin="5436.932s" xml:id="p883" end="5439.526s">- Iblis itu menginginkan jiwanya.<br />- Pasti ada cara lainnya.</p>
+      <p begin="5440.185s" xml:id="p884" end="5441.357s">Memang ada cara lainnya.</p>
+      <p begin="5442.062s" xml:id="p885" end="5443.735s">Akan kuatasi masalah ini.</p>
+      <p begin="5444.481s" xml:id="p886" end="5446.324s">- Evelyn.<br />- Inilah yang dimaksudkan Ruby.</p>
+      <p begin="5447.692s" xml:id="p887" end="5449.114s">- Evelyn.<br />- Tidak, tidak !</p>
+      <p begin="5455.533s" xml:id="p888" end="5457.331s">- Aku bersamamu.<br />- Evelyn.</p>
+      <p begin="5460.705s" xml:id="p889" end="5462.207s">Tidak. Evelyn.</p>
+      <p begin="5472.008s" xml:id="p890" end="5473.385s">Ya Tuhanku.</p>
+      <p begin="5475.553s" xml:id="p891" end="5477.351s">Tuhan menghargai pengorbanan</p>
+      <p begin="5478.89s" xml:id="p892" end="5483.396s">Dan pengorbanan kita menyentuh hati Tuhan<br />Serta membuatNya tergerak.</p>
+      <p begin="5485.397s" xml:id="p893" end="5488.241s">Yesus mengatakan, &quot;Inilah Firmanku&quot;</p>
+      <p begin="5488.692s" xml:id="p894" end="5491.741s">&quot;Kalian harus saling mengasihi<br />Seperti Aku mengasihimu&quot;</p>
+      <p begin="5492.654s" xml:id="p895" end="5495.032s">&quot;Tak ada kasih lebih besar daripada ini&quot;</p>
+      <p begin="5495.49s" xml:id="p896" end="5498.494s">&quot;Dimana Dia mengorbankan dirinya<br />Demi sahabat - sahabatNya&quot;</p>
+      <p begin="5501.871s" xml:id="p897" end="5503.418s">Marilah kita berdoa.</p>
+      <p begin="5522.642s" xml:id="p898" end="5524.189s">Misa yang menawan.</p>
+      <p begin="5524.352s" xml:id="p899" end="5526.73s">- Kau terlihat sehat, Bapa.<br />- Terima kasih, Mia.</p>
+      <p begin="5526.896s" xml:id="p900" end="5528.193s">Bagaimana kabarmu ?</p>
+      <p begin="5528.356s" xml:id="p901" end="5530.859s">Kami semakin membaik,<br />Terima kasih.</p>
+      <p begin="5531.026s" xml:id="p902" end="5533.074s">Apakah ada tanda - tanda Boneka itu ?</p>
+      <p begin="5533.236s" xml:id="p903" end="5536.786s">Tidak sejak malam itu.<br />Kukira Polisi mengambilnya.</p>
+      <p begin="5536.948s" xml:id="p904" end="5539.167s">Tapi Detektif Clarkin tak memiliki catatannya.</p>
+      <p begin="5540.118s" xml:id="p905" end="5544.544s">Tapi Iblis tetap ada, kau tak bisa<br />Menghancurkan sesuatu yang tak pernah dibuat.</p>
+      <p begin="5544.706s" xml:id="p906" end="5549.803s">Aku berdoa kepada mereka yang mendapat Boneka itu<br />Akan mendapat bantuan yang mereka perlukan.</p>
+      <p begin="5551.713s" xml:id="p907" end="5553.215s">Begitu juga kami.</p>
+      <p begin="5554.799s" xml:id="p908" end="5556.893s">- Senang bertemu denganmu.<br />- Sama-sama.</p>
+      <p begin="5557.052s" xml:id="p909" end="5559.43s">- Dah, Bapa.<br />- Sampai jumpa, Mia.</p>
+      <p begin="5559.596s" xml:id="p910" end="5561.564s">Oh, aku hampir lupa.</p>
+      <p begin="5562.766s" xml:id="p911" end="5565.94s">Oh, indah sekali,<br />Terima kasih, Bapa.</p>
+      <p begin="5566.644s" xml:id="p912" end="5569.898s">Karya Agung dari kasih Tuhan..,..</p>
+      <p begin="5570.065s" xml:id="p913" end="5571.988s">Adalah Cinta dari seorang Ibu.</p>
+      <p begin="5575.403s" xml:id="p914" end="5576.7s">Terima kasih.</p>
+      <p begin="5606.226s" xml:id="p915" end="5607.853s">Ada yang bisa kubantu ?</p>
+      <p begin="5608.019s" xml:id="p916" end="5612.274s">Oh, aku mencari sesuatu untuk puteriku.<br />Terima kasih.</p>
+      <p begin="5612.816s" xml:id="p917" end="5614.284s">Dia seorang perawat.</p>
+      <p begin="5614.442s" xml:id="p918" end="5616.615s">Tempat ini selalu membantu.</p>
+      <p begin="5617.529s" xml:id="p919" end="5620.658s">Kami mencari boneka ini kemanapun.</p>
+      <p begin="5620.824s" xml:id="p920" end="5622.826s">Dan tak pernah menemukannya.</p>
+      <p begin="5623.535s" xml:id="p921" end="5625.378s">Sepertinya ini barang koleksi.</p>
+      <p begin="5625.537s" xml:id="p922" end="5628.211s">Itu sebabnya harganya<br />Lebih mahal dari lainnya.</p>
+      <p begin="5629.874s" xml:id="p923" end="5632.798s">- Mau dibungkus ?<br />- Ya, tolong.</p>
+      <p begin="5639.149s" xml:id="p924" end="5643.179s">Annabelle sekarang berada di dalam peti kaca<br />Di dalam ruang artefak Ed dan Lorraine Warren</p>
+      <p begin="5643.18s" xml:id="p925" end="5646.903s">Boneka itu diberkati Pendeta dua kali sebulan</p>
+      <p begin="5649.493s" xml:id="p926" end="5653.333s">PERINGATAN !<br />JANGAN PERNAH MEMBUKANYA !!!</p>
+      <p begin="5654.38s" xml:id="p927" end="5658.594s">&quot;Ancaman Iblis akan hadir selamanya..,..<br />Kami bisa mengekangnya selama kami terus waspada&quot;</p>
+      <p begin="5658.595s" xml:id="p928" end="5663.388s">&quot;Tapi Benda itu tak akan pernah bisa dihancurkan&quot;<br />--- Lorraine Warren</p>
+      <p begin="5678.792s" xml:id="p929" end="5679.348s">Pein Akatsuki<br />WWW.SEBUAH-DONGENG.COM</p>
+      <p begin="5679.348s" xml:id="p930" end="5679.904s">Pein Akatsuki<br />WWW.SEBUAH-DONGENG.COM</p>
+      <p begin="5679.904s" xml:id="p931" end="5680.46s">Pein Akatsuki<br />WWW.SEBUAH-DONGENG.COM</p>
+      <p begin="5680.46s" xml:id="p932" end="5681.016s">Pein Akatsuki<br />WWW.SEBUAH-DONGENG.COM</p>
+      <p begin="5681.016s" xml:id="p933" end="5681.572s">Pein Akatsuki<br />WWW.SEBUAH-DONGENG.COM</p>
+      <p begin="5681.572s" xml:id="p934" end="5682.128s">Pein Akatsuki<br />WWW.SEBUAH-DONGENG.COM</p>
+      <p begin="5682.128s" xml:id="p935" end="5682.684s">Pein Akatsuki<br />WWW.SEBUAH-DONGENG.COM</p>
+      <p begin="5682.684s" xml:id="p936" end="5683.24s">Pein Akatsuki<br />WWW.SEBUAH-DONGENG.COM</p>
+      <p begin="5683.24s" xml:id="p937" end="5683.796s">Pein Akatsuki<br />WWW.SEBUAH-DONGENG.COM</p>
+      <p begin="5683.796s" xml:id="p938" end="5684.352s">Pein Akatsuki<br />WWW.SEBUAH-DONGENG.COM</p>
+      <p begin="5684.352s" xml:id="p939" end="5684.908s">Pein Akatsuki<br />WWW.SEBUAH-DONGENG.COM</p>
+      <p begin="5684.908s" xml:id="p940" end="5685.464s">Pein Akatsuki<br />WWW.SEBUAH-DONGENG.COM</p>
+      <p begin="5685.464s" xml:id="p941" end="5686.02s">Pein Akatsuki<br />WWW.SEBUAH-DONGENG.COM</p>
+      <p begin="5686.02s" xml:id="p942" end="5686.576s">Pein Akatsuki<br />WWW.SEBUAH-DONGENG.COM</p>
+      <p begin="5686.576s" xml:id="p943" end="5687.132s">Pein Akatsuki<br />WWW.SEBUAH-DONGENG.COM</p>
+      <p begin="5687.132s" xml:id="p944" end="5687.688s">Pein Akatsuki<br />WWW.SEBUAH-DONGENG.COM</p>
+      <p begin="5687.688s" xml:id="p945" end="5688.244s">Pein Akatsuki<br />WWW.SEBUAH-DONGENG.COM</p>
+      <p begin="5688.244s" xml:id="p946" end="5748.792s">Pein Akatsuki<br />WWW.SEBUAH-DONGENG.COM</p>
+    </div>
+  </body>
+</tt>
